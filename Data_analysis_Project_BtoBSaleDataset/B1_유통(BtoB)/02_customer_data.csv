@@ -1,0 +1,3459 @@
+customer_id,city,state,pop_thousand,land_sq_meter,pop_size,city_type,city_lctn
+E13313,Honolulu,HI,339,156,small,sightseeing,other
+E18097,Houston,TX,2325,1658,middle,other,south
+E16656,San Jose,CA,1003,461,middle,sightseeing,west
+E16875,Phoenix,AZ,1759,1341,middle,other,west
+E13094,Phoenix,AZ,1759,1341,middle,other,west
+E17315,New York,NY,8177,778,big,metro,east
+E14606,San Diego,CA,1429,844,middle,sightseeing,west
+E15379,Dallas,TX,1348,879,middle,other,south
+E16255,New York,NY,8177,778,big,metro,east
+E13319,San Jose,CA,1003,461,middle,sightseeing,west
+E16282,New York,NY,8177,778,big,metro,east
+E13963,Chicago,IL,2671,589,middle,metro,east
+E12957,Honolulu,HI,339,156,small,sightseeing,other
+E14462,Los Angeles,CA,3985,1216,middle,metro,west
+E17841,New York,NY,8177,778,big,metro,east
+E17188,Chicago,IL,2671,589,middle,metro,east
+E15039,San Diego,CA,1429,844,middle,sightseeing,west
+E17428,New York,NY,8177,778,big,metro,east
+E14210,Las Vegas,NV,675,367,small,sightseeing,west
+E14180,New York,NY,8177,778,big,metro,east
+E16029,New York,NY,8177,778,big,metro,east
+E17975,Houston,TX,2325,1658,middle,other,south
+E13397,Dallas,TX,1348,879,middle,other,south
+E13680,Houston,TX,2325,1658,middle,other,south
+E15164,Phoenix,AZ,1759,1341,middle,other,west
+E17457,New York,NY,8177,778,big,metro,east
+E14732,New York,NY,8177,778,big,metro,east
+E16814,Chicago,IL,2671,589,middle,metro,east
+E16725,New York,NY,8177,778,big,metro,east
+E14221,Houston,TX,2325,1658,middle,other,south
+E14553,Los Angeles,CA,3985,1216,middle,metro,west
+E13253,Los Angeles,CA,3985,1216,middle,metro,west
+E15373,New York,NY,8177,778,big,metro,east
+E16241,Los Angeles,CA,3985,1216,middle,metro,west
+E15808,San Antonio,TX,1598,1291,middle,other,south
+E17389,Los Angeles,CA,3985,1216,middle,metro,west
+E15973,Los Angeles,CA,3985,1216,middle,metro,west
+E13126,Los Angeles,CA,3985,1216,middle,metro,west
+E15498,New York,NY,8177,778,big,metro,east
+E15235,Houston,TX,2325,1658,middle,other,south
+E17675,Houston,TX,2325,1658,middle,other,south
+E16145,Chicago,IL,2671,589,middle,metro,east
+E13694,Houston,TX,2325,1658,middle,other,south
+E13798,New York,NY,8177,778,big,metro,east
+E15002,San Diego,CA,1429,844,middle,sightseeing,west
+E14189,New York,NY,8177,778,big,metro,east
+E12921,Las Vegas,NV,675,367,small,sightseeing,west
+E15841,Houston,TX,2325,1658,middle,other,south
+E15311,Houston,TX,2325,1658,middle,other,south
+E16112,Los Angeles,CA,3985,1216,middle,metro,west
+E15769,Los Angeles,CA,3985,1216,middle,metro,west
+E16719,San Antonio,TX,1598,1291,middle,other,south
+E13089,Los Angeles,CA,3985,1216,middle,metro,west
+E18109,Chicago,IL,2671,589,middle,metro,east
+E13629,Las Vegas,NV,675,367,small,sightseeing,west
+E16600,San Diego,CA,1429,844,middle,sightseeing,west
+E13715,Los Angeles,CA,3985,1216,middle,metro,west
+E14527,Dallas,TX,1348,879,middle,other,south
+E13767,New York,NY,8177,778,big,metro,east
+E15661,Dallas,TX,1348,879,middle,other,south
+E16353,Phoenix,AZ,1759,1341,middle,other,west
+E16532,San Jose,CA,1003,461,middle,sightseeing,west
+E17511,Los Angeles,CA,3985,1216,middle,metro,west
+E16316,Phoenix,AZ,1759,1341,middle,other,west
+E16033,Los Angeles,CA,3985,1216,middle,metro,west
+E15984,Chicago,IL,2671,589,middle,metro,east
+E13199,Houston,TX,2325,1658,middle,other,south
+E14739,San Jose,CA,1003,461,middle,sightseeing,west
+E15093,Chicago,IL,2671,589,middle,metro,east
+E15266,New York,NY,8177,778,big,metro,east
+E14653,Los Angeles,CA,3985,1216,middle,metro,west
+E15358,New York,NY,8177,778,big,metro,east
+E16771,Los Angeles,CA,3985,1216,middle,metro,west
+E17585,Los Angeles,CA,3985,1216,middle,metro,west
+E15046,New York,NY,8177,778,big,metro,east
+E17213,Phoenix,AZ,1759,1341,middle,other,west
+E13082,Phoenix,AZ,1759,1341,middle,other,west
+E13081,San Diego,CA,1429,844,middle,sightseeing,west
+E15464,Los Angeles,CA,3985,1216,middle,metro,west
+E15034,Philadelphia,PA,1585,348,middle,other,east
+E15298,Houston,TX,2325,1658,middle,other,south
+E12748,Phoenix,AZ,1759,1341,middle,other,west
+E13225,Phoenix,AZ,1759,1341,middle,other,west
+E14045,Philadelphia,PA,1585,348,middle,other,east
+E18226,San Diego,CA,1429,844,middle,sightseeing,west
+E13097,San Jose,CA,1003,461,middle,sightseeing,west
+E18062,Chicago,IL,2671,589,middle,metro,east
+E17949,New York,NY,8177,778,big,metro,east
+E15271,San Diego,CA,1429,844,middle,sightseeing,west
+E13458,New York,NY,8177,778,big,metro,east
+E14135,San Diego,CA,1429,844,middle,sightseeing,west
+E14680,Phoenix,AZ,1759,1341,middle,other,west
+E17368,New York,NY,8177,778,big,metro,east
+E14618,New York,NY,8177,778,big,metro,east
+E14258,San Diego,CA,1429,844,middle,sightseeing,west
+E15719,Phoenix,AZ,1759,1341,middle,other,west
+E13368,Dallas,TX,1348,879,middle,other,south
+E17634,New York,NY,8177,778,big,metro,east
+E15823,New York,NY,8177,778,big,metro,east
+E16676,Los Angeles,CA,3985,1216,middle,metro,west
+E14299,New York,NY,8177,778,big,metro,east
+E12841,San Jose,CA,1003,461,middle,sightseeing,west
+E16424,Philadelphia,PA,1585,348,middle,other,east
+E18283,San Diego,CA,1429,844,middle,sightseeing,west
+E13764,New York,NY,8177,778,big,metro,east
+E13576,New York,NY,8177,778,big,metro,east
+E13093,Los Angeles,CA,3985,1216,middle,metro,west
+E13599,Chicago,IL,2671,589,middle,metro,east
+E18041,Philadelphia,PA,1585,348,middle,other,east
+E13408,Phoenix,AZ,1759,1341,middle,other,west
+E13656,Houston,TX,2325,1658,middle,other,south
+E12971,San Diego,CA,1429,844,middle,sightseeing,west
+E14505,New York,NY,8177,778,big,metro,east
+E15061,New York,NY,8177,778,big,metro,east
+E14312,Chicago,IL,2671,589,middle,metro,east
+E13280,Dallas,TX,1348,879,middle,other,south
+E15845,Las Vegas,NV,675,367,small,sightseeing,west
+E13488,New York,NY,8177,778,big,metro,east
+E15101,Philadelphia,PA,1585,348,middle,other,east
+E16094,San Diego,CA,1429,844,middle,sightseeing,west
+E16705,Chicago,IL,2671,589,middle,metro,east
+E16422,Houston,TX,2325,1658,middle,other,south
+E14961,Los Angeles,CA,3985,1216,middle,metro,west
+E14426,Las Vegas,NV,675,367,small,sightseeing,west
+E16306,New York,NY,8177,778,big,metro,east
+E13115,New York,NY,8177,778,big,metro,east
+E16191,New York,NY,8177,778,big,metro,east
+E13047,New York,NY,8177,778,big,metro,east
+E17696,Los Angeles,CA,3985,1216,middle,metro,west
+E14702,New York,NY,8177,778,big,metro,east
+E14031,Los Angeles,CA,3985,1216,middle,metro,west
+E13187,Houston,TX,2325,1658,middle,other,south
+E14047,Dallas,TX,1348,879,middle,other,south
+E16150,Philadelphia,PA,1585,348,middle,other,east
+E16013,Los Angeles,CA,3985,1216,middle,metro,west
+E16567,New York,NY,8177,778,big,metro,east
+E17230,New York,NY,8177,778,big,metro,east
+E12947,San Diego,CA,1429,844,middle,sightseeing,west
+E14828,Phoenix,AZ,1759,1341,middle,other,west
+E16839,New York,NY,8177,778,big,metro,east
+E16019,New York,NY,8177,778,big,metro,east
+E16551,New York,NY,8177,778,big,metro,east
+E13842,New York,NY,8177,778,big,metro,east
+E15194,Philadelphia,PA,1585,348,middle,other,east
+E16889,Los Angeles,CA,3985,1216,middle,metro,west
+E16473,Chicago,IL,2671,589,middle,metro,east
+E12829,New York,NY,8177,778,big,metro,east
+E13750,Philadelphia,PA,1585,348,middle,other,east
+E13426,Dallas,TX,1348,879,middle,other,south
+E13534,Philadelphia,PA,1585,348,middle,other,east
+E14217,Chicago,IL,2671,589,middle,metro,east
+E15607,San Jose,CA,1003,461,middle,sightseeing,west
+E15139,San Antonio,TX,1598,1291,middle,other,south
+E16779,Los Angeles,CA,3985,1216,middle,metro,west
+E14298,Chicago,IL,2671,589,middle,metro,east
+E17707,Miami,FL,483,93,small,sightseeing,south
+E15649,Houston,TX,2325,1658,middle,other,south
+E18198,Los Angeles,CA,3985,1216,middle,metro,west
+E15601,New York,NY,8177,778,big,metro,east
+E18179,Los Angeles,CA,3985,1216,middle,metro,west
+E17284,New York,NY,8177,778,big,metro,east
+E13233,Chicago,IL,2671,589,middle,metro,east
+E14889,Los Angeles,CA,3985,1216,middle,metro,west
+E16955,Philadelphia,PA,1585,348,middle,other,east
+E14672,San Antonio,TX,1598,1291,middle,other,south
+E13593,Chicago,IL,2671,589,middle,metro,east
+E14867,New York,NY,8177,778,big,metro,east
+E15485,Houston,TX,2325,1658,middle,other,south
+E17243,Philadelphia,PA,1585,348,middle,other,east
+E16923,San Diego,CA,1429,844,middle,sightseeing,west
+E15465,New York,NY,8177,778,big,metro,east
+E13162,Los Angeles,CA,3985,1216,middle,metro,west
+E13183,New York,NY,8177,778,big,metro,east
+E13668,New York,NY,8177,778,big,metro,east
+E17095,Chicago,IL,2671,589,middle,metro,east
+E17796,Chicago,IL,2671,589,middle,metro,east
+E12939,Phoenix,AZ,1759,1341,middle,other,west
+E14810,Los Angeles,CA,3985,1216,middle,metro,west
+E14800,San Diego,CA,1429,844,middle,sightseeing,west
+E15611,Las Vegas,NV,675,367,small,sightseeing,west
+E14472,Phoenix,AZ,1759,1341,middle,other,west
+E17114,Chicago,IL,2671,589,middle,metro,east
+E13758,San Antonio,TX,1598,1291,middle,other,south
+E15708,Phoenix,AZ,1759,1341,middle,other,west
+E15059,Miami,FL,483,93,small,sightseeing,south
+E16326,New York,NY,8177,778,big,metro,east
+E17128,New York,NY,8177,778,big,metro,east
+E14761,Las Vegas,NV,675,367,small,sightseeing,west
+E17555,Los Angeles,CA,3985,1216,middle,metro,west
+E13102,Houston,TX,2325,1658,middle,other,south
+E13069,Chicago,IL,2671,589,middle,metro,east
+E16735,San Antonio,TX,1598,1291,middle,other,south
+E16833,New York,NY,8177,778,big,metro,east
+E17800,New York,NY,8177,778,big,metro,east
+E16748,Las Vegas,NV,675,367,small,sightseeing,west
+E14755,Houston,TX,2325,1658,middle,other,south
+E16549,San Antonio,TX,1598,1291,middle,other,south
+E15005,Miami,FL,483,93,small,sightseeing,south
+E17757,Las Vegas,NV,675,367,small,sightseeing,west
+E13565,San Antonio,TX,1598,1291,middle,other,south
+E18260,San Diego,CA,1429,844,middle,sightseeing,west
+E17218,Miami,FL,483,93,small,sightseeing,south
+E15799,New York,NY,8177,778,big,metro,east
+E15107,Las Vegas,NV,675,367,small,sightseeing,west
+E14395,Los Angeles,CA,3985,1216,middle,metro,west
+E18032,New York,NY,8177,778,big,metro,east
+E13451,New York,NY,8177,778,big,metro,east
+E14794,Houston,TX,2325,1658,middle,other,south
+E16350,Philadelphia,PA,1585,348,middle,other,east
+E18171,Houston,TX,2325,1658,middle,other,south
+E16279,Los Angeles,CA,3985,1216,middle,metro,west
+E13004,New York,NY,8177,778,big,metro,east
+E15100,Philadelphia,PA,1585,348,middle,other,east
+E17811,Houston,TX,2325,1658,middle,other,south
+E16850,Los Angeles,CA,3985,1216,middle,metro,west
+E14321,Los Angeles,CA,3985,1216,middle,metro,west
+E15326,San Antonio,TX,1598,1291,middle,other,south
+E17849,New York,NY,8177,778,big,metro,east
+E13672,San Diego,CA,1429,844,middle,sightseeing,west
+E14229,New York,NY,8177,778,big,metro,east
+E17381,Phoenix,AZ,1759,1341,middle,other,west
+E13107,Houston,TX,2325,1658,middle,other,south
+E16497,Chicago,IL,2671,589,middle,metro,east
+E16303,San Antonio,TX,1598,1291,middle,other,south
+E14060,New York,NY,8177,778,big,metro,east
+E17406,Chicago,IL,2671,589,middle,metro,east
+E15044,Phoenix,AZ,1759,1341,middle,other,west
+E17739,San Jose,CA,1003,461,middle,sightseeing,west
+E15281,Chicago,IL,2671,589,middle,metro,east
+E15867,San Antonio,TX,1598,1291,middle,other,south
+E17450,San Diego,CA,1429,844,middle,sightseeing,west
+E13473,Phoenix,AZ,1759,1341,middle,other,west
+E14320,Philadelphia,PA,1585,348,middle,other,east
+E16670,New York,NY,8177,778,big,metro,east
+E15640,Phoenix,AZ,1759,1341,middle,other,west
+E13491,Honolulu,HI,339,156,small,sightseeing,other
+E17742,New York,NY,8177,778,big,metro,east
+E16122,New York,NY,8177,778,big,metro,east
+E16351,San Antonio,TX,1598,1291,middle,other,south
+E13468,Los Angeles,CA,3985,1216,middle,metro,west
+E13144,New York,NY,8177,778,big,metro,east
+E15346,Las Vegas,NV,675,367,small,sightseeing,west
+E15370,New York,NY,8177,778,big,metro,east
+E17629,Dallas,TX,1348,879,middle,other,south
+E16203,Houston,TX,2325,1658,middle,other,south
+E14295,San Jose,CA,1003,461,middle,sightseeing,west
+E16034,San Antonio,TX,1598,1291,middle,other,south
+E13078,Houston,TX,2325,1658,middle,other,south
+E17365,New York,NY,8177,778,big,metro,east
+E15189,Los Angeles,CA,3985,1216,middle,metro,west
+E14669,Los Angeles,CA,3985,1216,middle,metro,west
+E18095,New York,NY,8177,778,big,metro,east
+E15518,New York,NY,8177,778,big,metro,east
+E15749,Los Angeles,CA,3985,1216,middle,metro,west
+E14209,Phoenix,AZ,1759,1341,middle,other,west
+E16042,New York,NY,8177,778,big,metro,east
+E15569,San Diego,CA,1429,844,middle,sightseeing,west
+E17569,Dallas,TX,1348,879,middle,other,south
+E13784,San Antonio,TX,1598,1291,middle,other,south
+E14733,Honolulu,HI,339,156,small,sightseeing,other
+E13862,Phoenix,AZ,1759,1341,middle,other,west
+E16791,Philadelphia,PA,1585,348,middle,other,east
+E16235,Las Vegas,NV,675,367,small,sightseeing,west
+E15602,Dallas,TX,1348,879,middle,other,south
+E14270,New York,NY,8177,778,big,metro,east
+E15197,New York,NY,8177,778,big,metro,east
+E16655,Dallas,TX,1348,879,middle,other,south
+E16359,Chicago,IL,2671,589,middle,metro,east
+E17965,San Jose,CA,1003,461,middle,sightseeing,west
+E15953,New York,NY,8177,778,big,metro,east
+E17324,San Antonio,TX,1598,1291,middle,other,south
+E16701,New York,NY,8177,778,big,metro,east
+E12980,Philadelphia,PA,1585,348,middle,other,east
+E13267,Phoenix,AZ,1759,1341,middle,other,west
+E14748,Dallas,TX,1348,879,middle,other,south
+E13113,San Antonio,TX,1598,1291,middle,other,south
+E16554,New York,NY,8177,778,big,metro,east
+E15939,New York,NY,8177,778,big,metro,east
+E14587,New York,NY,8177,778,big,metro,east
+E14715,San Antonio,TX,1598,1291,middle,other,south
+E17338,New York,NY,8177,778,big,metro,east
+E14185,New York,NY,8177,778,big,metro,east
+E14040,Philadelphia,PA,1585,348,middle,other,east
+E15727,Chicago,IL,2671,589,middle,metro,east
+E14514,New York,NY,8177,778,big,metro,east
+E12868,Chicago,IL,2671,589,middle,metro,east
+E15171,New York,NY,8177,778,big,metro,east
+E14167,New York,NY,8177,778,big,metro,east
+E15291,New York,NY,8177,778,big,metro,east
+E17048,San Diego,CA,1429,844,middle,sightseeing,west
+E16525,Chicago,IL,2671,589,middle,metro,east
+E17364,New York,NY,8177,778,big,metro,east
+E13284,Dallas,TX,1348,879,middle,other,south
+E17068,New York,NY,8177,778,big,metro,east
+E15290,Philadelphia,PA,1585,348,middle,other,east
+E16500,San Jose,CA,1003,461,middle,sightseeing,west
+E12951,San Diego,CA,1429,844,middle,sightseeing,west
+E15835,Los Angeles,CA,3985,1216,middle,metro,west
+E18190,Philadelphia,PA,1585,348,middle,other,east
+E16161,New York,NY,8177,778,big,metro,east
+E13993,Dallas,TX,1348,879,middle,other,south
+E17848,Houston,TX,2325,1658,middle,other,south
+E17581,Dallas,TX,1348,879,middle,other,south
+E14114,San Antonio,TX,1598,1291,middle,other,south
+E15447,San Antonio,TX,1598,1291,middle,other,south
+E17019,New York,NY,8177,778,big,metro,east
+E15694,Chicago,IL,2671,589,middle,metro,east
+E14085,San Jose,CA,1003,461,middle,sightseeing,west
+E16315,Houston,TX,2325,1658,middle,other,south
+E14978,New York,NY,8177,778,big,metro,east
+E16395,New York,NY,8177,778,big,metro,east
+E15510,Chicago,IL,2671,589,middle,metro,east
+E16503,Honolulu,HI,339,156,small,sightseeing,other
+E13614,Honolulu,HI,339,156,small,sightseeing,other
+E15513,New York,NY,8177,778,big,metro,east
+E13246,Los Angeles,CA,3985,1216,middle,metro,west
+E14215,San Jose,CA,1003,461,middle,sightseeing,west
+E18092,Philadelphia,PA,1585,348,middle,other,east
+E17744,San Jose,CA,1003,461,middle,sightseeing,west
+E15916,Las Vegas,NV,675,367,small,sightseeing,west
+E15687,Philadelphia,PA,1585,348,middle,other,east
+E18085,San Jose,CA,1003,461,middle,sightseeing,west
+E16775,Los Angeles,CA,3985,1216,middle,metro,west
+E16493,New York,NY,8177,778,big,metro,east
+E13385,Los Angeles,CA,3985,1216,middle,metro,west
+E15626,Los Angeles,CA,3985,1216,middle,metro,west
+E15615,New York,NY,8177,778,big,metro,east
+E16233,New York,NY,8177,778,big,metro,east
+E18229,Los Angeles,CA,3985,1216,middle,metro,west
+E13777,Chicago,IL,2671,589,middle,metro,east
+E15213,Phoenix,AZ,1759,1341,middle,other,west
+E13854,Los Angeles,CA,3985,1216,middle,metro,west
+E12877,San Diego,CA,1429,844,middle,sightseeing,west
+E13090,San Antonio,TX,1598,1291,middle,other,south
+E14175,Los Angeles,CA,3985,1216,middle,metro,west
+E18106,New York,NY,8177,778,big,metro,east
+E17685,New York,NY,8177,778,big,metro,east
+E15159,Philadelphia,PA,1585,348,middle,other,east
+E15033,Houston,TX,2325,1658,middle,other,south
+E15570,New York,NY,8177,778,big,metro,east
+E14329,New York,NY,8177,778,big,metro,east
+E17402,New York,NY,8177,778,big,metro,east
+E16638,New York,NY,8177,778,big,metro,east
+E17954,Chicago,IL,2671,589,middle,metro,east
+E14099,New York,NY,8177,778,big,metro,east
+E15854,Phoenix,AZ,1759,1341,middle,other,west
+E13455,Los Angeles,CA,3985,1216,middle,metro,west
+E17961,New York,NY,8177,778,big,metro,east
+E16746,Dallas,TX,1348,879,middle,other,south
+E16401,New York,NY,8177,778,big,metro,east
+E16206,Dallas,TX,1348,879,middle,other,south
+E13782,San Diego,CA,1429,844,middle,sightseeing,west
+E12924,New York,NY,8177,778,big,metro,east
+E16593,New York,NY,8177,778,big,metro,east
+E15535,Los Angeles,CA,3985,1216,middle,metro,west
+E12989,Phoenix,AZ,1759,1341,middle,other,west
+E13700,New York,NY,8177,778,big,metro,east
+E13064,Phoenix,AZ,1759,1341,middle,other,west
+E13048,New York,NY,8177,778,big,metro,east
+E18069,Los Angeles,CA,3985,1216,middle,metro,west
+E13634,Dallas,TX,1348,879,middle,other,south
+E14404,Chicago,IL,2671,589,middle,metro,east
+E16059,Phoenix,AZ,1759,1341,middle,other,west
+E16843,Dallas,TX,1348,879,middle,other,south
+E17064,Chicago,IL,2671,589,middle,metro,east
+E17609,New York,NY,8177,778,big,metro,east
+E15673,Chicago,IL,2671,589,middle,metro,east
+E12872,Phoenix,AZ,1759,1341,middle,other,west
+E14976,New York,NY,8177,778,big,metro,east
+E13527,Phoenix,AZ,1759,1341,middle,other,west
+E13155,New York,NY,8177,778,big,metro,east
+E15696,Chicago,IL,2671,589,middle,metro,east
+E14176,New York,NY,8177,778,big,metro,east
+E15316,New York,NY,8177,778,big,metro,east
+E18223,Chicago,IL,2671,589,middle,metro,east
+E15296,New York,NY,8177,778,big,metro,east
+E17988,Phoenix,AZ,1759,1341,middle,other,west
+E17690,Houston,TX,2325,1658,middle,other,south
+E12820,Houston,TX,2325,1658,middle,other,south
+E13001,New York,NY,8177,778,big,metro,east
+E13982,Los Angeles,CA,3985,1216,middle,metro,west
+E14101,Los Angeles,CA,3985,1216,middle,metro,west
+E14525,Houston,TX,2325,1658,middle,other,south
+E17288,Los Angeles,CA,3985,1216,middle,metro,west
+E14667,New York,NY,8177,778,big,metro,east
+E15596,San Antonio,TX,1598,1291,middle,other,south
+E14898,New York,NY,8177,778,big,metro,east
+E13769,New York,NY,8177,778,big,metro,east
+E13209,New York,NY,8177,778,big,metro,east
+E14238,Chicago,IL,2671,589,middle,metro,east
+E17730,Chicago,IL,2671,589,middle,metro,east
+E13983,Phoenix,AZ,1759,1341,middle,other,west
+E13929,San Diego,CA,1429,844,middle,sightseeing,west
+E14657,New York,NY,8177,778,big,metro,east
+E15738,Los Angeles,CA,3985,1216,middle,metro,west
+E13859,Phoenix,AZ,1759,1341,middle,other,west
+E18212,San Diego,CA,1429,844,middle,sightseeing,west
+E14292,New York,NY,8177,778,big,metro,east
+E13883,New York,NY,8177,778,big,metro,east
+E18233,San Diego,CA,1429,844,middle,sightseeing,west
+E17018,Chicago,IL,2671,589,middle,metro,east
+E14242,New York,NY,8177,778,big,metro,east
+E14688,New York,NY,8177,778,big,metro,east
+E12346,Houston,TX,2325,1658,middle,other,south
+E13898,New York,NY,8177,778,big,metro,east
+E16948,New York,NY,8177,778,big,metro,east
+E17491,Houston,TX,2325,1658,middle,other,south
+E16997,Chicago,IL,2671,589,middle,metro,east
+E14696,Dallas,TX,1348,879,middle,other,south
+E15395,New York,NY,8177,778,big,metro,east
+E18118,Los Angeles,CA,3985,1216,middle,metro,west
+E15023,Phoenix,AZ,1759,1341,middle,other,west
+E13984,Los Angeles,CA,3985,1216,middle,metro,west
+E13693,Chicago,IL,2671,589,middle,metro,east
+E14415,Houston,TX,2325,1658,middle,other,south
+E13263,Chicago,IL,2671,589,middle,metro,east
+E14428,New York,NY,8177,778,big,metro,east
+E17576,Houston,TX,2325,1658,middle,other,south
+E17419,San Diego,CA,1429,844,middle,sightseeing,west
+E17708,Chicago,IL,2671,589,middle,metro,east
+E17091,New York,NY,8177,778,big,metro,east
+E14090,Dallas,TX,1348,879,middle,other,south
+E14769,San Antonio,TX,1598,1291,middle,other,south
+E16904,Las Vegas,NV,675,367,small,sightseeing,west
+E17722,Los Angeles,CA,3985,1216,middle,metro,west
+E15606,Los Angeles,CA,3985,1216,middle,metro,west
+E12826,San Diego,CA,1429,844,middle,sightseeing,west
+E14307,New York,NY,8177,778,big,metro,east
+E15831,New York,NY,8177,778,big,metro,east
+E13310,Los Angeles,CA,3985,1216,middle,metro,west
+E17611,New York,NY,8177,778,big,metro,east
+E14916,New York,NY,8177,778,big,metro,east
+E17602,New York,NY,8177,778,big,metro,east
+E17231,Houston,TX,2325,1658,middle,other,south
+E14572,New York,NY,8177,778,big,metro,east
+E13502,New York,NY,8177,778,big,metro,east
+E14784,New York,NY,8177,778,big,metro,east
+E15938,Phoenix,AZ,1759,1341,middle,other,west
+E17418,Los Angeles,CA,3985,1216,middle,metro,west
+E14779,Los Angeles,CA,3985,1216,middle,metro,west
+E15529,Dallas,TX,1348,879,middle,other,south
+E15262,Philadelphia,PA,1585,348,middle,other,east
+E17787,Las Vegas,NV,675,367,small,sightseeing,west
+E17862,Los Angeles,CA,3985,1216,middle,metro,west
+E14735,New York,NY,8177,778,big,metro,east
+E16892,Phoenix,AZ,1759,1341,middle,other,west
+E12747,New York,NY,8177,778,big,metro,east
+E17771,Los Angeles,CA,3985,1216,middle,metro,west
+E15422,Philadelphia,PA,1585,348,middle,other,east
+E14062,Los Angeles,CA,3985,1216,middle,metro,west
+E13008,New York,NY,8177,778,big,metro,east
+E14770,New York,NY,8177,778,big,metro,east
+E16912,San Diego,CA,1429,844,middle,sightseeing,west
+E14309,Dallas,TX,1348,879,middle,other,south
+E14713,Chicago,IL,2671,589,middle,metro,east
+E15174,New York,NY,8177,778,big,metro,east
+E14895,New York,NY,8177,778,big,metro,east
+E18061,Phoenix,AZ,1759,1341,middle,other,west
+E17504,Philadelphia,PA,1585,348,middle,other,east
+E17890,Philadelphia,PA,1585,348,middle,other,east
+E16387,Chicago,IL,2671,589,middle,metro,east
+E16618,New York,NY,8177,778,big,metro,east
+E17277,New York,NY,8177,778,big,metro,east
+E14441,Chicago,IL,2671,589,middle,metro,east
+E13999,Phoenix,AZ,1759,1341,middle,other,west
+E14088,Miami,FL,483,93,small,sightseeing,south
+E16928,Phoenix,AZ,1759,1341,middle,other,west
+E17094,Dallas,TX,1348,879,middle,other,south
+E13969,Chicago,IL,2671,589,middle,metro,east
+E17238,Dallas,TX,1348,879,middle,other,south
+E14692,Phoenix,AZ,1759,1341,middle,other,west
+E14092,Los Angeles,CA,3985,1216,middle,metro,west
+E12970,Los Angeles,CA,3985,1216,middle,metro,west
+E16210,Las Vegas,NV,675,367,small,sightseeing,west
+E18239,Houston,TX,2325,1658,middle,other,south
+E17306,New York,NY,8177,778,big,metro,east
+E18037,Houston,TX,2325,1658,middle,other,south
+E17799,Las Vegas,NV,675,367,small,sightseeing,west
+E15658,New York,NY,8177,778,big,metro,east
+E17677,San Diego,CA,1429,844,middle,sightseeing,west
+E17889,Chicago,IL,2671,589,middle,metro,east
+E17644,Los Angeles,CA,3985,1216,middle,metro,west
+E17714,Las Vegas,NV,675,367,small,sightseeing,west
+E12916,San Antonio,TX,1598,1291,middle,other,south
+E17769,Chicago,IL,2671,589,middle,metro,east
+E14450,New York,NY,8177,778,big,metro,east
+E16085,San Diego,CA,1429,844,middle,sightseeing,west
+E13659,Los Angeles,CA,3985,1216,middle,metro,west
+E16931,New York,NY,8177,778,big,metro,east
+E15167,San Diego,CA,1429,844,middle,sightseeing,west
+E13050,New York,NY,8177,778,big,metro,east
+E15443,New York,NY,8177,778,big,metro,east
+E13230,Los Angeles,CA,3985,1216,middle,metro,west
+E14224,Los Angeles,CA,3985,1216,middle,metro,west
+E17858,San Diego,CA,1429,844,middle,sightseeing,west
+E13742,Los Angeles,CA,3985,1216,middle,metro,west
+E17673,San Jose,CA,1003,461,middle,sightseeing,west
+E16983,Chicago,IL,2671,589,middle,metro,east
+E14068,Miami,FL,483,93,small,sightseeing,south
+E13068,Dallas,TX,1348,879,middle,other,south
+E16477,Chicago,IL,2671,589,middle,metro,east
+E14744,New York,NY,8177,778,big,metro,east
+E14796,Chicago,IL,2671,589,middle,metro,east
+E14368,New York,NY,8177,778,big,metro,east
+E15497,Chicago,IL,2671,589,middle,metro,east
+E16558,Houston,TX,2325,1658,middle,other,south
+E13819,New York,NY,8177,778,big,metro,east
+E14501,San Diego,CA,1429,844,middle,sightseeing,west
+E14782,New York,NY,8177,778,big,metro,east
+E16782,Los Angeles,CA,3985,1216,middle,metro,west
+E17861,New York,NY,8177,778,big,metro,east
+E14334,San Jose,CA,1003,461,middle,sightseeing,west
+E17591,Philadelphia,PA,1585,348,middle,other,east
+E18161,Philadelphia,PA,1585,348,middle,other,east
+E15820,San Diego,CA,1429,844,middle,sightseeing,west
+E18136,Chicago,IL,2671,589,middle,metro,east
+E16660,Houston,TX,2325,1658,middle,other,south
+E13396,San Antonio,TX,1598,1291,middle,other,south
+E15179,Dallas,TX,1348,879,middle,other,south
+E12935,Phoenix,AZ,1759,1341,middle,other,west
+E16730,Philadelphia,PA,1585,348,middle,other,east
+E14541,Houston,TX,2325,1658,middle,other,south
+E16168,Houston,TX,2325,1658,middle,other,south
+E15078,Chicago,IL,2671,589,middle,metro,east
+E13551,New York,NY,8177,778,big,metro,east
+E15797,Los Angeles,CA,3985,1216,middle,metro,west
+E13117,San Antonio,TX,1598,1291,middle,other,south
+E15052,Houston,TX,2325,1658,middle,other,south
+E17001,New York,NY,8177,778,big,metro,east
+E14130,Chicago,IL,2671,589,middle,metro,east
+E15222,San Diego,CA,1429,844,middle,sightseeing,west
+E13615,Chicago,IL,2671,589,middle,metro,east
+E13901,Houston,TX,2325,1658,middle,other,south
+E14113,San Antonio,TX,1598,1291,middle,other,south
+E13158,Los Angeles,CA,3985,1216,middle,metro,west
+E18075,New York,NY,8177,778,big,metro,east
+E18077,Los Angeles,CA,3985,1216,middle,metro,west
+E14257,Los Angeles,CA,3985,1216,middle,metro,west
+E14409,Los Angeles,CA,3985,1216,middle,metro,west
+E15218,Philadelphia,PA,1585,348,middle,other,east
+E14543,Las Vegas,NV,675,367,small,sightseeing,west
+E15110,Phoenix,AZ,1759,1341,middle,other,west
+E14534,Dallas,TX,1348,879,middle,other,south
+E15967,New York,NY,8177,778,big,metro,east
+E16757,Houston,TX,2325,1658,middle,other,south
+E12854,New York,NY,8177,778,big,metro,east
+E18144,San Antonio,TX,1598,1291,middle,other,south
+E18008,New York,NY,8177,778,big,metro,east
+E18277,Las Vegas,NV,675,367,small,sightseeing,west
+E14849,San Antonio,TX,1598,1291,middle,other,south
+E14389,Los Angeles,CA,3985,1216,middle,metro,west
+E17236,New York,NY,8177,778,big,metro,east
+E16531,Dallas,TX,1348,879,middle,other,south
+E13703,San Diego,CA,1429,844,middle,sightseeing,west
+E15339,Los Angeles,CA,3985,1216,middle,metro,west
+E13198,San Antonio,TX,1598,1291,middle,other,south
+E16222,Houston,TX,2325,1658,middle,other,south
+E17460,Phoenix,AZ,1759,1341,middle,other,west
+E14341,New York,NY,8177,778,big,metro,east
+E13168,Houston,TX,2325,1658,middle,other,south
+E16943,San Jose,CA,1003,461,middle,sightseeing,west
+E17515,Houston,TX,2325,1658,middle,other,south
+E17082,Honolulu,HI,339,156,small,sightseeing,other
+E14248,Los Angeles,CA,3985,1216,middle,metro,west
+E13002,San Diego,CA,1429,844,middle,sightseeing,west
+E16133,Dallas,TX,1348,879,middle,other,south
+E13049,Phoenix,AZ,1759,1341,middle,other,west
+E14548,New York,NY,8177,778,big,metro,east
+E13405,Los Angeles,CA,3985,1216,middle,metro,west
+E14049,Los Angeles,CA,3985,1216,middle,metro,west
+E15777,Philadelphia,PA,1585,348,middle,other,east
+E16043,Dallas,TX,1348,879,middle,other,south
+E15812,Chicago,IL,2671,589,middle,metro,east
+E13837,New York,NY,8177,778,big,metro,east
+E17118,New York,NY,8177,778,big,metro,east
+E17735,Dallas,TX,1348,879,middle,other,south
+E14616,Philadelphia,PA,1585,348,middle,other,east
+E14233,New York,NY,8177,778,big,metro,east
+E17888,New York,NY,8177,778,big,metro,east
+E17075,New York,NY,8177,778,big,metro,east
+E14243,Los Angeles,CA,3985,1216,middle,metro,west
+E16714,Philadelphia,PA,1585,348,middle,other,east
+E13098,San Jose,CA,1003,461,middle,sightseeing,west
+E17027,New York,NY,8177,778,big,metro,east
+E17786,San Jose,CA,1003,461,middle,sightseeing,west
+E16124,Chicago,IL,2671,589,middle,metro,east
+E16409,San Jose,CA,1003,461,middle,sightseeing,west
+E13754,New York,NY,8177,778,big,metro,east
+E15227,Miami,FL,483,93,small,sightseeing,south
+E12997,Dallas,TX,1348,879,middle,other,south
+E17372,New York,NY,8177,778,big,metro,east
+E13890,Los Angeles,CA,3985,1216,middle,metro,west
+E15215,Chicago,IL,2671,589,middle,metro,east
+E16918,New York,NY,8177,778,big,metro,east
+E16882,New York,NY,8177,778,big,metro,east
+E16496,Houston,TX,2325,1658,middle,other,south
+E14440,Houston,TX,2325,1658,middle,other,south
+E17311,New York,NY,8177,778,big,metro,east
+E15910,New York,NY,8177,778,big,metro,east
+E16949,Chicago,IL,2671,589,middle,metro,east
+E14560,Chicago,IL,2671,589,middle,metro,east
+E16700,Phoenix,AZ,1759,1341,middle,other,west
+E14709,New York,NY,8177,778,big,metro,east
+E14970,New York,NY,8177,778,big,metro,east
+E14701,New York,NY,8177,778,big,metro,east
+E16767,Houston,TX,2325,1658,middle,other,south
+E13506,Phoenix,AZ,1759,1341,middle,other,west
+E14738,Los Angeles,CA,3985,1216,middle,metro,west
+E15827,Houston,TX,2325,1658,middle,other,south
+E14290,New York,NY,8177,778,big,metro,east
+E17540,Los Angeles,CA,3985,1216,middle,metro,west
+E14239,San Jose,CA,1003,461,middle,sightseeing,west
+E18125,Phoenix,AZ,1759,1341,middle,other,west
+E13328,Houston,TX,2325,1658,middle,other,south
+E13174,Los Angeles,CA,3985,1216,middle,metro,west
+E15549,San Antonio,TX,1598,1291,middle,other,south
+E15864,New York,NY,8177,778,big,metro,east
+E14662,New York,NY,8177,778,big,metro,east
+E17180,Chicago,IL,2671,589,middle,metro,east
+E15057,Chicago,IL,2671,589,middle,metro,east
+E14146,Las Vegas,NV,675,367,small,sightseeing,west
+E13330,Los Angeles,CA,3985,1216,middle,metro,west
+E13552,Philadelphia,PA,1585,348,middle,other,east
+E12853,San Diego,CA,1429,844,middle,sightseeing,west
+E13538,San Antonio,TX,1598,1291,middle,other,south
+E16755,Philadelphia,PA,1585,348,middle,other,east
+E14133,New York,NY,8177,778,big,metro,east
+E16327,New York,NY,8177,778,big,metro,east
+E16523,San Jose,CA,1003,461,middle,sightseeing,west
+E15527,New York,NY,8177,778,big,metro,east
+E15547,New York,NY,8177,778,big,metro,east
+E14659,Chicago,IL,2671,589,middle,metro,east
+E13141,New York,NY,8177,778,big,metro,east
+E15365,Los Angeles,CA,3985,1216,middle,metro,west
+E13707,New York,NY,8177,778,big,metro,east
+E15079,San Antonio,TX,1598,1291,middle,other,south
+E13709,Chicago,IL,2671,589,middle,metro,east
+E14051,New York,NY,8177,778,big,metro,east
+E18016,Phoenix,AZ,1759,1341,middle,other,west
+E17329,Los Angeles,CA,3985,1216,middle,metro,west
+E14401,Los Angeles,CA,3985,1216,middle,metro,west
+E17920,Philadelphia,PA,1585,348,middle,other,east
+E14532,Chicago,IL,2671,589,middle,metro,east
+E14805,New York,NY,8177,778,big,metro,east
+E17062,San Jose,CA,1003,461,middle,sightseeing,west
+E16897,Chicago,IL,2671,589,middle,metro,east
+E15579,Dallas,TX,1348,879,middle,other,south
+E16985,New York,NY,8177,778,big,metro,east
+E13148,New York,NY,8177,778,big,metro,east
+E14595,New York,NY,8177,778,big,metro,east
+E16770,New York,NY,8177,778,big,metro,east
+E13161,Los Angeles,CA,3985,1216,middle,metro,west
+E15415,San Jose,CA,1003,461,middle,sightseeing,west
+E17431,Los Angeles,CA,3985,1216,middle,metro,west
+E16816,Phoenix,AZ,1759,1341,middle,other,west
+E17463,New York,NY,8177,778,big,metro,east
+E14502,Los Angeles,CA,3985,1216,middle,metro,west
+E13869,Chicago,IL,2671,589,middle,metro,east
+E17239,Los Angeles,CA,3985,1216,middle,metro,west
+E13324,Los Angeles,CA,3985,1216,middle,metro,west
+E15448,Houston,TX,2325,1658,middle,other,south
+E16570,Dallas,TX,1348,879,middle,other,south
+E17314,New York,NY,8177,778,big,metro,east
+E17220,Los Angeles,CA,3985,1216,middle,metro,west
+E18245,San Diego,CA,1429,844,middle,sightseeing,west
+E17373,San Jose,CA,1003,461,middle,sightseeing,west
+E18145,Los Angeles,CA,3985,1216,middle,metro,west
+E14467,San Jose,CA,1003,461,middle,sightseeing,west
+E12908,New York,NY,8177,778,big,metro,east
+E17621,New York,NY,8177,778,big,metro,east
+E15144,New York,NY,8177,778,big,metro,east
+E14776,Los Angeles,CA,3985,1216,middle,metro,west
+E17894,Los Angeles,CA,3985,1216,middle,metro,west
+E16403,Dallas,TX,1348,879,middle,other,south
+E16407,Chicago,IL,2671,589,middle,metro,east
+E17580,San Diego,CA,1429,844,middle,sightseeing,west
+E17619,San Diego,CA,1429,844,middle,sightseeing,west
+E17256,Houston,TX,2325,1658,middle,other,south
+E17604,Phoenix,AZ,1759,1341,middle,other,west
+E14006,Las Vegas,NV,675,367,small,sightseeing,west
+E13600,New York,NY,8177,778,big,metro,east
+E15058,Los Angeles,CA,3985,1216,middle,metro,west
+E17375,Dallas,TX,1348,879,middle,other,south
+E15881,New York,NY,8177,778,big,metro,east
+E15240,Los Angeles,CA,3985,1216,middle,metro,west
+E14496,Philadelphia,PA,1585,348,middle,other,east
+E17147,Dallas,TX,1348,879,middle,other,south
+E13881,San Antonio,TX,1598,1291,middle,other,south
+E16612,Los Angeles,CA,3985,1216,middle,metro,west
+E14627,Houston,TX,2325,1658,middle,other,south
+E18055,New York,NY,8177,778,big,metro,east
+E17356,San Diego,CA,1429,844,middle,sightseeing,west
+E17884,Los Angeles,CA,3985,1216,middle,metro,west
+E12836,New York,NY,8177,778,big,metro,east
+E14850,New York,NY,8177,778,big,metro,east
+E13939,Philadelphia,PA,1585,348,middle,other,east
+E16745,Los Angeles,CA,3985,1216,middle,metro,west
+E17228,Phoenix,AZ,1759,1341,middle,other,west
+E13606,New York,NY,8177,778,big,metro,east
+E13494,New York,NY,8177,778,big,metro,east
+E13802,San Diego,CA,1429,844,middle,sightseeing,west
+E12929,New York,NY,8177,778,big,metro,east
+E16419,Chicago,IL,2671,589,middle,metro,east
+E17035,Houston,TX,2325,1658,middle,other,south
+E15203,Los Angeles,CA,3985,1216,middle,metro,west
+E16515,New York,NY,8177,778,big,metro,east
+E18202,New York,NY,8177,778,big,metro,east
+E14549,New York,NY,8177,778,big,metro,east
+E15981,New York,NY,8177,778,big,metro,east
+E16110,Los Angeles,CA,3985,1216,middle,metro,west
+E17376,Chicago,IL,2671,589,middle,metro,east
+E16011,Dallas,TX,1348,879,middle,other,south
+E13110,New York,NY,8177,778,big,metro,east
+E16716,Houston,TX,2325,1658,middle,other,south
+E15940,New York,NY,8177,778,big,metro,east
+E15971,Phoenix,AZ,1759,1341,middle,other,west
+E15838,San Antonio,TX,1598,1291,middle,other,south
+E14665,New York,NY,8177,778,big,metro,east
+E14457,New York,NY,8177,778,big,metro,east
+E17863,Dallas,TX,1348,879,middle,other,south
+E15589,Phoenix,AZ,1759,1341,middle,other,west
+E14411,Chicago,IL,2671,589,middle,metro,east
+E17560,Phoenix,AZ,1759,1341,middle,other,west
+E15226,Los Angeles,CA,3985,1216,middle,metro,west
+E14460,San Antonio,TX,1598,1291,middle,other,south
+E16156,Los Angeles,CA,3985,1216,middle,metro,west
+E13728,Houston,TX,2325,1658,middle,other,south
+E14127,San Diego,CA,1429,844,middle,sightseeing,west
+E16378,Las Vegas,NV,675,367,small,sightseeing,west
+E13894,Houston,TX,2325,1658,middle,other,south
+E13824,San Jose,CA,1003,461,middle,sightseeing,west
+E18250,Los Angeles,CA,3985,1216,middle,metro,west
+E15270,New York,NY,8177,778,big,metro,east
+E14188,New York,NY,8177,778,big,metro,east
+E18017,San Antonio,TX,1598,1291,middle,other,south
+E17912,Phoenix,AZ,1759,1341,middle,other,west
+E15421,New York,NY,8177,778,big,metro,east
+E17446,Phoenix,AZ,1759,1341,middle,other,west
+E16717,Houston,TX,2325,1658,middle,other,south
+E14443,Miami,FL,483,93,small,sightseeing,south
+E14798,New York,NY,8177,778,big,metro,east
+E12990,Honolulu,HI,339,156,small,sightseeing,other
+E17223,San Antonio,TX,1598,1291,middle,other,south
+E16992,Phoenix,AZ,1759,1341,middle,other,west
+E17337,New York,NY,8177,778,big,metro,east
+E16405,New York,NY,8177,778,big,metro,east
+E17071,Chicago,IL,2671,589,middle,metro,east
+E13873,Los Angeles,CA,3985,1216,middle,metro,west
+E17362,Chicago,IL,2671,589,middle,metro,east
+E13394,Houston,TX,2325,1658,middle,other,south
+E16333,Philadelphia,PA,1585,348,middle,other,east
+E16030,New York,NY,8177,778,big,metro,east
+E14044,San Diego,CA,1429,844,middle,sightseeing,west
+E16684,Phoenix,AZ,1759,1341,middle,other,west
+E13800,New York,NY,8177,778,big,metro,east
+E17672,Philadelphia,PA,1585,348,middle,other,east
+E18178,San Diego,CA,1429,844,middle,sightseeing,west
+E17214,New York,NY,8177,778,big,metro,east
+E13581,Houston,TX,2325,1658,middle,other,south
+E14540,New York,NY,8177,778,big,metro,east
+E13539,Houston,TX,2325,1658,middle,other,south
+E15885,Chicago,IL,2671,589,middle,metro,east
+E14497,New York,NY,8177,778,big,metro,east
+E17507,New York,NY,8177,778,big,metro,east
+E13208,Las Vegas,NV,675,367,small,sightseeing,west
+E17334,Phoenix,AZ,1759,1341,middle,other,west
+E13871,Los Angeles,CA,3985,1216,middle,metro,west
+E16938,New York,NY,8177,778,big,metro,east
+E14466,Los Angeles,CA,3985,1216,middle,metro,west
+E17929,Los Angeles,CA,3985,1216,middle,metro,west
+E14778,Los Angeles,CA,3985,1216,middle,metro,west
+E17517,New York,NY,8177,778,big,metro,east
+E17226,New York,NY,8177,778,big,metro,east
+E13137,Chicago,IL,2671,589,middle,metro,east
+E13725,Philadelphia,PA,1585,348,middle,other,east
+E13309,Dallas,TX,1348,879,middle,other,south
+E12842,Philadelphia,PA,1585,348,middle,other,east
+E16109,Phoenix,AZ,1759,1341,middle,other,west
+E17291,Los Angeles,CA,3985,1216,middle,metro,west
+E15090,Houston,TX,2325,1658,middle,other,south
+E15199,San Jose,CA,1003,461,middle,sightseeing,west
+E13911,Houston,TX,2325,1658,middle,other,south
+E14194,New York,NY,8177,778,big,metro,east
+E14842,New York,NY,8177,778,big,metro,east
+E17293,New York,NY,8177,778,big,metro,east
+E16456,Los Angeles,CA,3985,1216,middle,metro,west
+E17392,Los Angeles,CA,3985,1216,middle,metro,west
+E13584,New York,NY,8177,778,big,metro,east
+E17105,Chicago,IL,2671,589,middle,metro,east
+E14438,New York,NY,8177,778,big,metro,east
+E12956,New York,NY,8177,778,big,metro,east
+E15781,Chicago,IL,2671,589,middle,metro,east
+E14410,Chicago,IL,2671,589,middle,metro,east
+E14600,Phoenix,AZ,1759,1341,middle,other,west
+E14952,New York,NY,8177,778,big,metro,east
+E17302,Los Angeles,CA,3985,1216,middle,metro,west
+E16686,New York,NY,8177,778,big,metro,east
+E17613,Houston,TX,2325,1658,middle,other,south
+E13334,New York,NY,8177,778,big,metro,east
+E17692,Los Angeles,CA,3985,1216,middle,metro,west
+E13955,Chicago,IL,2671,589,middle,metro,east
+E17162,San Antonio,TX,1598,1291,middle,other,south
+E17774,New York,NY,8177,778,big,metro,east
+E15407,Los Angeles,CA,3985,1216,middle,metro,west
+E15577,Philadelphia,PA,1585,348,middle,other,east
+E16332,San Antonio,TX,1598,1291,middle,other,south
+E18225,Philadelphia,PA,1585,348,middle,other,east
+E14048,New York,NY,8177,778,big,metro,east
+E16945,Houston,TX,2325,1658,middle,other,south
+E18102,New York,NY,8177,778,big,metro,east
+E14293,Los Angeles,CA,3985,1216,middle,metro,west
+E14030,San Antonio,TX,1598,1291,middle,other,south
+E14475,Houston,TX,2325,1658,middle,other,south
+E17859,Houston,TX,2325,1658,middle,other,south
+E16458,San Jose,CA,1003,461,middle,sightseeing,west
+E16265,San Antonio,TX,1598,1291,middle,other,south
+E16553,San Diego,CA,1429,844,middle,sightseeing,west
+E16037,San Diego,CA,1429,844,middle,sightseeing,west
+E15753,New York,NY,8177,778,big,metro,east
+E17655,Philadelphia,PA,1585,348,middle,other,east
+E16713,New York,NY,8177,778,big,metro,east
+E14562,Dallas,TX,1348,879,middle,other,south
+E16951,San Jose,CA,1003,461,middle,sightseeing,west
+E16998,Honolulu,HI,339,156,small,sightseeing,other
+E13133,Los Angeles,CA,3985,1216,middle,metro,west
+E17881,Honolulu,HI,339,156,small,sightseeing,other
+E15843,Dallas,TX,1348,879,middle,other,south
+E17083,New York,NY,8177,778,big,metro,east
+E15970,Los Angeles,CA,3985,1216,middle,metro,west
+E13590,New York,NY,8177,778,big,metro,east
+E17537,Phoenix,AZ,1759,1341,middle,other,west
+E16143,Miami,FL,483,93,small,sightseeing,south
+E17412,San Antonio,TX,1598,1291,middle,other,south
+E16607,New York,NY,8177,778,big,metro,east
+E17843,New York,NY,8177,778,big,metro,east
+E17358,Chicago,IL,2671,589,middle,metro,east
+E13706,Phoenix,AZ,1759,1341,middle,other,west
+E17940,New York,NY,8177,778,big,metro,east
+E17686,San Jose,CA,1003,461,middle,sightseeing,west
+E14431,Houston,TX,2325,1658,middle,other,south
+E15809,Chicago,IL,2671,589,middle,metro,east
+E17377,Dallas,TX,1348,879,middle,other,south
+E14465,New York,NY,8177,778,big,metro,east
+E18093,Chicago,IL,2671,589,middle,metro,east
+E16027,New York,NY,8177,778,big,metro,east
+E12857,San Diego,CA,1429,844,middle,sightseeing,west
+E18230,San Jose,CA,1003,461,middle,sightseeing,west
+E18168,New York,NY,8177,778,big,metro,east
+E16425,New York,NY,8177,778,big,metro,east
+E17850,Miami,FL,483,93,small,sightseeing,south
+E16711,Phoenix,AZ,1759,1341,middle,other,west
+E16842,San Diego,CA,1429,844,middle,sightseeing,west
+E14081,Dallas,TX,1348,879,middle,other,south
+E12931,New York,NY,8177,778,big,metro,east
+E15796,Los Angeles,CA,3985,1216,middle,metro,west
+E12967,Phoenix,AZ,1759,1341,middle,other,west
+E14555,New York,NY,8177,778,big,metro,east
+E17790,New York,NY,8177,778,big,metro,east
+E15114,New York,NY,8177,778,big,metro,east
+E17809,Chicago,IL,2671,589,middle,metro,east
+E15544,Phoenix,AZ,1759,1341,middle,other,west
+E15133,Chicago,IL,2671,589,middle,metro,east
+E17705,Philadelphia,PA,1585,348,middle,other,east
+E18087,San Antonio,TX,1598,1291,middle,other,south
+E17924,San Antonio,TX,1598,1291,middle,other,south
+E12897,Chicago,IL,2671,589,middle,metro,east
+E17512,New York,NY,8177,778,big,metro,east
+E15550,Houston,TX,2325,1658,middle,other,south
+E13021,San Jose,CA,1003,461,middle,sightseeing,west
+E14676,Los Angeles,CA,3985,1216,middle,metro,west
+E12913,Dallas,TX,1348,879,middle,other,south
+E18159,Los Angeles,CA,3985,1216,middle,metro,west
+E14304,New York,NY,8177,778,big,metro,east
+E15299,Dallas,TX,1348,879,middle,other,south
+E15638,Los Angeles,CA,3985,1216,middle,metro,west
+E12943,Los Angeles,CA,3985,1216,middle,metro,west
+E13875,Los Angeles,CA,3985,1216,middle,metro,west
+E15856,Phoenix,AZ,1759,1341,middle,other,west
+E15406,San Diego,CA,1429,844,middle,sightseeing,west
+E18084,Los Angeles,CA,3985,1216,middle,metro,west
+E17282,Los Angeles,CA,3985,1216,middle,metro,west
+E17126,Phoenix,AZ,1759,1341,middle,other,west
+E16434,Chicago,IL,2671,589,middle,metro,east
+E17050,Dallas,TX,1348,879,middle,other,south
+E17085,Miami,FL,483,93,small,sightseeing,south
+E17454,Los Angeles,CA,3985,1216,middle,metro,west
+E13171,Miami,FL,483,93,small,sightseeing,south
+E17472,Honolulu,HI,339,156,small,sightseeing,other
+E17255,Houston,TX,2325,1658,middle,other,south
+E16084,New York,NY,8177,778,big,metro,east
+E17667,San Jose,CA,1003,461,middle,sightseeing,west
+E17937,New York,NY,8177,778,big,metro,east
+E14631,Los Angeles,CA,3985,1216,middle,metro,west
+E16098,New York,NY,8177,778,big,metro,east
+E13381,New York,NY,8177,778,big,metro,east
+E12963,Honolulu,HI,339,156,small,sightseeing,other
+E15236,New York,NY,8177,778,big,metro,east
+E17659,Dallas,TX,1348,879,middle,other,south
+E17346,San Antonio,TX,1598,1291,middle,other,south
+E13475,Phoenix,AZ,1759,1341,middle,other,west
+E13717,San Diego,CA,1429,844,middle,sightseeing,west
+E13157,New York,NY,8177,778,big,metro,east
+E14644,San Diego,CA,1429,844,middle,sightseeing,west
+E12993,San Antonio,TX,1598,1291,middle,other,south
+E17571,New York,NY,8177,778,big,metro,east
+E12867,New York,NY,8177,778,big,metro,east
+E16979,Chicago,IL,2671,589,middle,metro,east
+E16738,New York,NY,8177,778,big,metro,east
+E15122,New York,NY,8177,778,big,metro,east
+E13848,Phoenix,AZ,1759,1341,middle,other,west
+E17612,Miami,FL,483,93,small,sightseeing,south
+E15811,San Antonio,TX,1598,1291,middle,other,south
+E17348,New York,NY,8177,778,big,metro,east
+E13893,Los Angeles,CA,3985,1216,middle,metro,west
+E13941,New York,NY,8177,778,big,metro,east
+E14035,Philadelphia,PA,1585,348,middle,other,east
+E13623,Houston,TX,2325,1658,middle,other,south
+E14346,Dallas,TX,1348,879,middle,other,south
+E16431,Los Angeles,CA,3985,1216,middle,metro,west
+E16317,Houston,TX,2325,1658,middle,other,south
+E14825,New York,NY,8177,778,big,metro,east
+E16073,San Diego,CA,1429,844,middle,sightseeing,west
+E14477,Los Angeles,CA,3985,1216,middle,metro,west
+E17819,Phoenix,AZ,1759,1341,middle,other,west
+E14760,New York,NY,8177,778,big,metro,east
+E17530,Philadelphia,PA,1585,348,middle,other,east
+E13880,Houston,TX,2325,1658,middle,other,south
+E14897,Dallas,TX,1348,879,middle,other,south
+E15810,Los Angeles,CA,3985,1216,middle,metro,west
+E16509,Phoenix,AZ,1759,1341,middle,other,west
+E14386,San Diego,CA,1429,844,middle,sightseeing,west
+E17567,San Diego,CA,1429,844,middle,sightseeing,west
+E14530,Chicago,IL,2671,589,middle,metro,east
+E15670,New York,NY,8177,778,big,metro,east
+E16126,San Diego,CA,1429,844,middle,sightseeing,west
+E15759,Los Angeles,CA,3985,1216,middle,metro,west
+E15024,Philadelphia,PA,1585,348,middle,other,east
+E14609,Miami,FL,483,93,small,sightseeing,south
+E15356,New York,NY,8177,778,big,metro,east
+E13414,New York,NY,8177,778,big,metro,east
+E12823,San Jose,CA,1003,461,middle,sightseeing,west
+E14944,New York,NY,8177,778,big,metro,east
+E16494,San Diego,CA,1429,844,middle,sightseeing,west
+E14959,Dallas,TX,1348,879,middle,other,south
+E16148,New York,NY,8177,778,big,metro,east
+E18219,Los Angeles,CA,3985,1216,middle,metro,west
+E17422,Houston,TX,2325,1658,middle,other,south
+E17175,New York,NY,8177,778,big,metro,east
+E18257,Chicago,IL,2671,589,middle,metro,east
+E17857,San Diego,CA,1429,844,middle,sightseeing,west
+E14107,New York,NY,8177,778,big,metro,east
+E13305,Philadelphia,PA,1585,348,middle,other,east
+E13327,San Diego,CA,1429,844,middle,sightseeing,west
+E13018,Los Angeles,CA,3985,1216,middle,metro,west
+E13718,Philadelphia,PA,1585,348,middle,other,east
+E15382,Chicago,IL,2671,589,middle,metro,east
+E14754,Los Angeles,CA,3985,1216,middle,metro,west
+E17865,New York,NY,8177,778,big,metro,east
+E13151,New York,NY,8177,778,big,metro,east
+E13178,San Diego,CA,1429,844,middle,sightseeing,west
+E18116,Los Angeles,CA,3985,1216,middle,metro,west
+E13085,Philadelphia,PA,1585,348,middle,other,east
+E15903,Houston,TX,2325,1658,middle,other,south
+E15785,San Diego,CA,1429,844,middle,sightseeing,west
+E16556,New York,NY,8177,778,big,metro,east
+E18138,Houston,TX,2325,1658,middle,other,south
+E14379,Chicago,IL,2671,589,middle,metro,east
+E14211,New York,NY,8177,778,big,metro,east
+E14371,New York,NY,8177,778,big,metro,east
+E13425,Los Angeles,CA,3985,1216,middle,metro,west
+E12852,Chicago,IL,2671,589,middle,metro,east
+E15228,Houston,TX,2325,1658,middle,other,south
+E13012,Miami,FL,483,93,small,sightseeing,south
+E16182,San Diego,CA,1429,844,middle,sightseeing,west
+E13489,Chicago,IL,2671,589,middle,metro,east
+E13904,New York,NY,8177,778,big,metro,east
+E14057,San Diego,CA,1429,844,middle,sightseeing,west
+E15755,Phoenix,AZ,1759,1341,middle,other,west
+E16393,San Jose,CA,1003,461,middle,sightseeing,west
+E13932,Phoenix,AZ,1759,1341,middle,other,west
+E16726,Dallas,TX,1348,879,middle,other,south
+E13799,Los Angeles,CA,3985,1216,middle,metro,west
+E13951,Los Angeles,CA,3985,1216,middle,metro,west
+E16765,Chicago,IL,2671,589,middle,metro,east
+E18172,New York,NY,8177,778,big,metro,east
+E16566,Los Angeles,CA,3985,1216,middle,metro,west
+E12891,San Diego,CA,1429,844,middle,sightseeing,west
+E16466,Houston,TX,2325,1658,middle,other,south
+E14878,San Antonio,TX,1598,1291,middle,other,south
+E16115,Los Angeles,CA,3985,1216,middle,metro,west
+E14162,San Antonio,TX,1598,1291,middle,other,south
+E13301,New York,NY,8177,778,big,metro,east
+E14803,Phoenix,AZ,1759,1341,middle,other,west
+E17838,Houston,TX,2325,1658,middle,other,south
+E13744,Los Angeles,CA,3985,1216,middle,metro,west
+E12988,New York,NY,8177,778,big,metro,east
+E17323,Chicago,IL,2671,589,middle,metro,east
+E18094,Dallas,TX,1348,879,middle,other,south
+E15129,Los Angeles,CA,3985,1216,middle,metro,west
+E17361,Phoenix,AZ,1759,1341,middle,other,west
+E18155,New York,NY,8177,778,big,metro,east
+E15321,Chicago,IL,2671,589,middle,metro,east
+E13477,New York,NY,8177,778,big,metro,east
+E15065,Chicago,IL,2671,589,middle,metro,east
+E16980,Chicago,IL,2671,589,middle,metro,east
+E15146,Los Angeles,CA,3985,1216,middle,metro,west
+E14639,Los Angeles,CA,3985,1216,middle,metro,west
+E13410,New York,NY,8177,778,big,metro,east
+E13044,San Diego,CA,1429,844,middle,sightseeing,west
+E16441,Dallas,TX,1348,879,middle,other,south
+E16014,San Antonio,TX,1598,1291,middle,other,south
+E17526,Houston,TX,2325,1658,middle,other,south
+E14520,Las Vegas,NV,675,367,small,sightseeing,west
+E17994,New York,NY,8177,778,big,metro,east
+E16546,Houston,TX,2325,1658,middle,other,south
+E13038,Chicago,IL,2671,589,middle,metro,east
+E17002,New York,NY,8177,778,big,metro,east
+E15722,New York,NY,8177,778,big,metro,east
+E16349,Houston,TX,2325,1658,middle,other,south
+E16913,Chicago,IL,2671,589,middle,metro,east
+E17442,New York,NY,8177,778,big,metro,east
+E18114,New York,NY,8177,778,big,metro,east
+E15303,New York,NY,8177,778,big,metro,east
+E12845,Chicago,IL,2671,589,middle,metro,east
+E18188,San Antonio,TX,1598,1291,middle,other,south
+E16045,Las Vegas,NV,675,367,small,sightseeing,west
+E16907,New York,NY,8177,778,big,metro,east
+E16573,New York,NY,8177,778,big,metro,east
+E13421,Los Angeles,CA,3985,1216,middle,metro,west
+E18196,Chicago,IL,2671,589,middle,metro,east
+E13077,Chicago,IL,2671,589,middle,metro,east
+E13285,Houston,TX,2325,1658,middle,other,south
+E13184,Dallas,TX,1348,879,middle,other,south
+E18151,New York,NY,8177,778,big,metro,east
+E13804,New York,NY,8177,778,big,metro,east
+E17499,Chicago,IL,2671,589,middle,metro,east
+E15397,Houston,TX,2325,1658,middle,other,south
+E17706,New York,NY,8177,778,big,metro,east
+E14276,San Diego,CA,1429,844,middle,sightseeing,west
+E13453,New York,NY,8177,778,big,metro,east
+E17135,Houston,TX,2325,1658,middle,other,south
+E15605,San Diego,CA,1429,844,middle,sightseeing,west
+E16394,Dallas,TX,1348,879,middle,other,south
+E17711,New York,NY,8177,778,big,metro,east
+E13865,New York,NY,8177,778,big,metro,east
+E16940,San Diego,CA,1429,844,middle,sightseeing,west
+E14289,Los Angeles,CA,3985,1216,middle,metro,west
+E15858,Miami,FL,483,93,small,sightseeing,south
+E16208,Chicago,IL,2671,589,middle,metro,east
+E17063,Philadelphia,PA,1585,348,middle,other,east
+E13149,Phoenix,AZ,1759,1341,middle,other,west
+E18068,Houston,TX,2325,1658,middle,other,south
+E15932,San Jose,CA,1003,461,middle,sightseeing,west
+E16692,Los Angeles,CA,3985,1216,middle,metro,west
+E15590,Honolulu,HI,339,156,small,sightseeing,other
+E17171,Los Angeles,CA,3985,1216,middle,metro,west
+E18231,Phoenix,AZ,1759,1341,middle,other,west
+E14004,Los Angeles,CA,3985,1216,middle,metro,west
+E17139,Las Vegas,NV,675,367,small,sightseeing,west
+E14513,New York,NY,8177,778,big,metro,east
+E13118,New York,NY,8177,778,big,metro,east
+E15974,Los Angeles,CA,3985,1216,middle,metro,west
+E17830,Philadelphia,PA,1585,348,middle,other,east
+E14841,Philadelphia,PA,1585,348,middle,other,east
+E16086,Philadelphia,PA,1585,348,middle,other,east
+E14231,Houston,TX,2325,1658,middle,other,south
+E15805,Houston,TX,2325,1658,middle,other,south
+E17867,San Antonio,TX,1598,1291,middle,other,south
+E14880,Phoenix,AZ,1759,1341,middle,other,west
+E15121,Chicago,IL,2671,589,middle,metro,east
+E18065,San Diego,CA,1429,844,middle,sightseeing,west
+E17117,Houston,TX,2325,1658,middle,other,south
+E17017,Miami,FL,483,93,small,sightseeing,south
+E12945,Miami,FL,483,93,small,sightseeing,south
+E18056,New York,NY,8177,778,big,metro,east
+E16072,Houston,TX,2325,1658,middle,other,south
+E16838,New York,NY,8177,778,big,metro,east
+E15543,Los Angeles,CA,3985,1216,middle,metro,west
+E16722,San Antonio,TX,1598,1291,middle,other,south
+E13751,New York,NY,8177,778,big,metro,east
+E17090,Chicago,IL,2671,589,middle,metro,east
+E15847,New York,NY,8177,778,big,metro,east
+E13851,New York,NY,8177,778,big,metro,east
+E13345,Chicago,IL,2671,589,middle,metro,east
+E13870,Honolulu,HI,339,156,small,sightseeing,other
+E12839,Dallas,TX,1348,879,middle,other,south
+E17034,New York,NY,8177,778,big,metro,east
+E16592,Phoenix,AZ,1759,1341,middle,other,west
+E15712,Phoenix,AZ,1759,1341,middle,other,west
+E13362,Los Angeles,CA,3985,1216,middle,metro,west
+E14470,San Diego,CA,1429,844,middle,sightseeing,west
+E17388,New York,NY,8177,778,big,metro,east
+E16841,Philadelphia,PA,1585,348,middle,other,east
+E13753,Houston,TX,2325,1658,middle,other,south
+E13666,Houston,TX,2325,1658,middle,other,south
+E14481,San Diego,CA,1429,844,middle,sightseeing,west
+E13792,Los Angeles,CA,3985,1216,middle,metro,west
+E17663,Chicago,IL,2671,589,middle,metro,east
+E13973,New York,NY,8177,778,big,metro,east
+E15990,Houston,TX,2325,1658,middle,other,south
+E14573,Los Angeles,CA,3985,1216,middle,metro,west
+E13684,New York,NY,8177,778,big,metro,east
+E13261,Los Angeles,CA,3985,1216,middle,metro,west
+E16598,Los Angeles,CA,3985,1216,middle,metro,west
+E14147,San Antonio,TX,1598,1291,middle,other,south
+E15951,New York,NY,8177,778,big,metro,east
+E13971,Chicago,IL,2671,589,middle,metro,east
+E17516,Los Angeles,CA,3985,1216,middle,metro,west
+E13630,San Jose,CA,1003,461,middle,sightseeing,west
+E14157,Los Angeles,CA,3985,1216,middle,metro,west
+E13636,Phoenix,AZ,1759,1341,middle,other,west
+E13610,Los Angeles,CA,3985,1216,middle,metro,west
+E14745,Houston,TX,2325,1658,middle,other,south
+E15996,New York,NY,8177,778,big,metro,east
+E14036,New York,NY,8177,778,big,metro,east
+E16057,Houston,TX,2325,1658,middle,other,south
+E15724,Chicago,IL,2671,589,middle,metro,east
+E13675,Phoenix,AZ,1759,1341,middle,other,west
+E15062,San Antonio,TX,1598,1291,middle,other,south
+E14227,New York,NY,8177,778,big,metro,east
+E16668,San Diego,CA,1429,844,middle,sightseeing,west
+E16667,New York,NY,8177,778,big,metro,east
+E13509,New York,NY,8177,778,big,metro,east
+E15874,Phoenix,AZ,1759,1341,middle,other,west
+E16187,New York,NY,8177,778,big,metro,east
+E16339,New York,NY,8177,778,big,metro,east
+E14078,New York,NY,8177,778,big,metro,east
+E14046,Houston,TX,2325,1658,middle,other,south
+E13292,San Antonio,TX,1598,1291,middle,other,south
+E16427,New York,NY,8177,778,big,metro,east
+E14056,Houston,TX,2325,1658,middle,other,south
+E15656,New York,NY,8177,778,big,metro,east
+E16518,San Antonio,TX,1598,1291,middle,other,south
+E17165,Houston,TX,2325,1658,middle,other,south
+E17462,Chicago,IL,2671,589,middle,metro,east
+E14620,New York,NY,8177,778,big,metro,east
+E14740,Chicago,IL,2671,589,middle,metro,east
+E16462,New York,NY,8177,778,big,metro,east
+E16078,San Antonio,TX,1598,1291,middle,other,south
+E16915,Phoenix,AZ,1759,1341,middle,other,west
+E15676,New York,NY,8177,778,big,metro,east
+E18044,New York,NY,8177,778,big,metro,east
+E15709,Chicago,IL,2671,589,middle,metro,east
+E15241,Houston,TX,2325,1658,middle,other,south
+E12933,Honolulu,HI,339,156,small,sightseeing,other
+E15092,New York,NY,8177,778,big,metro,east
+E14506,Houston,TX,2325,1658,middle,other,south
+E15319,New York,NY,8177,778,big,metro,east
+E16212,New York,NY,8177,778,big,metro,east
+E15257,San Jose,CA,1003,461,middle,sightseeing,west
+E14656,San Antonio,TX,1598,1291,middle,other,south
+E13884,San Jose,CA,1003,461,middle,sightseeing,west
+E15456,Houston,TX,2325,1658,middle,other,south
+E15660,Chicago,IL,2671,589,middle,metro,east
+E13166,San Diego,CA,1429,844,middle,sightseeing,west
+E16389,Phoenix,AZ,1759,1341,middle,other,west
+E15750,Philadelphia,PA,1585,348,middle,other,east
+E17449,New York,NY,8177,778,big,metro,east
+E15416,New York,NY,8177,778,big,metro,east
+E13497,Los Angeles,CA,3985,1216,middle,metro,west
+E15733,New York,NY,8177,778,big,metro,east
+E16678,Chicago,IL,2671,589,middle,metro,east
+E12834,Dallas,TX,1348,879,middle,other,south
+E13722,San Antonio,TX,1598,1291,middle,other,south
+E15067,Houston,TX,2325,1658,middle,other,south
+E16128,New York,NY,8177,778,big,metro,east
+E15641,New York,NY,8177,778,big,metro,east
+E17770,New York,NY,8177,778,big,metro,east
+E15622,Dallas,TX,1348,879,middle,other,south
+E14473,New York,NY,8177,778,big,metro,east
+E15104,New York,NY,8177,778,big,metro,east
+E15643,New York,NY,8177,778,big,metro,east
+E16792,Houston,TX,2325,1658,middle,other,south
+E15031,Honolulu,HI,339,156,small,sightseeing,other
+E15636,San Antonio,TX,1598,1291,middle,other,south
+E12873,New York,NY,8177,778,big,metro,east
+E17923,New York,NY,8177,778,big,metro,east
+E16217,Philadelphia,PA,1585,348,middle,other,east
+E17738,New York,NY,8177,778,big,metro,east
+E17426,Houston,TX,2325,1658,middle,other,south
+E14388,Dallas,TX,1348,879,middle,other,south
+E16957,New York,NY,8177,778,big,metro,east
+E15304,Los Angeles,CA,3985,1216,middle,metro,west
+E16571,New York,NY,8177,778,big,metro,east
+E17646,Houston,TX,2325,1658,middle,other,south
+E14483,Los Angeles,CA,3985,1216,middle,metro,west
+E15087,New York,NY,8177,778,big,metro,east
+E16709,New York,NY,8177,778,big,metro,east
+E17856,Phoenix,AZ,1759,1341,middle,other,west
+E15053,San Antonio,TX,1598,1291,middle,other,south
+E18218,Philadelphia,PA,1585,348,middle,other,east
+E16159,New York,NY,8177,778,big,metro,east
+E17995,San Jose,CA,1003,461,middle,sightseeing,west
+E14524,New York,NY,8177,778,big,metro,east
+E17374,New York,NY,8177,778,big,metro,east
+E17789,Philadelphia,PA,1585,348,middle,other,east
+E17416,Las Vegas,NV,675,367,small,sightseeing,west
+E17652,Las Vegas,NV,675,367,small,sightseeing,west
+E13476,New York,NY,8177,778,big,metro,east
+E17873,New York,NY,8177,778,big,metro,east
+E17700,New York,NY,8177,778,big,metro,east
+E15393,Phoenix,AZ,1759,1341,middle,other,west
+E13959,Houston,TX,2325,1658,middle,other,south
+E13014,Los Angeles,CA,3985,1216,middle,metro,west
+E13931,Dallas,TX,1348,879,middle,other,south
+E13382,Los Angeles,CA,3985,1216,middle,metro,west
+E15220,Los Angeles,CA,3985,1216,middle,metro,west
+E14570,Los Angeles,CA,3985,1216,middle,metro,west
+E14447,New York,NY,8177,778,big,metro,east
+E13557,Chicago,IL,2671,589,middle,metro,east
+E16449,San Antonio,TX,1598,1291,middle,other,south
+E15514,Chicago,IL,2671,589,middle,metro,east
+E17325,New York,NY,8177,778,big,metro,east
+E14995,Las Vegas,NV,675,367,small,sightseeing,west
+E16414,Dallas,TX,1348,879,middle,other,south
+E15681,Houston,TX,2325,1658,middle,other,south
+E14670,Chicago,IL,2671,589,middle,metro,east
+E15675,Los Angeles,CA,3985,1216,middle,metro,west
+E17191,Los Angeles,CA,3985,1216,middle,metro,west
+E17535,San Jose,CA,1003,461,middle,sightseeing,west
+E15400,San Diego,CA,1429,844,middle,sightseeing,west
+E14903,San Jose,CA,1003,461,middle,sightseeing,west
+E14499,Houston,TX,2325,1658,middle,other,south
+E18211,New York,NY,8177,778,big,metro,east
+E14161,Chicago,IL,2671,589,middle,metro,east
+E14504,Chicago,IL,2671,589,middle,metro,east
+E15572,New York,NY,8177,778,big,metro,east
+E17107,New York,NY,8177,778,big,metro,east
+E14247,Chicago,IL,2671,589,middle,metro,east
+E15554,New York,NY,8177,778,big,metro,east
+E14915,Houston,TX,2325,1658,middle,other,south
+E16136,Phoenix,AZ,1759,1341,middle,other,west
+E18280,San Diego,CA,1429,844,middle,sightseeing,west
+E13344,Los Angeles,CA,3985,1216,middle,metro,west
+E16621,Philadelphia,PA,1585,348,middle,other,east
+E16225,Dallas,TX,1348,879,middle,other,south
+E14214,Dallas,TX,1348,879,middle,other,south
+E14012,Houston,TX,2325,1658,middle,other,south
+E16356,Houston,TX,2325,1658,middle,other,south
+E17654,Dallas,TX,1348,879,middle,other,south
+E15026,Phoenix,AZ,1759,1341,middle,other,west
+E16517,Los Angeles,CA,3985,1216,middle,metro,west
+E14817,Phoenix,AZ,1759,1341,middle,other,west
+E17092,Chicago,IL,2671,589,middle,metro,east
+E15752,Phoenix,AZ,1759,1341,middle,other,west
+E13092,Phoenix,AZ,1759,1341,middle,other,west
+E16242,New York,NY,8177,778,big,metro,east
+E15869,San Diego,CA,1429,844,middle,sightseeing,west
+E17817,Houston,TX,2325,1658,middle,other,south
+E15834,San Antonio,TX,1598,1291,middle,other,south
+E15234,Houston,TX,2325,1658,middle,other,south
+E15764,Dallas,TX,1348,879,middle,other,south
+E15806,Los Angeles,CA,3985,1216,middle,metro,west
+E15819,Dallas,TX,1348,879,middle,other,south
+E14586,New York,NY,8177,778,big,metro,east
+E15944,New York,NY,8177,778,big,metro,east
+E13340,San Diego,CA,1429,844,middle,sightseeing,west
+E16917,New York,NY,8177,778,big,metro,east
+E14407,New York,NY,8177,778,big,metro,east
+E13908,Philadelphia,PA,1585,348,middle,other,east
+E16710,New York,NY,8177,778,big,metro,east
+E13975,Chicago,IL,2671,589,middle,metro,east
+E14730,Philadelphia,PA,1585,348,middle,other,east
+E16927,Miami,FL,483,93,small,sightseeing,south
+E14367,San Antonio,TX,1598,1291,middle,other,south
+E13373,San Antonio,TX,1598,1291,middle,other,south
+E16712,San Antonio,TX,1598,1291,middle,other,south
+E17639,Los Angeles,CA,3985,1216,middle,metro,west
+E16426,New York,NY,8177,778,big,metro,east
+E16495,New York,NY,8177,778,big,metro,east
+E14336,New York,NY,8177,778,big,metro,east
+E14507,Philadelphia,PA,1585,348,middle,other,east
+E17049,New York,NY,8177,778,big,metro,east
+E15206,New York,NY,8177,778,big,metro,east
+E14013,San Diego,CA,1429,844,middle,sightseeing,west
+E14032,Los Angeles,CA,3985,1216,middle,metro,west
+E14645,Los Angeles,CA,3985,1216,middle,metro,west
+E15071,New York,NY,8177,778,big,metro,east
+E16221,Miami,FL,483,93,small,sightseeing,south
+E14112,Chicago,IL,2671,589,middle,metro,east
+E13026,Honolulu,HI,339,156,small,sightseeing,other
+E12881,New York,NY,8177,778,big,metro,east
+E17864,New York,NY,8177,778,big,metro,east
+E17138,Los Angeles,CA,3985,1216,middle,metro,west
+E15502,Los Angeles,CA,3985,1216,middle,metro,west
+E16572,Honolulu,HI,339,156,small,sightseeing,other
+E14165,New York,NY,8177,778,big,metro,east
+E14344,Philadelphia,PA,1585,348,middle,other,east
+E15367,Chicago,IL,2671,589,middle,metro,east
+E15581,New York,NY,8177,778,big,metro,east
+E14291,San Diego,CA,1429,844,middle,sightseeing,west
+E13953,New York,NY,8177,778,big,metro,east
+E15632,New York,NY,8177,778,big,metro,east
+E14297,New York,NY,8177,778,big,metro,east
+E13899,San Jose,CA,1003,461,middle,sightseeing,west
+E16471,Los Angeles,CA,3985,1216,middle,metro,west
+E18183,Philadelphia,PA,1585,348,middle,other,east
+E14603,Los Angeles,CA,3985,1216,middle,metro,west
+E18173,New York,NY,8177,778,big,metro,east
+E14854,Los Angeles,CA,3985,1216,middle,metro,west
+E16625,Chicago,IL,2671,589,middle,metro,east
+E14064,Honolulu,HI,339,156,small,sightseeing,other
+E16743,New York,NY,8177,778,big,metro,east
+E15308,Chicago,IL,2671,589,middle,metro,east
+E18086,Miami,FL,483,93,small,sightseeing,south
+E14350,Chicago,IL,2671,589,middle,metro,east
+E16080,Dallas,TX,1348,879,middle,other,south
+E14727,New York,NY,8177,778,big,metro,east
+E16778,New York,NY,8177,778,big,metro,east
+E14077,New York,NY,8177,778,big,metro,east
+E16808,Phoenix,AZ,1759,1341,middle,other,west
+E17076,Houston,TX,2325,1658,middle,other,south
+E14913,New York,NY,8177,778,big,metro,east
+E16475,Phoenix,AZ,1759,1341,middle,other,west
+E13265,Los Angeles,CA,3985,1216,middle,metro,west
+E16817,Phoenix,AZ,1759,1341,middle,other,west
+E17194,New York,NY,8177,778,big,metro,east
+E15049,Philadelphia,PA,1585,348,middle,other,east
+E18149,New York,NY,8177,778,big,metro,east
+E13654,New York,NY,8177,778,big,metro,east
+E16652,San Diego,CA,1429,844,middle,sightseeing,west
+E16766,New York,NY,8177,778,big,metro,east
+E16801,New York,NY,8177,778,big,metro,east
+E14083,San Diego,CA,1429,844,middle,sightseeing,west
+E17164,New York,NY,8177,778,big,metro,east
+E13226,Los Angeles,CA,3985,1216,middle,metro,west
+E13043,Los Angeles,CA,3985,1216,middle,metro,west
+E14352,San Diego,CA,1429,844,middle,sightseeing,west
+E17351,San Diego,CA,1429,844,middle,sightseeing,west
+E16768,Dallas,TX,1348,879,middle,other,south
+E16693,Houston,TX,2325,1658,middle,other,south
+E13956,Miami,FL,483,93,small,sightseeing,south
+E13708,New York,NY,8177,778,big,metro,east
+E15918,Chicago,IL,2671,589,middle,metro,east
+E16954,New York,NY,8177,778,big,metro,east
+E15671,Philadelphia,PA,1585,348,middle,other,east
+E14962,Honolulu,HI,339,156,small,sightseeing,other
+E16807,Houston,TX,2325,1658,middle,other,south
+E15125,San Diego,CA,1429,844,middle,sightseeing,west
+E16871,Phoenix,AZ,1759,1341,middle,other,west
+E12901,Miami,FL,483,93,small,sightseeing,south
+E13452,Phoenix,AZ,1759,1341,middle,other,west
+E15493,San Antonio,TX,1598,1291,middle,other,south
+E16005,Phoenix,AZ,1759,1341,middle,other,west
+E16804,New York,NY,8177,778,big,metro,east
+E13499,Philadelphia,PA,1585,348,middle,other,east
+E16293,Los Angeles,CA,3985,1216,middle,metro,west
+E15047,New York,NY,8177,778,big,metro,east
+E14193,San Jose,CA,1003,461,middle,sightseeing,west
+E17542,Los Angeles,CA,3985,1216,middle,metro,west
+E15181,San Diego,CA,1429,844,middle,sightseeing,west
+E17080,San Antonio,TX,1598,1291,middle,other,south
+E16392,New York,NY,8177,778,big,metro,east
+E15106,New York,NY,8177,778,big,metro,east
+E16214,San Antonio,TX,1598,1291,middle,other,south
+E13716,Las Vegas,NV,675,367,small,sightseeing,west
+E17816,New York,NY,8177,778,big,metro,east
+E15150,San Jose,CA,1003,461,middle,sightseeing,west
+E16996,San Diego,CA,1429,844,middle,sightseeing,west
+E16061,New York,NY,8177,778,big,metro,east
+E14226,Chicago,IL,2671,589,middle,metro,east
+E13121,Chicago,IL,2671,589,middle,metro,east
+E16297,Houston,TX,2325,1658,middle,other,south
+E12994,Phoenix,AZ,1759,1341,middle,other,west
+E16152,New York,NY,8177,778,big,metro,east
+E14636,New York,NY,8177,778,big,metro,east
+E16040,New York,NY,8177,778,big,metro,east
+E15793,Honolulu,HI,339,156,small,sightseeing,other
+E13358,New York,NY,8177,778,big,metro,east
+E12849,Phoenix,AZ,1759,1341,middle,other,west
+E15182,New York,NY,8177,778,big,metro,east
+E13299,Houston,TX,2325,1658,middle,other,south
+E16383,Chicago,IL,2671,589,middle,metro,east
+E13027,New York,NY,8177,778,big,metro,east
+E15381,Los Angeles,CA,3985,1216,middle,metro,west
+E15030,Chicago,IL,2671,589,middle,metro,east
+E12955,Los Angeles,CA,3985,1216,middle,metro,west
+E18189,New York,NY,8177,778,big,metro,east
+E13946,Los Angeles,CA,3985,1216,middle,metro,west
+E17716,New York,NY,8177,778,big,metro,east
+E15301,Dallas,TX,1348,879,middle,other,south
+E13185,Los Angeles,CA,3985,1216,middle,metro,west
+E14840,New York,NY,8177,778,big,metro,east
+E13216,Los Angeles,CA,3985,1216,middle,metro,west
+E13650,Las Vegas,NV,675,367,small,sightseeing,west
+E13533,New York,NY,8177,778,big,metro,east
+E13268,Dallas,TX,1348,879,middle,other,south
+E13104,New York,NY,8177,778,big,metro,east
+E15433,Houston,TX,2325,1658,middle,other,south
+E12937,New York,NY,8177,778,big,metro,east
+E17603,Philadelphia,PA,1585,348,middle,other,east
+E16216,Chicago,IL,2671,589,middle,metro,east
+E16377,Chicago,IL,2671,589,middle,metro,east
+E16976,San Antonio,TX,1598,1291,middle,other,south
+E18210,Los Angeles,CA,3985,1216,middle,metro,west
+E13631,Phoenix,AZ,1759,1341,middle,other,west
+E14422,Chicago,IL,2671,589,middle,metro,east
+E15648,San Jose,CA,1003,461,middle,sightseeing,west
+E17725,Los Angeles,CA,3985,1216,middle,metro,west
+E15861,New York,NY,8177,778,big,metro,east
+E13072,San Antonio,TX,1598,1291,middle,other,south
+E15695,Chicago,IL,2671,589,middle,metro,east
+E14110,New York,NY,8177,778,big,metro,east
+E14059,Dallas,TX,1348,879,middle,other,south
+E16672,Las Vegas,NV,675,367,small,sightseeing,west
+E16511,Houston,TX,2325,1658,middle,other,south
+E16256,Los Angeles,CA,3985,1216,middle,metro,west
+E13591,New York,NY,8177,778,big,metro,east
+E14066,Chicago,IL,2671,589,middle,metro,east
+E15483,Phoenix,AZ,1759,1341,middle,other,west
+E16626,New York,NY,8177,778,big,metro,east
+E15019,Los Angeles,CA,3985,1216,middle,metro,west
+E18270,Chicago,IL,2671,589,middle,metro,east
+E14315,New York,NY,8177,778,big,metro,east
+E17921,San Antonio,TX,1598,1291,middle,other,south
+E14041,Chicago,IL,2671,589,middle,metro,east
+E17060,San Diego,CA,1429,844,middle,sightseeing,west
+E16023,Phoenix,AZ,1759,1341,middle,other,west
+E17133,San Antonio,TX,1598,1291,middle,other,south
+E14282,Los Angeles,CA,3985,1216,middle,metro,west
+E12878,New York,NY,8177,778,big,metro,east
+E14155,Phoenix,AZ,1759,1341,middle,other,west
+E17043,San Diego,CA,1429,844,middle,sightseeing,west
+E13046,Dallas,TX,1348,879,middle,other,south
+E14633,San Antonio,TX,1598,1291,middle,other,south
+E12948,New York,NY,8177,778,big,metro,east
+E15898,Philadelphia,PA,1585,348,middle,other,east
+E15703,New York,NY,8177,778,big,metro,east
+E14071,Dallas,TX,1348,879,middle,other,south
+E17134,New York,NY,8177,778,big,metro,east
+E17795,New York,NY,8177,778,big,metro,east
+E12902,Philadelphia,PA,1585,348,middle,other,east
+E16444,Phoenix,AZ,1759,1341,middle,other,west
+E16402,San Jose,CA,1003,461,middle,sightseeing,west
+E14232,Dallas,TX,1348,879,middle,other,south
+E14693,New York,NY,8177,778,big,metro,east
+E16728,New York,NY,8177,778,big,metro,east
+E16096,New York,NY,8177,778,big,metro,east
+E13985,Los Angeles,CA,3985,1216,middle,metro,west
+E13592,Los Angeles,CA,3985,1216,middle,metro,west
+E17211,New York,NY,8177,778,big,metro,east
+E15288,Chicago,IL,2671,589,middle,metro,east
+E15140,Chicago,IL,2671,589,middle,metro,east
+E12843,Phoenix,AZ,1759,1341,middle,other,west
+E14408,Los Angeles,CA,3985,1216,middle,metro,west
+E15408,New York,NY,8177,778,big,metro,east
+E15445,San Diego,CA,1429,844,middle,sightseeing,west
+E14205,New York,NY,8177,778,big,metro,east
+E15452,Houston,TX,2325,1658,middle,other,south
+E14223,Chicago,IL,2671,589,middle,metro,east
+E16619,San Diego,CA,1429,844,middle,sightseeing,west
+E14762,San Jose,CA,1003,461,middle,sightseeing,west
+E13934,Phoenix,AZ,1759,1341,middle,other,west
+E15669,Los Angeles,CA,3985,1216,middle,metro,west
+E16384,Las Vegas,NV,675,367,small,sightseeing,west
+E18224,San Jose,CA,1003,461,middle,sightseeing,west
+E14245,Miami,FL,483,93,small,sightseeing,south
+E17678,New York,NY,8177,778,big,metro,east
+E15855,Phoenix,AZ,1759,1341,middle,other,west
+E17204,Los Angeles,CA,3985,1216,middle,metro,west
+E16036,Houston,TX,2325,1658,middle,other,south
+E17146,San Antonio,TX,1598,1291,middle,other,south
+E17763,Chicago,IL,2671,589,middle,metro,east
+E13262,New York,NY,8177,778,big,metro,east
+E17152,San Diego,CA,1429,844,middle,sightseeing,west
+E14632,San Jose,CA,1003,461,middle,sightseeing,west
+E13900,Houston,TX,2325,1658,middle,other,south
+E14875,New York,NY,8177,778,big,metro,east
+E15132,Chicago,IL,2671,589,middle,metro,east
+E17272,Philadelphia,PA,1585,348,middle,other,east
+E15998,New York,NY,8177,778,big,metro,east
+E16135,Los Angeles,CA,3985,1216,middle,metro,west
+E12831,Dallas,TX,1348,879,middle,other,south
+E15437,New York,NY,8177,778,big,metro,east
+E16809,Dallas,TX,1348,879,middle,other,south
+E14711,Houston,TX,2325,1658,middle,other,south
+E14377,Los Angeles,CA,3985,1216,middle,metro,west
+E16374,Phoenix,AZ,1759,1341,middle,other,west
+E13196,Houston,TX,2325,1658,middle,other,south
+E15457,Houston,TX,2325,1658,middle,other,south
+E16721,Los Angeles,CA,3985,1216,middle,metro,west
+E17733,New York,NY,8177,778,big,metro,east
+E17102,Philadelphia,PA,1585,348,middle,other,east
+E15410,Miami,FL,483,93,small,sightseeing,south
+E13239,Dallas,TX,1348,879,middle,other,south
+E15449,Dallas,TX,1348,879,middle,other,south
+E14870,Phoenix,AZ,1759,1341,middle,other,west
+E13821,New York,NY,8177,778,big,metro,east
+E17096,Honolulu,HI,339,156,small,sightseeing,other
+E18191,Phoenix,AZ,1759,1341,middle,other,west
+E15021,Chicago,IL,2671,589,middle,metro,east
+E14461,Las Vegas,NV,675,367,small,sightseeing,west
+E13132,New York,NY,8177,778,big,metro,east
+E16859,Chicago,IL,2671,589,middle,metro,east
+E15245,Chicago,IL,2671,589,middle,metro,east
+E17411,New York,NY,8177,778,big,metro,east
+E17262,Chicago,IL,2671,589,middle,metro,east
+E17519,San Jose,CA,1003,461,middle,sightseeing,west
+E17486,Phoenix,AZ,1759,1341,middle,other,west
+E16308,Chicago,IL,2671,589,middle,metro,east
+E16250,New York,NY,8177,778,big,metro,east
+E14607,San Diego,CA,1429,844,middle,sightseeing,west
+E13249,San Diego,CA,1429,844,middle,sightseeing,west
+E15644,Dallas,TX,1348,879,middle,other,south
+E14075,Houston,TX,2325,1658,middle,other,south
+E17250,Chicago,IL,2671,589,middle,metro,east
+E17966,New York,NY,8177,778,big,metro,east
+E14129,Los Angeles,CA,3985,1216,middle,metro,west
+E15651,Los Angeles,CA,3985,1216,middle,metro,west
+E13035,Los Angeles,CA,3985,1216,middle,metro,west
+E13341,San Antonio,TX,1598,1291,middle,other,south
+E13512,Las Vegas,NV,675,367,small,sightseeing,west
+E16620,New York,NY,8177,778,big,metro,east
+E17698,San Diego,CA,1429,844,middle,sightseeing,west
+E14267,Chicago,IL,2671,589,middle,metro,east
+E17059,San Jose,CA,1003,461,middle,sightseeing,west
+E13736,Los Angeles,CA,3985,1216,middle,metro,west
+E16022,New York,NY,8177,778,big,metro,east
+E14256,Chicago,IL,2671,589,middle,metro,east
+E14235,New York,NY,8177,778,big,metro,east
+E16769,Dallas,TX,1348,879,middle,other,south
+E17754,Chicago,IL,2671,589,middle,metro,east
+E16063,Phoenix,AZ,1759,1341,middle,other,west
+E15178,Chicago,IL,2671,589,middle,metro,east
+E14348,Houston,TX,2325,1658,middle,other,south
+E16905,New York,NY,8177,778,big,metro,east
+E15815,Philadelphia,PA,1585,348,middle,other,east
+E13000,San Antonio,TX,1598,1291,middle,other,south
+E13695,Las Vegas,NV,675,367,small,sightseeing,west
+E17979,Chicago,IL,2671,589,middle,metro,east
+E13139,Phoenix,AZ,1759,1341,middle,other,west
+E14758,New York,NY,8177,778,big,metro,east
+E14536,Houston,TX,2325,1658,middle,other,south
+E13662,Los Angeles,CA,3985,1216,middle,metro,west
+E17946,New York,NY,8177,778,big,metro,east
+E13743,Honolulu,HI,339,156,small,sightseeing,other
+E18078,New York,NY,8177,778,big,metro,east
+E16081,San Jose,CA,1003,461,middle,sightseeing,west
+E16780,Philadelphia,PA,1585,348,middle,other,east
+E18273,Phoenix,AZ,1759,1341,middle,other,west
+E15045,San Antonio,TX,1598,1291,middle,other,south
+E18071,New York,NY,8177,778,big,metro,east
+E17625,Los Angeles,CA,3985,1216,middle,metro,west
+E15716,Los Angeles,CA,3985,1216,middle,metro,west
+E13357,Los Angeles,CA,3985,1216,middle,metro,west
+E16777,Dallas,TX,1348,879,middle,other,south
+E13240,Phoenix,AZ,1759,1341,middle,other,west
+E14476,San Diego,CA,1429,844,middle,sightseeing,west
+E15426,Los Angeles,CA,3985,1216,middle,metro,west
+E13481,Philadelphia,PA,1585,348,middle,other,east
+E13652,San Antonio,TX,1598,1291,middle,other,south
+E16245,San Diego,CA,1429,844,middle,sightseeing,west
+E17227,Phoenix,AZ,1759,1341,middle,other,west
+E13266,San Diego,CA,1429,844,middle,sightseeing,west
+E13649,New York,NY,8177,778,big,metro,east
+E17765,New York,NY,8177,778,big,metro,east
+E15083,Chicago,IL,2671,589,middle,metro,east
+E14159,Chicago,IL,2671,589,middle,metro,east
+E18010,New York,NY,8177,778,big,metro,east
+E15249,Los Angeles,CA,3985,1216,middle,metro,west
+E13760,Philadelphia,PA,1585,348,middle,other,east
+E14766,Los Angeles,CA,3985,1216,middle,metro,west
+E15624,New York,NY,8177,778,big,metro,east
+E17749,Phoenix,AZ,1759,1341,middle,other,west
+E15068,Los Angeles,CA,3985,1216,middle,metro,west
+E14538,Chicago,IL,2671,589,middle,metro,east
+E14851,New York,NY,8177,778,big,metro,east
+E15032,Dallas,TX,1348,879,middle,other,south
+E14021,Chicago,IL,2671,589,middle,metro,east
+E13037,Houston,TX,2325,1658,middle,other,south
+E17917,Chicago,IL,2671,589,middle,metro,east
+E16455,Los Angeles,CA,3985,1216,middle,metro,west
+E18177,Chicago,IL,2671,589,middle,metro,east
+E14128,Philadelphia,PA,1585,348,middle,other,east
+E17874,Chicago,IL,2671,589,middle,metro,east
+E17719,Los Angeles,CA,3985,1216,middle,metro,west
+E17931,New York,NY,8177,778,big,metro,east
+E13803,New York,NY,8177,778,big,metro,east
+E17398,Miami,FL,483,93,small,sightseeing,south
+E15906,Phoenix,AZ,1759,1341,middle,other,west
+E14871,Phoenix,AZ,1759,1341,middle,other,west
+E16253,New York,NY,8177,778,big,metro,east
+E13439,New York,NY,8177,778,big,metro,east
+E12888,Los Angeles,CA,3985,1216,middle,metro,west
+E15628,Chicago,IL,2671,589,middle,metro,east
+E13588,San Jose,CA,1003,461,middle,sightseeing,west
+E15521,Chicago,IL,2671,589,middle,metro,east
+E13720,San Diego,CA,1429,844,middle,sightseeing,west
+E15674,Chicago,IL,2671,589,middle,metro,east
+E17616,Chicago,IL,2671,589,middle,metro,east
+E17594,Chicago,IL,2671,589,middle,metro,east
+E16218,Houston,TX,2325,1658,middle,other,south
+E17775,New York,NY,8177,778,big,metro,east
+E13988,San Antonio,TX,1598,1291,middle,other,south
+E16657,Los Angeles,CA,3985,1216,middle,metro,west
+E15353,Phoenix,AZ,1759,1341,middle,other,west
+E15424,Los Angeles,CA,3985,1216,middle,metro,west
+E13316,San Jose,CA,1003,461,middle,sightseeing,west
+E16788,Los Angeles,CA,3985,1216,middle,metro,west
+E16584,New York,NY,8177,778,big,metro,east
+E15364,Chicago,IL,2671,589,middle,metro,east
+E18108,New York,NY,8177,778,big,metro,east
+E14272,Chicago,IL,2671,589,middle,metro,east
+E15980,Dallas,TX,1348,879,middle,other,south
+E15832,Las Vegas,NV,675,367,small,sightseeing,west
+E16092,New York,NY,8177,778,big,metro,east
+E15528,Philadelphia,PA,1585,348,middle,other,east
+E17400,Houston,TX,2325,1658,middle,other,south
+E14479,Chicago,IL,2671,589,middle,metro,east
+E16398,San Jose,CA,1003,461,middle,sightseeing,west
+E17088,San Jose,CA,1003,461,middle,sightseeing,west
+E17438,Chicago,IL,2671,589,middle,metro,east
+E13060,Los Angeles,CA,3985,1216,middle,metro,west
+E14790,Los Angeles,CA,3985,1216,middle,metro,west
+E14890,San Antonio,TX,1598,1291,middle,other,south
+E16386,Chicago,IL,2671,589,middle,metro,east
+E14818,Philadelphia,PA,1585,348,middle,other,east
+E13571,Los Angeles,CA,3985,1216,middle,metro,west
+E12909,San Antonio,TX,1598,1291,middle,other,south
+E16698,San Jose,CA,1003,461,middle,sightseeing,west
+E16681,Chicago,IL,2671,589,middle,metro,east
+E15894,San Antonio,TX,1598,1291,middle,other,south
+E13573,Los Angeles,CA,3985,1216,middle,metro,west
+E14957,Philadelphia,PA,1585,348,middle,other,east
+E13918,Las Vegas,NV,675,367,small,sightseeing,west
+E17212,New York,NY,8177,778,big,metro,east
+E17781,Philadelphia,PA,1585,348,middle,other,east
+E16365,Chicago,IL,2671,589,middle,metro,east
+E14886,Honolulu,HI,339,156,small,sightseeing,other
+E15018,Chicago,IL,2671,589,middle,metro,east
+E13626,New York,NY,8177,778,big,metro,east
+E16609,New York,NY,8177,778,big,metro,east
+E16180,New York,NY,8177,778,big,metro,east
+E13462,Los Angeles,CA,3985,1216,middle,metro,west
+E15860,Philadelphia,PA,1585,348,middle,other,east
+E14419,New York,NY,8177,778,big,metro,east
+E18263,Houston,TX,2325,1658,middle,other,south
+E16960,Dallas,TX,1348,879,middle,other,south
+E13841,Los Angeles,CA,3985,1216,middle,metro,west
+E17701,New York,NY,8177,778,big,metro,east
+E17287,Philadelphia,PA,1585,348,middle,other,east
+E12949,Philadelphia,PA,1585,348,middle,other,east
+E14852,Los Angeles,CA,3985,1216,middle,metro,west
+E13418,Houston,TX,2325,1658,middle,other,south
+E13169,New York,NY,8177,778,big,metro,east
+E13124,Los Angeles,CA,3985,1216,middle,metro,west
+E16162,Los Angeles,CA,3985,1216,middle,metro,west
+E15691,Phoenix,AZ,1759,1341,middle,other,west
+E14195,San Antonio,TX,1598,1291,middle,other,south
+E15482,San Antonio,TX,1598,1291,middle,other,south
+E16010,San Jose,CA,1003,461,middle,sightseeing,west
+E13781,San Jose,CA,1003,461,middle,sightseeing,west
+E13269,Los Angeles,CA,3985,1216,middle,metro,west
+E17758,New York,NY,8177,778,big,metro,east
+E14023,New York,NY,8177,778,big,metro,east
+E17669,Chicago,IL,2671,589,middle,metro,east
+E16142,New York,NY,8177,778,big,metro,east
+E17648,San Antonio,TX,1598,1291,middle,other,south
+E13059,Dallas,TX,1348,879,middle,other,south
+E16224,Phoenix,AZ,1759,1341,middle,other,west
+E15223,Chicago,IL,2671,589,middle,metro,east
+E17886,Dallas,TX,1348,879,middle,other,south
+E13294,Los Angeles,CA,3985,1216,middle,metro,west
+E15289,New York,NY,8177,778,big,metro,east
+E18185,New York,NY,8177,778,big,metro,east
+E17956,New York,NY,8177,778,big,metro,east
+E15756,Houston,TX,2325,1658,middle,other,south
+E14747,Los Angeles,CA,3985,1216,middle,metro,west
+E14719,Chicago,IL,2671,589,middle,metro,east
+E13015,Philadelphia,PA,1585,348,middle,other,east
+E16586,Honolulu,HI,339,156,small,sightseeing,other
+E16105,Los Angeles,CA,3985,1216,middle,metro,west
+E13013,Chicago,IL,2671,589,middle,metro,east
+E14546,Los Angeles,CA,3985,1216,middle,metro,west
+E16919,Houston,TX,2325,1658,middle,other,south
+E17596,Dallas,TX,1348,879,middle,other,south
+E15442,New York,NY,8177,778,big,metro,east
+E16906,New York,NY,8177,778,big,metro,east
+E14535,Los Angeles,CA,3985,1216,middle,metro,west
+E17618,Chicago,IL,2671,589,middle,metro,east
+E16170,Los Angeles,CA,3985,1216,middle,metro,west
+E17470,New York,NY,8177,778,big,metro,east
+E15244,San Diego,CA,1429,844,middle,sightseeing,west
+E16696,Los Angeles,CA,3985,1216,middle,metro,west
+E15145,San Jose,CA,1003,461,middle,sightseeing,west
+E17492,Dallas,TX,1348,879,middle,other,south
+E13525,San Diego,CA,1429,844,middle,sightseeing,west
+E17409,San Antonio,TX,1598,1291,middle,other,south
+E17783,San Antonio,TX,1598,1291,middle,other,south
+E17682,New York,NY,8177,778,big,metro,east
+E13863,Chicago,IL,2671,589,middle,metro,east
+E13515,New York,NY,8177,778,big,metro,east
+E15917,San Diego,CA,1429,844,middle,sightseeing,west
+E17440,New York,NY,8177,778,big,metro,east
+E17045,Houston,TX,2325,1658,middle,other,south
+E14220,Phoenix,AZ,1759,1341,middle,other,west
+E17140,New York,NY,8177,778,big,metro,east
+E15201,New York,NY,8177,778,big,metro,east
+E14964,Houston,TX,2325,1658,middle,other,south
+E16031,Los Angeles,CA,3985,1216,middle,metro,west
+E14403,New York,NY,8177,778,big,metro,east
+E17042,Los Angeles,CA,3985,1216,middle,metro,west
+E13771,Philadelphia,PA,1585,348,middle,other,east
+E17906,New York,NY,8177,778,big,metro,east
+E15646,San Diego,CA,1429,844,middle,sightseeing,west
+E18272,New York,NY,8177,778,big,metro,east
+E16144,Dallas,TX,1348,879,middle,other,south
+E13731,Chicago,IL,2671,589,middle,metro,east
+E13748,Chicago,IL,2671,589,middle,metro,east
+E15530,Honolulu,HI,339,156,small,sightseeing,other
+E13950,Los Angeles,CA,3985,1216,middle,metro,west
+E13752,Chicago,IL,2671,589,middle,metro,east
+E13892,Phoenix,AZ,1759,1341,middle,other,west
+E14446,Houston,TX,2325,1658,middle,other,south
+E14449,Las Vegas,NV,675,367,small,sightseeing,west
+E16209,Dallas,TX,1348,879,middle,other,south
+E15754,New York,NY,8177,778,big,metro,east
+E13712,Los Angeles,CA,3985,1216,middle,metro,west
+E15800,New York,NY,8177,778,big,metro,east
+E16469,Chicago,IL,2671,589,middle,metro,east
+E13005,New York,NY,8177,778,big,metro,east
+E14981,San Antonio,TX,1598,1291,middle,other,south
+E17928,Miami,FL,483,93,small,sightseeing,south
+E16261,Dallas,TX,1348,879,middle,other,south
+E17869,New York,NY,8177,778,big,metro,east
+E17883,New York,NY,8177,778,big,metro,east
+E14619,San Antonio,TX,1598,1291,middle,other,south
+E13995,New York,NY,8177,778,big,metro,east
+E16643,San Jose,CA,1003,461,middle,sightseeing,west
+E14246,Dallas,TX,1348,879,middle,other,south
+E18040,Houston,TX,2325,1658,middle,other,south
+E16837,Miami,FL,483,93,small,sightseeing,south
+E15119,Chicago,IL,2671,589,middle,metro,east
+E16325,Chicago,IL,2671,589,middle,metro,east
+E14924,Chicago,IL,2671,589,middle,metro,east
+E15109,Los Angeles,CA,3985,1216,middle,metro,west
+E16623,Philadelphia,PA,1585,348,middle,other,east
+E12999,New York,NY,8177,778,big,metro,east
+E13962,Los Angeles,CA,3985,1216,middle,metro,west
+E18036,Houston,TX,2325,1658,middle,other,south
+E14958,Philadelphia,PA,1585,348,middle,other,east
+E13846,Honolulu,HI,339,156,small,sightseeing,other
+E14264,Chicago,IL,2671,589,middle,metro,east
+E13562,Los Angeles,CA,3985,1216,middle,metro,west
+E15775,Phoenix,AZ,1759,1341,middle,other,west
+E17054,San Diego,CA,1429,844,middle,sightseeing,west
+E17268,Phoenix,AZ,1759,1341,middle,other,west
+E16873,Phoenix,AZ,1759,1341,middle,other,west
+E13548,Dallas,TX,1348,879,middle,other,south
+E15038,Chicago,IL,2671,589,middle,metro,east
+E15955,New York,NY,8177,778,big,metro,east
+E13508,Phoenix,AZ,1759,1341,middle,other,west
+E13570,Los Angeles,CA,3985,1216,middle,metro,west
+E13232,Los Angeles,CA,3985,1216,middle,metro,west
+E18129,Los Angeles,CA,3985,1216,middle,metro,west
+E13632,New York,NY,8177,778,big,metro,east
+E15665,Houston,TX,2325,1658,middle,other,south
+E17550,San Diego,CA,1429,844,middle,sightseeing,west
+E15655,San Antonio,TX,1598,1291,middle,other,south
+E17069,New York,NY,8177,778,big,metro,east
+E14286,New York,NY,8177,778,big,metro,east
+E17340,San Jose,CA,1003,461,middle,sightseeing,west
+E15780,San Jose,CA,1003,461,middle,sightseeing,west
+E16188,San Diego,CA,1429,844,middle,sightseeing,west
+E15214,New York,NY,8177,778,big,metro,east
+E17574,Los Angeles,CA,3985,1216,middle,metro,west
+E15737,Philadelphia,PA,1585,348,middle,other,east
+E16552,New York,NY,8177,778,big,metro,east
+E18080,Philadelphia,PA,1585,348,middle,other,east
+E14311,San Antonio,TX,1598,1291,middle,other,south
+E14339,Chicago,IL,2671,589,middle,metro,east
+E12982,Los Angeles,CA,3985,1216,middle,metro,west
+E14273,Los Angeles,CA,3985,1216,middle,metro,west
+E13549,Los Angeles,CA,3985,1216,middle,metro,west
+E15414,Chicago,IL,2671,589,middle,metro,east
+E13203,Las Vegas,NV,675,367,small,sightseeing,west
+E14628,New York,NY,8177,778,big,metro,east
+E14326,New York,NY,8177,778,big,metro,east
+E17827,New York,NY,8177,778,big,metro,east
+E15935,Chicago,IL,2671,589,middle,metro,east
+E13655,Los Angeles,CA,3985,1216,middle,metro,west
+E12910,San Antonio,TX,1598,1291,middle,other,south
+E16186,Houston,TX,2325,1658,middle,other,south
+E13577,Las Vegas,NV,675,367,small,sightseeing,west
+E15251,Los Angeles,CA,3985,1216,middle,metro,west
+E12928,New York,NY,8177,778,big,metro,east
+E14111,San Antonio,TX,1598,1291,middle,other,south
+E17160,Miami,FL,483,93,small,sightseeing,south
+E16172,New York,NY,8177,778,big,metro,east
+E17972,New York,NY,8177,778,big,metro,east
+E14844,New York,NY,8177,778,big,metro,east
+E17278,Phoenix,AZ,1759,1341,middle,other,west
+E15212,Philadelphia,PA,1585,348,middle,other,east
+E16729,New York,NY,8177,778,big,metro,east
+E16062,Los Angeles,CA,3985,1216,middle,metro,west
+E15363,New York,NY,8177,778,big,metro,east
+E14998,Dallas,TX,1348,879,middle,other,south
+E13484,New York,NY,8177,778,big,metro,east
+E16697,Houston,TX,2325,1658,middle,other,south
+E18236,San Jose,CA,1003,461,middle,sightseeing,west
+E13138,New York,NY,8177,778,big,metro,east
+E13740,Los Angeles,CA,3985,1216,middle,metro,west
+E16454,San Antonio,TX,1598,1291,middle,other,south
+E15230,Houston,TX,2325,1658,middle,other,south
+E15134,New York,NY,8177,778,big,metro,east
+E16309,New York,NY,8177,778,big,metro,east
+E13544,New York,NY,8177,778,big,metro,east
+E14262,Houston,TX,2325,1658,middle,other,south
+E13134,New York,NY,8177,778,big,metro,east
+E17589,New York,NY,8177,778,big,metro,east
+E16097,Honolulu,HI,339,156,small,sightseeing,other
+E13122,New York,NY,8177,778,big,metro,east
+E16966,San Diego,CA,1429,844,middle,sightseeing,west
+E17746,Los Angeles,CA,3985,1216,middle,metro,west
+E16175,New York,NY,8177,778,big,metro,east
+E14834,Houston,TX,2325,1658,middle,other,south
+E16348,Phoenix,AZ,1759,1341,middle,other,west
+E15147,Houston,TX,2325,1658,middle,other,south
+E13221,Los Angeles,CA,3985,1216,middle,metro,west
+E16131,New York,NY,8177,778,big,metro,east
+E15813,Los Angeles,CA,3985,1216,middle,metro,west
+E17058,Houston,TX,2325,1658,middle,other,south
+E17704,Los Angeles,CA,3985,1216,middle,metro,west
+E16933,Dallas,TX,1348,879,middle,other,south
+E13772,Dallas,TX,1348,879,middle,other,south
+E13317,San Jose,CA,1003,461,middle,sightseeing,west
+E14390,Dallas,TX,1348,879,middle,other,south
+E16249,San Diego,CA,1429,844,middle,sightseeing,west
+E16520,Miami,FL,483,93,small,sightseeing,south
+E14198,Philadelphia,PA,1585,348,middle,other,east
+E13989,Philadelphia,PA,1585,348,middle,other,east
+E17930,Houston,TX,2325,1658,middle,other,south
+E14154,San Diego,CA,1429,844,middle,sightseeing,west
+E14206,New York,NY,8177,778,big,metro,east
+E14482,New York,NY,8177,778,big,metro,east
+E14163,New York,NY,8177,778,big,metro,east
+E14105,New York,NY,8177,778,big,metro,east
+E17601,Houston,TX,2325,1658,middle,other,south
+E17142,Houston,TX,2325,1658,middle,other,south
+E15135,New York,NY,8177,778,big,metro,east
+E16806,San Antonio,TX,1598,1291,middle,other,south
+E13952,Los Angeles,CA,3985,1216,middle,metro,west
+E13120,Chicago,IL,2671,589,middle,metro,east
+E13516,New York,NY,8177,778,big,metro,east
+E14323,New York,NY,8177,778,big,metro,east
+E17572,Dallas,TX,1348,879,middle,other,south
+E18079,Houston,TX,2325,1658,middle,other,south
+E14700,Houston,TX,2325,1658,middle,other,south
+E15027,New York,NY,8177,778,big,metro,east
+E17367,Los Angeles,CA,3985,1216,middle,metro,west
+E15246,New York,NY,8177,778,big,metro,east
+E18213,Las Vegas,NV,675,367,small,sightseeing,west
+E17029,Chicago,IL,2671,589,middle,metro,east
+E13220,Houston,TX,2325,1658,middle,other,south
+E15985,New York,NY,8177,778,big,metro,east
+E17990,Chicago,IL,2671,589,middle,metro,east
+E16193,San Jose,CA,1003,461,middle,sightseeing,west
+E15172,San Jose,CA,1003,461,middle,sightseeing,west
+E13692,Los Angeles,CA,3985,1216,middle,metro,west
+E15745,New York,NY,8177,778,big,metro,east
+E17582,New York,NY,8177,778,big,metro,east
+E15555,San Antonio,TX,1598,1291,middle,other,south
+E13474,Phoenix,AZ,1759,1341,middle,other,west
+E17320,Los Angeles,CA,3985,1216,middle,metro,west
+E17697,New York,NY,8177,778,big,metro,east
+E16639,Phoenix,AZ,1759,1341,middle,other,west
+E16947,Philadelphia,PA,1585,348,middle,other,east
+E15491,Phoenix,AZ,1759,1341,middle,other,west
+E16617,San Diego,CA,1429,844,middle,sightseeing,west
+E15265,Honolulu,HI,339,156,small,sightseeing,other
+E16550,Miami,FL,483,93,small,sightseeing,south
+E16226,New York,NY,8177,778,big,metro,east
+E18009,Philadelphia,PA,1585,348,middle,other,east
+E16399,Los Angeles,CA,3985,1216,middle,metro,west
+E14623,Chicago,IL,2671,589,middle,metro,east
+E15625,Chicago,IL,2671,589,middle,metro,east
+E18064,San Antonio,TX,1598,1291,middle,other,south
+E15508,Dallas,TX,1348,879,middle,other,south
+E16654,Los Angeles,CA,3985,1216,middle,metro,west
+E16628,San Jose,CA,1003,461,middle,sightseeing,west
+E13647,San Antonio,TX,1598,1291,middle,other,south
+E15594,New York,NY,8177,778,big,metro,east
+E13479,New York,NY,8177,778,big,metro,east
+E13735,Philadelphia,PA,1585,348,middle,other,east
+E13376,Los Angeles,CA,3985,1216,middle,metro,west
+E15717,Chicago,IL,2671,589,middle,metro,east
+E13719,Dallas,TX,1348,879,middle,other,south
+E14201,Houston,TX,2325,1658,middle,other,south
+E16633,Honolulu,HI,339,156,small,sightseeing,other
+E13101,New York,NY,8177,778,big,metro,east
+E15225,New York,NY,8177,778,big,metro,east
+E14152,Dallas,TX,1348,879,middle,other,south
+E15436,New York,NY,8177,778,big,metro,east
+E17217,New York,NY,8177,778,big,metro,east
+E17734,Houston,TX,2325,1658,middle,other,south
+E15260,Las Vegas,NV,675,367,small,sightseeing,west
+E14905,Los Angeles,CA,3985,1216,middle,metro,west
+E17548,Dallas,TX,1348,879,middle,other,south
+E14148,New York,NY,8177,778,big,metro,east
+E16103,Dallas,TX,1348,879,middle,other,south
+E14626,San Diego,CA,1429,844,middle,sightseeing,west
+E14868,San Antonio,TX,1598,1291,middle,other,south
+E18246,Las Vegas,NV,675,367,small,sightseeing,west
+E13485,Las Vegas,NV,675,367,small,sightseeing,west
+E15517,New York,NY,8177,778,big,metro,east
+E17115,San Diego,CA,1429,844,middle,sightseeing,west
+E17120,New York,NY,8177,778,big,metro,east
+E16611,New York,NY,8177,778,big,metro,east
+E15912,Los Angeles,CA,3985,1216,middle,metro,west
+E14001,Houston,TX,2325,1658,middle,other,south
+E17158,Dallas,TX,1348,879,middle,other,south
+E17588,New York,NY,8177,778,big,metro,east
+E14759,Miami,FL,483,93,small,sightseeing,south
+E14577,Los Angeles,CA,3985,1216,middle,metro,west
+E16185,New York,NY,8177,778,big,metro,east
+E13389,Chicago,IL,2671,589,middle,metro,east
+E17631,Houston,TX,2325,1658,middle,other,south
+E17061,Los Angeles,CA,3985,1216,middle,metro,west
+E17718,New York,NY,8177,778,big,metro,east
+E17630,Las Vegas,NV,675,367,small,sightseeing,west
+E16163,Houston,TX,2325,1658,middle,other,south
+E13495,New York,NY,8177,778,big,metro,east
+E13223,New York,NY,8177,778,big,metro,east
+E16146,New York,NY,8177,778,big,metro,east
+E17109,New York,NY,8177,778,big,metro,east
+E16587,New York,NY,8177,778,big,metro,east
+E17179,Las Vegas,NV,675,367,small,sightseeing,west
+E16750,San Antonio,TX,1598,1291,middle,other,south
+E13482,Philadelphia,PA,1585,348,middle,other,east
+E14512,New York,NY,8177,778,big,metro,east
+E17670,Las Vegas,NV,675,367,small,sightseeing,west
+E16834,Phoenix,AZ,1759,1341,middle,other,west
+E16442,Los Angeles,CA,3985,1216,middle,metro,west
+E16942,Houston,TX,2325,1658,middle,other,south
+E14640,New York,NY,8177,778,big,metro,east
+E16823,Los Angeles,CA,3985,1216,middle,metro,west
+E15237,Los Angeles,CA,3985,1216,middle,metro,west
+E17854,Houston,TX,2325,1658,middle,other,south
+E18220,New York,NY,8177,778,big,metro,east
+E17436,San Diego,CA,1429,844,middle,sightseeing,west
+E16965,Phoenix,AZ,1759,1341,middle,other,west
+E12840,Houston,TX,2325,1658,middle,other,south
+E15891,Chicago,IL,2671,589,middle,metro,east
+E17187,San Diego,CA,1429,844,middle,sightseeing,west
+E16016,Los Angeles,CA,3985,1216,middle,metro,west
+E13637,New York,NY,8177,778,big,metro,east
+E17991,Los Angeles,CA,3985,1216,middle,metro,west
+E16418,New York,NY,8177,778,big,metro,east
+E16099,Phoenix,AZ,1759,1341,middle,other,west
+E15768,Houston,TX,2325,1658,middle,other,south
+E16637,Chicago,IL,2671,589,middle,metro,east
+E14240,New York,NY,8177,778,big,metro,east
+E15143,New York,NY,8177,778,big,metro,east
+E13229,Los Angeles,CA,3985,1216,middle,metro,west
+E14973,New York,NY,8177,778,big,metro,east
+E14271,Los Angeles,CA,3985,1216,middle,metro,west
+E17720,New York,NY,8177,778,big,metro,east
+E15952,Chicago,IL,2671,589,middle,metro,east
+E16227,San Diego,CA,1429,844,middle,sightseeing,west
+E17893,New York,NY,8177,778,big,metro,east
+E14022,New York,NY,8177,778,big,metro,east
+E15210,San Diego,CA,1429,844,middle,sightseeing,west
+E16370,San Diego,CA,1429,844,middle,sightseeing,west
+E16634,New York,NY,8177,778,big,metro,east
+E15376,Miami,FL,483,93,small,sightseeing,south
+E14655,Dallas,TX,1348,879,middle,other,south
+E17615,New York,NY,8177,778,big,metro,east
+E16055,Chicago,IL,2671,589,middle,metro,east
+E14149,New York,NY,8177,778,big,metro,east
+E17501,Phoenix,AZ,1759,1341,middle,other,west
+E14191,San Diego,CA,1429,844,middle,sightseeing,west
+E15620,Miami,FL,483,93,small,sightseeing,south
+E15048,Houston,TX,2325,1658,middle,other,south
+E13282,Philadelphia,PA,1585,348,middle,other,east
+E15582,New York,NY,8177,778,big,metro,east
+E16230,New York,NY,8177,778,big,metro,east
+E18146,New York,NY,8177,778,big,metro,east
+E15976,New York,NY,8177,778,big,metro,east
+E16539,Chicago,IL,2671,589,middle,metro,east
+E12886,Chicago,IL,2671,589,middle,metro,east
+E17974,New York,NY,8177,778,big,metro,east
+E13524,Dallas,TX,1348,879,middle,other,south
+E17955,Los Angeles,CA,3985,1216,middle,metro,west
+E15128,New York,NY,8177,778,big,metro,east
+E15987,Los Angeles,CA,3985,1216,middle,metro,west
+E16610,San Jose,CA,1003,461,middle,sightseeing,west
+E17394,Chicago,IL,2671,589,middle,metro,east
+E14173,Dallas,TX,1348,879,middle,other,south
+E16258,New York,NY,8177,778,big,metro,east
+E14948,Los Angeles,CA,3985,1216,middle,metro,west
+E17384,Philadelphia,PA,1585,348,middle,other,east
+E16990,Dallas,TX,1348,879,middle,other,south
+E13831,New York,NY,8177,778,big,metro,east
+E13762,New York,NY,8177,778,big,metro,east
+E14340,Los Angeles,CA,3985,1216,middle,metro,west
+E17429,New York,NY,8177,778,big,metro,east
+E13711,San Antonio,TX,1598,1291,middle,other,south
+E13448,Los Angeles,CA,3985,1216,middle,metro,west
+E14515,San Antonio,TX,1598,1291,middle,other,south
+E16457,New York,NY,8177,778,big,metro,east
+E17527,Dallas,TX,1348,879,middle,other,south
+E14199,New York,NY,8177,778,big,metro,east
+E13888,San Jose,CA,1003,461,middle,sightseeing,west
+E14423,Los Angeles,CA,3985,1216,middle,metro,west
+E14697,Chicago,IL,2671,589,middle,metro,east
+E17522,Las Vegas,NV,675,367,small,sightseeing,west
+E13867,New York,NY,8177,778,big,metro,east
+E17624,Phoenix,AZ,1759,1341,middle,other,west
+E14393,New York,NY,8177,778,big,metro,east
+E17578,New York,NY,8177,778,big,metro,east
+E13450,Phoenix,AZ,1759,1341,middle,other,west
+E17423,New York,NY,8177,778,big,metro,east
+E18241,New York,NY,8177,778,big,metro,east
+E16153,Houston,TX,2325,1658,middle,other,south
+E15668,Phoenix,AZ,1759,1341,middle,other,west
+E16319,Los Angeles,CA,3985,1216,middle,metro,west
+E15757,New York,NY,8177,778,big,metro,east
+E17174,Houston,TX,2325,1658,middle,other,south
+E13365,San Antonio,TX,1598,1291,middle,other,south
+E18227,Philadelphia,PA,1585,348,middle,other,east
+E14145,Chicago,IL,2671,589,middle,metro,east
+E18235,Los Angeles,CA,3985,1216,middle,metro,west
+E13741,Houston,TX,2325,1658,middle,other,south
+E16832,Los Angeles,CA,3985,1216,middle,metro,west
+E15258,Houston,TX,2325,1658,middle,other,south
+E15552,San Jose,CA,1003,461,middle,sightseeing,west
+E18170,Chicago,IL,2671,589,middle,metro,east
+E13723,Honolulu,HI,339,156,small,sightseeing,other
+E14005,Chicago,IL,2671,589,middle,metro,east
+E15561,New York,NY,8177,778,big,metro,east
+E16121,San Antonio,TX,1598,1291,middle,other,south
+E18142,Los Angeles,CA,3985,1216,middle,metro,west
+E13642,Los Angeles,CA,3985,1216,middle,metro,west
+E15117,New York,NY,8177,778,big,metro,east
+E13561,San Diego,CA,1429,844,middle,sightseeing,west
+E15704,New York,NY,8177,778,big,metro,east
+E14684,Los Angeles,CA,3985,1216,middle,metro,west
+E16007,Chicago,IL,2671,589,middle,metro,east
+E16232,San Jose,CA,1003,461,middle,sightseeing,west
+E17410,New York,NY,8177,778,big,metro,east
+E13835,New York,NY,8177,778,big,metro,east
+E15312,San Jose,CA,1003,461,middle,sightseeing,west
+E13427,New York,NY,8177,778,big,metro,east
+E14353,New York,NY,8177,778,big,metro,east
+E13003,New York,NY,8177,778,big,metro,east
+E16756,Phoenix,AZ,1759,1341,middle,other,west
+E17007,Phoenix,AZ,1759,1341,middle,other,west
+E16440,Dallas,TX,1348,879,middle,other,south
+E18120,Chicago,IL,2671,589,middle,metro,east
+E17723,Philadelphia,PA,1585,348,middle,other,east
+E14699,New York,NY,8177,778,big,metro,east
+E12821,Honolulu,HI,339,156,small,sightseeing,other
+E17033,New York,NY,8177,778,big,metro,east
+E13055,Chicago,IL,2671,589,middle,metro,east
+E13320,Houston,TX,2325,1658,middle,other,south
+E16357,Chicago,IL,2671,589,middle,metro,east
+E18242,San Antonio,TX,1598,1291,middle,other,south
+E15865,Las Vegas,NV,675,367,small,sightseeing,west
+E17597,Los Angeles,CA,3985,1216,middle,metro,west
+E14397,New York,NY,8177,778,big,metro,east
+E13242,Los Angeles,CA,3985,1216,middle,metro,west
+E14288,New York,NY,8177,778,big,metro,east
+E15063,New York,NY,8177,778,big,metro,east
+E14591,Chicago,IL,2671,589,middle,metro,east
+E13990,Phoenix,AZ,1759,1341,middle,other,west
+E12749,Dallas,TX,1348,879,middle,other,south
+E13487,San Diego,CA,1429,844,middle,sightseeing,west
+E14691,Philadelphia,PA,1585,348,middle,other,east
+E16229,Houston,TX,2325,1658,middle,other,south
+E14920,New York,NY,8177,778,big,metro,east
+E17489,New York,NY,8177,778,big,metro,east
+E13404,New York,NY,8177,778,big,metro,east
+E15729,Chicago,IL,2671,589,middle,metro,east
+E13136,New York,NY,8177,778,big,metro,east
+E16644,Houston,TX,2325,1658,middle,other,south
+E14731,New York,NY,8177,778,big,metro,east
+E15187,San Antonio,TX,1598,1291,middle,other,south
+E13052,Houston,TX,2325,1658,middle,other,south
+E18133,San Diego,CA,1429,844,middle,sightseeing,west
+E17664,Chicago,IL,2671,589,middle,metro,east
+E15732,Los Angeles,CA,3985,1216,middle,metro,west
+E14649,New York,NY,8177,778,big,metro,east
+E13235,Chicago,IL,2671,589,middle,metro,east
+E14883,Chicago,IL,2671,589,middle,metro,east
+E12976,Dallas,TX,1348,879,middle,other,south
+E16244,Houston,TX,2325,1658,middle,other,south
+E14681,San Antonio,TX,1598,1291,middle,other,south
+E14421,New York,NY,8177,778,big,metro,east
+E16116,Los Angeles,CA,3985,1216,middle,metro,west
+E14988,Chicago,IL,2671,589,middle,metro,east
+E15489,Los Angeles,CA,3985,1216,middle,metro,west
+E14364,New York,NY,8177,778,big,metro,east
+E16006,New York,NY,8177,778,big,metro,east
+E16184,Philadelphia,PA,1585,348,middle,other,east
+E17932,New York,NY,8177,778,big,metro,east
+E18221,San Antonio,TX,1598,1291,middle,other,south
+E14853,New York,NY,8177,778,big,metro,east
+E17658,Las Vegas,NV,675,367,small,sightseeing,west
+E17764,Los Angeles,CA,3985,1216,middle,metro,west
+E14651,San Jose,CA,1003,461,middle,sightseeing,west
+E14000,New York,NY,8177,778,big,metro,east
+E13601,Miami,FL,483,93,small,sightseeing,south
+E17671,New York,NY,8177,778,big,metro,east
+E17970,Dallas,TX,1348,879,middle,other,south
+E15826,Los Angeles,CA,3985,1216,middle,metro,west
+E15907,New York,NY,8177,778,big,metro,east
+E14342,Philadelphia,PA,1585,348,middle,other,east
+E14873,Miami,FL,483,93,small,sightseeing,south
+E14689,San Antonio,TX,1598,1291,middle,other,south
+E15440,New York,NY,8177,778,big,metro,east
+E16076,San Antonio,TX,1598,1291,middle,other,south
+E15333,New York,NY,8177,778,big,metro,east
+E15081,Los Angeles,CA,3985,1216,middle,metro,west
+E16283,Dallas,TX,1348,879,middle,other,south
+E17263,New York,NY,8177,778,big,metro,east
+E16877,Los Angeles,CA,3985,1216,middle,metro,west
+E16642,New York,NY,8177,778,big,metro,east
+E12871,Los Angeles,CA,3985,1216,middle,metro,west
+E14038,New York,NY,8177,778,big,metro,east
+E14489,Phoenix,AZ,1759,1341,middle,other,west
+E14888,Los Angeles,CA,3985,1216,middle,metro,west
+E17190,New York,NY,8177,778,big,metro,east
+E13456,Philadelphia,PA,1585,348,middle,other,east
+E16899,Los Angeles,CA,3985,1216,middle,metro,west
+E17898,Los Angeles,CA,3985,1216,middle,metro,west
+E13976,San Diego,CA,1429,844,middle,sightseeing,west
+E16139,Los Angeles,CA,3985,1216,middle,metro,west
+E18043,New York,NY,8177,778,big,metro,east
+E15730,New York,NY,8177,778,big,metro,east
+E16266,Houston,TX,2325,1658,middle,other,south
+E15123,Los Angeles,CA,3985,1216,middle,metro,west
+E17702,Chicago,IL,2671,589,middle,metro,east
+E17505,Houston,TX,2325,1658,middle,other,south
+E13756,Chicago,IL,2671,589,middle,metro,east
+E16446,New York,NY,8177,778,big,metro,east
+E17556,New York,NY,8177,778,big,metro,east
+E14583,San Antonio,TX,1598,1291,middle,other,south
+E16818,San Antonio,TX,1598,1291,middle,other,south
+E13572,New York,NY,8177,778,big,metro,east
+E14009,Las Vegas,NV,675,367,small,sightseeing,west
+E14565,Chicago,IL,2671,589,middle,metro,east
+E13258,San Diego,CA,1429,844,middle,sightseeing,west
+E14463,Houston,TX,2325,1658,middle,other,south
+E13192,Philadelphia,PA,1585,348,middle,other,east
+E16987,Los Angeles,CA,3985,1216,middle,metro,west
+E13417,San Jose,CA,1003,461,middle,sightseeing,west
+E17047,New York,NY,8177,778,big,metro,east
+E13531,Dallas,TX,1348,879,middle,other,south
+E15116,San Diego,CA,1429,844,middle,sightseeing,west
+E17469,Los Angeles,CA,3985,1216,middle,metro,west
+E16647,Philadelphia,PA,1585,348,middle,other,east
+E13627,Houston,TX,2325,1658,middle,other,south
+E15630,Los Angeles,CA,3985,1216,middle,metro,west
+E14896,San Antonio,TX,1598,1291,middle,other,south
+E17245,San Diego,CA,1429,844,middle,sightseeing,west
+E16008,Dallas,TX,1348,879,middle,other,south
+E17871,Philadelphia,PA,1585,348,middle,other,east
+E13529,San Jose,CA,1003,461,middle,sightseeing,west
+E15599,San Diego,CA,1429,844,middle,sightseeing,west
+E16813,New York,NY,8177,778,big,metro,east
+E15862,Houston,TX,2325,1658,middle,other,south
+E15394,San Antonio,TX,1598,1291,middle,other,south
+E17980,Los Angeles,CA,3985,1216,middle,metro,west
+E14859,San Antonio,TX,1598,1291,middle,other,south
+E16463,Los Angeles,CA,3985,1216,middle,metro,west
+E15791,Los Angeles,CA,3985,1216,middle,metro,west
+E13658,Dallas,TX,1348,879,middle,other,south
+E13887,Los Angeles,CA,3985,1216,middle,metro,west
+E14551,Chicago,IL,2671,589,middle,metro,east
+E17166,Phoenix,AZ,1759,1341,middle,other,west
+E17926,San Jose,CA,1003,461,middle,sightseeing,west
+E13391,Philadelphia,PA,1585,348,middle,other,east
+E17455,Philadelphia,PA,1585,348,middle,other,east
+E13308,San Antonio,TX,1598,1291,middle,other,south
+E13856,New York,NY,8177,778,big,metro,east
+E13243,Houston,TX,2325,1658,middle,other,south
+E15095,Philadelphia,PA,1585,348,middle,other,east
+E18048,Los Angeles,CA,3985,1216,middle,metro,west
+E18287,San Antonio,TX,1598,1291,middle,other,south
+E18150,Philadelphia,PA,1585,348,middle,other,east
+E16690,New York,NY,8177,778,big,metro,east
+E13555,Los Angeles,CA,3985,1216,middle,metro,west
+E16038,New York,NY,8177,778,big,metro,east
+E13972,Dallas,TX,1348,879,middle,other,south
+E13227,Houston,TX,2325,1658,middle,other,south
+E13657,Houston,TX,2325,1658,middle,other,south
+E17176,Phoenix,AZ,1759,1341,middle,other,west
+E14837,New York,NY,8177,778,big,metro,east
+E14682,Phoenix,AZ,1759,1341,middle,other,west
+E14921,San Antonio,TX,1598,1291,middle,other,south
+E16341,San Jose,CA,1003,461,middle,sightseeing,west
+E14647,New York,NY,8177,778,big,metro,east
+E15292,Phoenix,AZ,1759,1341,middle,other,west
+E15705,New York,NY,8177,778,big,metro,east
+E13339,New York,NY,8177,778,big,metro,east
+E13885,Phoenix,AZ,1759,1341,middle,other,west
+E15563,Los Angeles,CA,3985,1216,middle,metro,west
+E13546,Los Angeles,CA,3985,1216,middle,metro,west
+E17715,Los Angeles,CA,3985,1216,middle,metro,west
+E18160,Chicago,IL,2671,589,middle,metro,east
+E15434,New York,NY,8177,778,big,metro,east
+E15734,Phoenix,AZ,1759,1341,middle,other,west
+E13737,New York,NY,8177,778,big,metro,east
+E13523,Chicago,IL,2671,589,middle,metro,east
+E13213,Phoenix,AZ,1759,1341,middle,other,west
+E18018,Dallas,TX,1348,879,middle,other,south
+E15314,Phoenix,AZ,1759,1341,middle,other,west
+E17521,Chicago,IL,2671,589,middle,metro,east
+E15042,San Jose,CA,1003,461,middle,sightseeing,west
+E12863,New York,NY,8177,778,big,metro,east
+E16091,Phoenix,AZ,1759,1341,middle,other,west
+E15804,New York,NY,8177,778,big,metro,east
+E14593,San Jose,CA,1003,461,middle,sightseeing,west
+E15882,San Antonio,TX,1598,1291,middle,other,south
+E14287,Chicago,IL,2671,589,middle,metro,east
+E16763,New York,NY,8177,778,big,metro,east
+E14705,New York,NY,8177,778,big,metro,east
+E14985,Dallas,TX,1348,879,middle,other,south
+E14522,Chicago,IL,2671,589,middle,metro,east
+E16448,Philadelphia,PA,1585,348,middle,other,east
+E14584,Chicago,IL,2671,589,middle,metro,east
+E12974,Miami,FL,483,93,small,sightseeing,south
+E12942,New York,NY,8177,778,big,metro,east
+E12987,Chicago,IL,2671,589,middle,metro,east
+E14816,New York,NY,8177,778,big,metro,east
+E15852,Houston,TX,2325,1658,middle,other,south
+E16624,San Jose,CA,1003,461,middle,sightseeing,west
+E18232,Dallas,TX,1348,879,middle,other,south
+E18073,Phoenix,AZ,1759,1341,middle,other,west
+E16369,San Jose,CA,1003,461,middle,sightseeing,west
+E14280,Chicago,IL,2671,589,middle,metro,east
+E13135,Dallas,TX,1348,879,middle,other,south
+E17345,San Diego,CA,1429,844,middle,sightseeing,west
+E16275,Dallas,TX,1348,879,middle,other,south
+E14338,Los Angeles,CA,3985,1216,middle,metro,west
+E15402,Houston,TX,2325,1658,middle,other,south
+E16323,San Jose,CA,1003,461,middle,sightseeing,west
+E14625,Los Angeles,CA,3985,1216,middle,metro,west
+E14451,Los Angeles,CA,3985,1216,middle,metro,west
+E14823,New York,NY,8177,778,big,metro,east
+E15897,Phoenix,AZ,1759,1341,middle,other,west
+E17051,Los Angeles,CA,3985,1216,middle,metro,west
+E15925,New York,NY,8177,778,big,metro,east
+E15863,Dallas,TX,1348,879,middle,other,south
+E16470,Dallas,TX,1348,879,middle,other,south
+E16483,Phoenix,AZ,1759,1341,middle,other,west
+E13398,San Diego,CA,1429,844,middle,sightseeing,west
+E13070,New York,NY,8177,778,big,metro,east
+E14819,New York,NY,8177,778,big,metro,east
+E15163,Los Angeles,CA,3985,1216,middle,metro,west
+E18204,Los Angeles,CA,3985,1216,middle,metro,west
+E16810,Houston,TX,2325,1658,middle,other,south
+E15124,Chicago,IL,2671,589,middle,metro,east
+E16969,Los Angeles,CA,3985,1216,middle,metro,west
+E14597,Las Vegas,NV,675,367,small,sightseeing,west
+E13917,Las Vegas,NV,675,367,small,sightseeing,west
+E13062,Philadelphia,PA,1585,348,middle,other,east
+E17820,Houston,TX,2325,1658,middle,other,south
+E15192,Philadelphia,PA,1585,348,middle,other,east
+E16484,Chicago,IL,2671,589,middle,metro,east
+E15184,New York,NY,8177,778,big,metro,east
+E18135,New York,NY,8177,778,big,metro,east
+E14453,Chicago,IL,2671,589,middle,metro,east
+E17900,Dallas,TX,1348,879,middle,other,south
+E13437,Houston,TX,2325,1658,middle,other,south
+E16529,Philadelphia,PA,1585,348,middle,other,east
+E17531,San Diego,CA,1429,844,middle,sightseeing,west
+E16239,San Antonio,TX,1598,1291,middle,other,south
+E14500,Houston,TX,2325,1658,middle,other,south
+E16117,San Diego,CA,1429,844,middle,sightseeing,west
+E13248,New York,NY,8177,778,big,metro,east
+E16967,Honolulu,HI,339,156,small,sightseeing,other
+E15405,San Diego,CA,1429,844,middle,sightseeing,west
+E16659,New York,NY,8177,778,big,metro,east
+E16880,Chicago,IL,2671,589,middle,metro,east
+E13435,Los Angeles,CA,3985,1216,middle,metro,west
+E13131,Houston,TX,2325,1658,middle,other,south
+E14891,Chicago,IL,2671,589,middle,metro,east
+E16682,Los Angeles,CA,3985,1216,middle,metro,west
+E15453,Philadelphia,PA,1585,348,middle,other,east
+E16883,Chicago,IL,2671,589,middle,metro,east
+E14621,Los Angeles,CA,3985,1216,middle,metro,west
+E16963,New York,NY,8177,778,big,metro,east
+E13682,New York,NY,8177,778,big,metro,east
+E15152,New York,NY,8177,778,big,metro,east
+E15462,Dallas,TX,1348,879,middle,other,south
+E15349,Phoenix,AZ,1759,1341,middle,other,west
+E16849,San Antonio,TX,1598,1291,middle,other,south
+E15073,Dallas,TX,1348,879,middle,other,south
+E16298,New York,NY,8177,778,big,metro,east
+E18248,New York,NY,8177,778,big,metro,east
+E15386,San Antonio,TX,1598,1291,middle,other,south
+E14498,Miami,FL,483,93,small,sightseeing,south
+E17252,Los Angeles,CA,3985,1216,middle,metro,west
+E14542,Las Vegas,NV,675,367,small,sightseeing,west
+E16825,New York,NY,8177,778,big,metro,east
+E18072,Houston,TX,2325,1658,middle,other,south
+E13643,Philadelphia,PA,1585,348,middle,other,east
+E15969,Houston,TX,2325,1658,middle,other,south
+E13283,New York,NY,8177,778,big,metro,east
+E17015,New York,NY,8177,778,big,metro,east
+E14375,Las Vegas,NV,675,367,small,sightseeing,west
+E17124,Las Vegas,NV,675,367,small,sightseeing,west
+E17987,Los Angeles,CA,3985,1216,middle,metro,west
+E17026,Los Angeles,CA,3985,1216,middle,metro,west
+E13395,San Antonio,TX,1598,1291,middle,other,south
+E15743,New York,NY,8177,778,big,metro,east
+E17414,Philadelphia,PA,1585,348,middle,other,east
+E14622,Los Angeles,CA,3985,1216,middle,metro,west
+E15609,New York,NY,8177,778,big,metro,east
+E14561,Houston,TX,2325,1658,middle,other,south
+E14829,Houston,TX,2325,1658,middle,other,south
+E16872,Miami,FL,483,93,small,sightseeing,south
+E16358,New York,NY,8177,778,big,metro,east
+E15238,Dallas,TX,1348,879,middle,other,south
+E13466,New York,NY,8177,778,big,metro,east
+E17360,New York,NY,8177,778,big,metro,east
+E13510,Los Angeles,CA,3985,1216,middle,metro,west
+E14241,New York,NY,8177,778,big,metro,east
+E14132,Los Angeles,CA,3985,1216,middle,metro,west
+E14963,New York,NY,8177,778,big,metro,east
+E17169,San Antonio,TX,1598,1291,middle,other,south
+E15252,San Diego,CA,1429,844,middle,sightseeing,west
+E17731,Los Angeles,CA,3985,1216,middle,metro,west
+E16113,New York,NY,8177,778,big,metro,east
+E16107,New York,NY,8177,778,big,metro,east
+E17483,New York,NY,8177,778,big,metro,east
+E15679,New York,NY,8177,778,big,metro,east
+E13686,Los Angeles,CA,3985,1216,middle,metro,west
+E16581,New York,NY,8177,778,big,metro,east
+E15267,San Diego,CA,1429,844,middle,sightseeing,west
+E17234,Los Angeles,CA,3985,1216,middle,metro,west
+E17797,San Antonio,TX,1598,1291,middle,other,south
+E16614,San Antonio,TX,1598,1291,middle,other,south
+E15411,New York,NY,8177,778,big,metro,east
+E14178,Los Angeles,CA,3985,1216,middle,metro,west
+E15098,Los Angeles,CA,3985,1216,middle,metro,west
+E18281,New York,NY,8177,778,big,metro,east
+E14984,Chicago,IL,2671,589,middle,metro,east
+E17265,Chicago,IL,2671,589,middle,metro,east
+E13617,Las Vegas,NV,675,367,small,sightseeing,west
+E17242,New York,NY,8177,778,big,metro,east
+E17289,Los Angeles,CA,3985,1216,middle,metro,west
+E16018,New York,NY,8177,778,big,metro,east
+E14704,Los Angeles,CA,3985,1216,middle,metro,west
+E16794,Philadelphia,PA,1585,348,middle,other,east
+E17802,Los Angeles,CA,3985,1216,middle,metro,west
+E13761,Los Angeles,CA,3985,1216,middle,metro,west
+E13517,Los Angeles,CA,3985,1216,middle,metro,west
+E13936,New York,NY,8177,778,big,metro,east
+E16342,New York,NY,8177,778,big,metro,east
+E14177,New York,NY,8177,778,big,metro,east
+E16205,New York,NY,8177,778,big,metro,east
+E15036,Houston,TX,2325,1658,middle,other,south
+E13589,San Diego,CA,1429,844,middle,sightseeing,west
+E17579,New York,NY,8177,778,big,metro,east
+E15069,Dallas,TX,1348,879,middle,other,south
+E17349,Philadelphia,PA,1585,348,middle,other,east
+E13080,San Jose,CA,1003,461,middle,sightseeing,west
+E13663,Chicago,IL,2671,589,middle,metro,east
+E14503,Dallas,TX,1348,879,middle,other,south
+E16774,San Diego,CA,1429,844,middle,sightseeing,west
+E13384,Chicago,IL,2671,589,middle,metro,east
+E17101,Philadelphia,PA,1585,348,middle,other,east
+E14997,Dallas,TX,1348,879,middle,other,south
+E17155,Los Angeles,CA,3985,1216,middle,metro,west
+E15574,New York,NY,8177,778,big,metro,east
+E16461,Los Angeles,CA,3985,1216,middle,metro,west
+E13343,Los Angeles,CA,3985,1216,middle,metro,west
+E18165,San Jose,CA,1003,461,middle,sightseeing,west
+E17536,Chicago,IL,2671,589,middle,metro,east
+E16898,Los Angeles,CA,3985,1216,middle,metro,west
+E16324,Dallas,TX,1348,879,middle,other,south
+E17651,New York,NY,8177,778,big,metro,east
+E14222,Houston,TX,2325,1658,middle,other,south
+E15585,New York,NY,8177,778,big,metro,east
+E17490,San Jose,CA,1003,461,middle,sightseeing,west
+E16739,New York,NY,8177,778,big,metro,east
+E16276,Los Angeles,CA,3985,1216,middle,metro,west
+E17193,San Diego,CA,1429,844,middle,sightseeing,west
+E16257,Chicago,IL,2671,589,middle,metro,east
+E14285,San Antonio,TX,1598,1291,middle,other,south
+E17642,Honolulu,HI,339,156,small,sightseeing,other
+E13826,Phoenix,AZ,1759,1341,middle,other,west
+E14037,San Antonio,TX,1598,1291,middle,other,south
+E13575,Houston,TX,2325,1658,middle,other,south
+E17157,Los Angeles,CA,3985,1216,middle,metro,west
+E16852,New York,NY,8177,778,big,metro,east
+E15219,San Diego,CA,1429,844,middle,sightseeing,west
+E15014,New York,NY,8177,778,big,metro,east
+E14765,New York,NY,8177,778,big,metro,east
+E16869,New York,NY,8177,778,big,metro,east
+E14491,Chicago,IL,2671,589,middle,metro,east
+E15909,Los Angeles,CA,3985,1216,middle,metro,west
+E13618,Los Angeles,CA,3985,1216,middle,metro,west
+E16805,New York,NY,8177,778,big,metro,east
+E16050,Houston,TX,2325,1658,middle,other,south
+E17879,Chicago,IL,2671,589,middle,metro,east
+E17562,New York,NY,8177,778,big,metro,east
+E15334,Chicago,IL,2671,589,middle,metro,east
+E13568,New York,NY,8177,778,big,metro,east
+E14820,Los Angeles,CA,3985,1216,middle,metro,west
+E16744,San Antonio,TX,1598,1291,middle,other,south
+E15700,San Jose,CA,1003,461,middle,sightseeing,west
+E17299,Los Angeles,CA,3985,1216,middle,metro,west
+E12837,New York,NY,8177,778,big,metro,east
+E15076,Los Angeles,CA,3985,1216,middle,metro,west
+E15921,San Jose,CA,1003,461,middle,sightseeing,west
+E17897,Dallas,TX,1348,879,middle,other,south
+E15747,Los Angeles,CA,3985,1216,middle,metro,west
+E15840,Los Angeles,CA,3985,1216,middle,metro,west
+E15016,Phoenix,AZ,1759,1341,middle,other,west
+E14808,Houston,TX,2325,1658,middle,other,south
+E12904,New York,NY,8177,778,big,metro,east
+E15825,Phoenix,AZ,1759,1341,middle,other,west
+E15389,New York,NY,8177,778,big,metro,east
+E15280,San Jose,CA,1003,461,middle,sightseeing,west
+E17159,Philadelphia,PA,1585,348,middle,other,east
+E15329,San Antonio,TX,1598,1291,middle,other,south
+E12830,New York,NY,8177,778,big,metro,east
+E15507,San Antonio,TX,1598,1291,middle,other,south
+E18252,New York,NY,8177,778,big,metro,east
+E16526,New York,NY,8177,778,big,metro,east
+E17695,Los Angeles,CA,3985,1216,middle,metro,west
+E12930,New York,NY,8177,778,big,metro,east
+E14960,New York,NY,8177,778,big,metro,east
+E17960,New York,NY,8177,778,big,metro,east
+E17420,San Diego,CA,1429,844,middle,sightseeing,west
+E15412,New York,NY,8177,778,big,metro,east
+E13763,Philadelphia,PA,1585,348,middle,other,east
+E13849,Dallas,TX,1348,879,middle,other,south
+E16114,New York,NY,8177,778,big,metro,east
+E13420,San Antonio,TX,1598,1291,middle,other,south
+E13780,New York,NY,8177,778,big,metro,east
+E13611,Los Angeles,CA,3985,1216,middle,metro,west
+E17877,Phoenix,AZ,1759,1341,middle,other,west
+E16247,Houston,TX,2325,1658,middle,other,south
+E14643,Chicago,IL,2671,589,middle,metro,east
+E15041,San Jose,CA,1003,461,middle,sightseeing,west
+E16287,New York,NY,8177,778,big,metro,east
+E12919,Los Angeles,CA,3985,1216,middle,metro,west
+E15130,New York,NY,8177,778,big,metro,east
+E15384,San Antonio,TX,1598,1291,middle,other,south
+E17370,New York,NY,8177,778,big,metro,east
+E17709,San Antonio,TX,1598,1291,middle,other,south
+E15253,Houston,TX,2325,1658,middle,other,south
+E13300,New York,NY,8177,778,big,metro,east
+E17759,Los Angeles,CA,3985,1216,middle,metro,west
+E13937,Los Angeles,CA,3985,1216,middle,metro,west
+E15850,Philadelphia,PA,1585,348,middle,other,east
+E15186,New York,NY,8177,778,big,metro,east
+E13791,Philadelphia,PA,1585,348,middle,other,east
+E17969,New York,NY,8177,778,big,metro,east
+E14795,Phoenix,AZ,1759,1341,middle,other,west
+E15532,New York,NY,8177,778,big,metro,east
+E17593,Los Angeles,CA,3985,1216,middle,metro,west
+E17768,New York,NY,8177,778,big,metro,east
+E18112,San Diego,CA,1429,844,middle,sightseeing,west
+E16003,San Jose,CA,1003,461,middle,sightseeing,west
+E17386,New York,NY,8177,778,big,metro,east
+E14104,San Antonio,TX,1598,1291,middle,other,south
+E17110,New York,NY,8177,778,big,metro,east
+E18193,New York,NY,8177,778,big,metro,east
+E13895,New York,NY,8177,778,big,metro,east
+E16545,San Antonio,TX,1598,1291,middle,other,south
+E16671,New York,NY,8177,778,big,metro,east
+E14351,New York,NY,8177,778,big,metro,east
+E17391,Dallas,TX,1348,879,middle,other,south
+E16824,Philadelphia,PA,1585,348,middle,other,east
+E14741,Houston,TX,2325,1658,middle,other,south
+E17750,San Diego,CA,1429,844,middle,sightseeing,west
+E16200,San Diego,CA,1429,844,middle,sightseeing,west
+E17997,New York,NY,8177,778,big,metro,east
+E14383,New York,NY,8177,778,big,metro,east
+E13461,Houston,TX,2325,1658,middle,other,south
+E13238,Las Vegas,NV,675,367,small,sightseeing,west
+E17408,Phoenix,AZ,1759,1341,middle,other,west
+E15537,San Antonio,TX,1598,1291,middle,other,south
+E15208,Los Angeles,CA,3985,1216,middle,metro,west
+E14327,New York,NY,8177,778,big,metro,east
+E17837,San Antonio,TX,1598,1291,middle,other,south
+E15578,Chicago,IL,2671,589,middle,metro,east
+E15584,Philadelphia,PA,1585,348,middle,other,east
+E13745,Philadelphia,PA,1585,348,middle,other,east
+E16498,Houston,TX,2325,1658,middle,other,south
+E17891,San Antonio,TX,1598,1291,middle,other,south
+E17123,Miami,FL,483,93,small,sightseeing,south
+E16866,Los Angeles,CA,3985,1216,middle,metro,west
+E13730,Los Angeles,CA,3985,1216,middle,metro,west
+E16589,Miami,FL,483,93,small,sightseeing,south
+E12922,Las Vegas,NV,675,367,small,sightseeing,west
+E16009,Los Angeles,CA,3985,1216,middle,metro,west
+E14053,Honolulu,HI,339,156,small,sightseeing,other
+E17939,San Antonio,TX,1598,1291,middle,other,south
+E17312,New York,NY,8177,778,big,metro,east
+E13833,Los Angeles,CA,3985,1216,middle,metro,west
+E17899,New York,NY,8177,778,big,metro,east
+E15007,San Diego,CA,1429,844,middle,sightseeing,west
+E17464,San Antonio,TX,1598,1291,middle,other,south
+E16385,San Antonio,TX,1598,1291,middle,other,south
+E18265,San Antonio,TX,1598,1291,middle,other,south
+E16861,New York,NY,8177,778,big,metro,east
+E16344,Dallas,TX,1348,879,middle,other,south
+E13338,New York,NY,8177,778,big,metro,east
+E17024,Honolulu,HI,339,156,small,sightseeing,other
+E14034,San Antonio,TX,1598,1291,middle,other,south
+E18203,Los Angeles,CA,3985,1216,middle,metro,west
+E16616,San Jose,CA,1003,461,middle,sightseeing,west
+E16338,Los Angeles,CA,3985,1216,middle,metro,west
+E17046,Los Angeles,CA,3985,1216,middle,metro,west
+E13109,Phoenix,AZ,1759,1341,middle,other,west
+E17905,New York,NY,8177,778,big,metro,east
+E16829,Chicago,IL,2671,589,middle,metro,east
+E15889,Houston,TX,2325,1658,middle,other,south
+E13217,New York,NY,8177,778,big,metro,east
+E17341,New York,NY,8177,778,big,metro,east
+E14002,Los Angeles,CA,3985,1216,middle,metro,west
+E12977,New York,NY,8177,778,big,metro,east
+E15512,San Antonio,TX,1598,1291,middle,other,south
+E13291,Philadelphia,PA,1585,348,middle,other,east
+E13583,Los Angeles,CA,3985,1216,middle,metro,west
+E16929,Dallas,TX,1348,879,middle,other,south
+E17892,New York,NY,8177,778,big,metro,east
+E15505,Houston,TX,2325,1658,middle,other,south
+E14459,New York,NY,8177,778,big,metro,east
+E18013,Phoenix,AZ,1759,1341,middle,other,west
+E13681,Chicago,IL,2671,589,middle,metro,east
+E13699,San Antonio,TX,1598,1291,middle,other,south
+E14493,New York,NY,8177,778,big,metro,east
+E13486,Phoenix,AZ,1759,1341,middle,other,west
+E13302,Chicago,IL,2671,589,middle,metro,east
+E16012,Miami,FL,483,93,small,sightseeing,south
+E17031,Chicago,IL,2671,589,middle,metro,east
+E18121,Chicago,IL,2671,589,middle,metro,east
+E15901,Chicago,IL,2671,589,middle,metro,east
+E14918,Philadelphia,PA,1585,348,middle,other,east
+E15157,Dallas,TX,1348,879,middle,other,south
+E15920,Chicago,IL,2671,589,middle,metro,east
+E14708,Los Angeles,CA,3985,1216,middle,metro,west
+E17353,New York,NY,8177,778,big,metro,east
+E18024,Houston,TX,2325,1658,middle,other,south
+E15467,Philadelphia,PA,1585,348,middle,other,east
+E16174,Chicago,IL,2671,589,middle,metro,east
+E13678,New York,NY,8177,778,big,metro,east
+E14690,Houston,TX,2325,1658,middle,other,south
+E13058,New York,NY,8177,778,big,metro,east
+E14552,Chicago,IL,2671,589,middle,metro,east
+E13224,New York,NY,8177,778,big,metro,east
+E16989,New York,NY,8177,778,big,metro,east
+E13207,New York,NY,8177,778,big,metro,east
+E18122,Chicago,IL,2671,589,middle,metro,east
+E17405,Philadelphia,PA,1585,348,middle,other,east
+E13311,Philadelphia,PA,1585,348,middle,other,east
+E15051,New York,NY,8177,778,big,metro,east
+E15895,Las Vegas,NV,675,367,small,sightseeing,west
+E15795,Las Vegas,NV,675,367,small,sightseeing,west
+E13669,Miami,FL,483,93,small,sightseeing,south
+E16450,New York,NY,8177,778,big,metro,east
+E13667,New York,NY,8177,778,big,metro,east
+E14400,Phoenix,AZ,1759,1341,middle,other,west
+E17396,San Antonio,TX,1598,1291,middle,other,south
+E14847,New York,NY,8177,778,big,metro,east
+E14862,Los Angeles,CA,3985,1216,middle,metro,west
+E12915,Houston,TX,2325,1658,middle,other,south
+E16488,San Diego,CA,1429,844,middle,sightseeing,west
+E15256,New York,NY,8177,778,big,metro,east
+E14716,Chicago,IL,2671,589,middle,metro,east
+E13933,Phoenix,AZ,1759,1341,middle,other,west
+E17259,Houston,TX,2325,1658,middle,other,south
+E14857,New York,NY,8177,778,big,metro,east
+E15306,New York,NY,8177,778,big,metro,east
+E15839,Dallas,TX,1348,879,middle,other,south
+E13994,Chicago,IL,2671,589,middle,metro,east
+E17554,San Jose,CA,1003,461,middle,sightseeing,west
+E14907,Las Vegas,NV,675,367,small,sightseeing,west
+E14332,New York,NY,8177,778,big,metro,east
+E17266,Phoenix,AZ,1759,1341,middle,other,west
+E17948,Dallas,TX,1348,879,middle,other,south
+E15004,Chicago,IL,2671,589,middle,metro,east
+E14722,New York,NY,8177,778,big,metro,east
+E13507,New York,NY,8177,778,big,metro,east
+E13967,Los Angeles,CA,3985,1216,middle,metro,west
+E16054,Los Angeles,CA,3985,1216,middle,metro,west
+E12833,Philadelphia,PA,1585,348,middle,other,east
+E16474,Phoenix,AZ,1759,1341,middle,other,west
+E17984,New York,NY,8177,778,big,metro,east
+E13705,San Diego,CA,1429,844,middle,sightseeing,west
+E17448,San Jose,CA,1003,461,middle,sightseeing,west
+E16762,Las Vegas,NV,675,367,small,sightseeing,west
+E13564,San Diego,CA,1429,844,middle,sightseeing,west
+E15369,Houston,TX,2325,1658,middle,other,south
+E13154,San Diego,CA,1429,844,middle,sightseeing,west
+E13940,Houston,TX,2325,1658,middle,other,south
+E14029,San Jose,CA,1003,461,middle,sightseeing,west
+E14117,Chicago,IL,2671,589,middle,metro,east
+E13167,San Diego,CA,1429,844,middle,sightseeing,west
+E17779,New York,NY,8177,778,big,metro,east
+E13991,Los Angeles,CA,3985,1216,middle,metro,west
+E18101,Los Angeles,CA,3985,1216,middle,metro,west
+E15713,Los Angeles,CA,3985,1216,middle,metro,west
+E17065,Las Vegas,NV,675,367,small,sightseeing,west
+E14437,New York,NY,8177,778,big,metro,east
+E12875,Phoenix,AZ,1759,1341,middle,other,west
+E13827,New York,NY,8177,778,big,metro,east
+E16764,Miami,FL,483,93,small,sightseeing,south
+E18180,New York,NY,8177,778,big,metro,east
+E16271,Chicago,IL,2671,589,middle,metro,east
+E15587,Phoenix,AZ,1759,1341,middle,other,west
+E17866,New York,NY,8177,778,big,metro,east
+E15802,San Diego,CA,1429,844,middle,sightseeing,west
+E17229,San Jose,CA,1003,461,middle,sightseeing,west
+E14456,San Antonio,TX,1598,1291,middle,other,south
+E16464,New York,NY,8177,778,big,metro,east
+E17962,New York,NY,8177,778,big,metro,east
+E16149,Dallas,TX,1348,879,middle,other,south
+E14259,Chicago,IL,2671,589,middle,metro,east
+E18143,Los Angeles,CA,3985,1216,middle,metro,west
+E17935,New York,NY,8177,778,big,metro,east
+E14517,New York,NY,8177,778,big,metro,east
+E17694,Houston,TX,2325,1658,middle,other,south
+E16891,New York,NY,8177,778,big,metro,east
+E17660,San Jose,CA,1003,461,middle,sightseeing,west
+E14866,San Jose,CA,1003,461,middle,sightseeing,west
+E16041,Chicago,IL,2671,589,middle,metro,east
+E15380,San Antonio,TX,1598,1291,middle,other,south
+E15623,Houston,TX,2325,1658,middle,other,south
+E15829,New York,NY,8177,778,big,metro,east
+E15232,Los Angeles,CA,3985,1216,middle,metro,west
+E13079,Las Vegas,NV,675,367,small,sightseeing,west
+E18262,New York,NY,8177,778,big,metro,east
+E13563,New York,NY,8177,778,big,metro,east
+E13029,New York,NY,8177,778,big,metro,east
+E15506,Chicago,IL,2671,589,middle,metro,east
+E16305,New York,NY,8177,778,big,metro,east
+E12864,Phoenix,AZ,1759,1341,middle,other,west
+E17724,Los Angeles,CA,3985,1216,middle,metro,west
+E17703,Chicago,IL,2671,589,middle,metro,east
+E13116,Los Angeles,CA,3985,1216,middle,metro,west
+E14019,Dallas,TX,1348,879,middle,other,south
+E17649,Houston,TX,2325,1658,middle,other,south
+E16178,Las Vegas,NV,675,367,small,sightseeing,west
+E17040,Chicago,IL,2671,589,middle,metro,east
+E14100,Philadelphia,PA,1585,348,middle,other,east
+E14775,San Antonio,TX,1598,1291,middle,other,south
+E16557,New York,NY,8177,778,big,metro,east
+E13296,Phoenix,AZ,1759,1341,middle,other,west
+E16364,Los Angeles,CA,3985,1216,middle,metro,west
+E17693,Chicago,IL,2671,589,middle,metro,east
+E15372,Las Vegas,NV,675,367,small,sightseeing,west
+E15618,New York,NY,8177,778,big,metro,east
+E13930,Los Angeles,CA,3985,1216,middle,metro,west
+E13379,Los Angeles,CA,3985,1216,middle,metro,west
+E14414,New York,NY,8177,778,big,metro,east
+E13194,San Diego,CA,1429,844,middle,sightseeing,west
+E16447,New York,NY,8177,778,big,metro,east
+E14305,Chicago,IL,2671,589,middle,metro,east
+E14331,New York,NY,8177,778,big,metro,east
+E15261,Los Angeles,CA,3985,1216,middle,metro,west
+E17870,Houston,TX,2325,1658,middle,other,south
+E15105,Chicago,IL,2671,589,middle,metro,east
+E18268,New York,NY,8177,778,big,metro,east
+E14855,Miami,FL,483,93,small,sightseeing,south
+E13925,New York,NY,8177,778,big,metro,east
+E18237,New York,NY,8177,778,big,metro,east
+E15639,New York,NY,8177,778,big,metro,east
+E15118,Philadelphia,PA,1585,348,middle,other,east
+E15746,Philadelphia,PA,1585,348,middle,other,east
+E15942,San Diego,CA,1429,844,middle,sightseeing,west
+E14143,San Antonio,TX,1598,1291,middle,other,south
+E15120,Chicago,IL,2671,589,middle,metro,east
+E16147,New York,NY,8177,778,big,metro,east
+E13277,New York,NY,8177,778,big,metro,east
+E18127,Dallas,TX,1348,879,middle,other,south
+E15149,New York,NY,8177,778,big,metro,east
+E18081,New York,NY,8177,778,big,metro,east
+E14511,New York,NY,8177,778,big,metro,east
+E15776,Phoenix,AZ,1759,1341,middle,other,west
+E12981,New York,NY,8177,778,big,metro,east
+E13106,Chicago,IL,2671,589,middle,metro,east
+E13928,Chicago,IL,2671,589,middle,metro,east
+E14885,New York,NY,8177,778,big,metro,east
+E13388,New York,NY,8177,778,big,metro,east
+E15438,San Diego,CA,1429,844,middle,sightseeing,west
+E17173,New York,NY,8177,778,big,metro,east
+E17941,Phoenix,AZ,1759,1341,middle,other,west
+E14947,Las Vegas,NV,675,367,small,sightseeing,west
+E17053,San Antonio,TX,1598,1291,middle,other,south
+E17676,Los Angeles,CA,3985,1216,middle,metro,west
+E12844,New York,NY,8177,778,big,metro,east
+E14567,Houston,TX,2325,1658,middle,other,south
+E12828,San Jose,CA,1003,461,middle,sightseeing,west
+E16984,New York,NY,8177,778,big,metro,east
+E13023,Dallas,TX,1348,879,middle,other,south
+E17553,San Diego,CA,1429,844,middle,sightseeing,west
+E13075,Houston,TX,2325,1658,middle,other,south
+E15342,New York,NY,8177,778,big,metro,east
+E17788,Phoenix,AZ,1759,1341,middle,other,west
+E13850,Houston,TX,2325,1658,middle,other,south
+E14076,Chicago,IL,2671,589,middle,metro,east
+E13805,Philadelphia,PA,1585,348,middle,other,east
+E17887,Houston,TX,2325,1658,middle,other,south
+E13186,Phoenix,AZ,1759,1341,middle,other,west
+E15374,New York,NY,8177,778,big,metro,east
+E14737,San Jose,CA,1003,461,middle,sightseeing,west
+E17656,Philadelphia,PA,1585,348,middle,other,east
+E16102,Dallas,TX,1348,879,middle,other,south
+E16835,Los Angeles,CA,3985,1216,middle,metro,west
+E15089,New York,NY,8177,778,big,metro,east
+E14972,Los Angeles,CA,3985,1216,middle,metro,west
+E17514,Philadelphia,PA,1585,348,middle,other,east
+E12917,Phoenix,AZ,1759,1341,middle,other,west
+E14768,Chicago,IL,2671,589,middle,metro,east
+E17584,Phoenix,AZ,1759,1341,middle,other,west
+E15254,New York,NY,8177,778,big,metro,east
+E13402,New York,NY,8177,778,big,metro,east
+E18099,Miami,FL,483,93,small,sightseeing,south
+E15205,Houston,TX,2325,1658,middle,other,south
+E13218,Dallas,TX,1348,879,middle,other,south
+E17267,New York,NY,8177,778,big,metro,east
+E13145,San Antonio,TX,1598,1291,middle,other,south
+E16302,San Jose,CA,1003,461,middle,sightseeing,west
+E13513,New York,NY,8177,778,big,metro,east
+E14720,New York,NY,8177,778,big,metro,east
+E18282,New York,NY,8177,778,big,metro,east
+E13200,San Diego,CA,1429,844,middle,sightseeing,west
+E14079,Los Angeles,CA,3985,1216,middle,metro,west
+E17298,Miami,FL,483,93,small,sightseeing,south
+E16950,Chicago,IL,2671,589,middle,metro,east
+E14024,Chicago,IL,2671,589,middle,metro,east
+E16066,New York,NY,8177,778,big,metro,east
+E15198,Chicago,IL,2671,589,middle,metro,east
+E12885,New York,NY,8177,778,big,metro,east
+E17331,Miami,FL,483,93,small,sightseeing,south
+E13016,Los Angeles,CA,3985,1216,middle,metro,west
+E13500,New York,NY,8177,778,big,metro,east
+E15247,Dallas,TX,1348,879,middle,other,south
+E14901,Los Angeles,CA,3985,1216,middle,metro,west
+E13355,Chicago,IL,2671,589,middle,metro,east
+E16053,New York,NY,8177,778,big,metro,east
+E16292,Los Angeles,CA,3985,1216,middle,metro,west
+E14116,Houston,TX,2325,1658,middle,other,south
+E14495,New York,NY,8177,778,big,metro,east
+E15494,New York,NY,8177,778,big,metro,east
+E15608,New York,NY,8177,778,big,metro,east
+E17248,Los Angeles,CA,3985,1216,middle,metro,west
+E17653,New York,NY,8177,778,big,metro,east
+E17633,New York,NY,8177,778,big,metro,east
+E13645,Dallas,TX,1348,879,middle,other,south
+E15469,New York,NY,8177,778,big,metro,east
+E13307,Los Angeles,CA,3985,1216,middle,metro,west
+E15689,Los Angeles,CA,3985,1216,middle,metro,west
+E17122,New York,NY,8177,778,big,metro,east
+E14406,San Jose,CA,1003,461,middle,sightseeing,west
+E13838,Phoenix,AZ,1759,1341,middle,other,west
+E15683,Los Angeles,CA,3985,1216,middle,metro,west
+E14301,Los Angeles,CA,3985,1216,middle,metro,west
+E14658,San Diego,CA,1429,844,middle,sightseeing,west
+E13621,Houston,TX,2325,1658,middle,other,south
+E16272,Los Angeles,CA,3985,1216,middle,metro,west
+E17958,Phoenix,AZ,1759,1341,middle,other,west
+E16836,San Jose,CA,1003,461,middle,sightseeing,west
+E16961,San Antonio,TX,1598,1291,middle,other,south
+E16902,San Diego,CA,1429,844,middle,sightseeing,west
+E15706,Chicago,IL,2671,589,middle,metro,east
+E15315,New York,NY,8177,778,big,metro,east
+E15653,San Diego,CA,1429,844,middle,sightseeing,west
+E13159,Los Angeles,CA,3985,1216,middle,metro,west
+E13189,San Antonio,TX,1598,1291,middle,other,south
+E13140,Honolulu,HI,339,156,small,sightseeing,other
+E17637,New York,NY,8177,778,big,metro,east
+E13470,Los Angeles,CA,3985,1216,middle,metro,west
+E15786,San Diego,CA,1429,844,middle,sightseeing,west
+E15541,Chicago,IL,2671,589,middle,metro,east
+E16734,Chicago,IL,2671,589,middle,metro,east
+E16706,San Antonio,TX,1598,1291,middle,other,south
+E17070,New York,NY,8177,778,big,metro,east
+E12962,Houston,TX,2325,1658,middle,other,south
+E13273,Houston,TX,2325,1658,middle,other,south
+E17736,San Antonio,TX,1598,1291,middle,other,south
+E15472,New York,NY,8177,778,big,metro,east
+E16582,San Diego,CA,1429,844,middle,sightseeing,west
+E17747,Houston,TX,2325,1658,middle,other,south
+E15396,New York,NY,8177,778,big,metro,east
+E14533,Los Angeles,CA,3985,1216,middle,metro,west
+E16828,Los Angeles,CA,3985,1216,middle,metro,west
+E14712,New York,NY,8177,778,big,metro,east
+E12991,Houston,TX,2325,1658,middle,other,south
+E14772,Las Vegas,NV,675,367,small,sightseeing,west
+E12968,New York,NY,8177,778,big,metro,east
+E16330,San Antonio,TX,1598,1291,middle,other,south
+E15701,Phoenix,AZ,1759,1341,middle,other,west
+E14529,San Diego,CA,1429,844,middle,sightseeing,west
+E16536,Los Angeles,CA,3985,1216,middle,metro,west
+E15313,Los Angeles,CA,3985,1216,middle,metro,west
+E15801,Los Angeles,CA,3985,1216,middle,metro,west
+E16201,New York,NY,8177,778,big,metro,east
+E16555,Philadelphia,PA,1585,348,middle,other,east
+E16952,New York,NY,8177,778,big,metro,east
+E14387,Los Angeles,CA,3985,1216,middle,metro,west
+E17073,Houston,TX,2325,1658,middle,other,south
+E17041,Los Angeles,CA,3985,1216,middle,metro,west
+E18147,Houston,TX,2325,1658,middle,other,south
+E14523,New York,NY,8177,778,big,metro,east
+E14418,New York,NY,8177,778,big,metro,east
+E16968,Philadelphia,PA,1585,348,middle,other,east
+E16723,Dallas,TX,1348,879,middle,other,south
+E13411,Honolulu,HI,339,156,small,sightseeing,other
+E16340,New York,NY,8177,778,big,metro,east
+E13236,New York,NY,8177,778,big,metro,east
+E14196,New York,NY,8177,778,big,metro,east
+E15263,San Diego,CA,1429,844,middle,sightseeing,west
+E14314,Philadelphia,PA,1585,348,middle,other,east
+E16093,San Jose,CA,1003,461,middle,sightseeing,west
+E14687,Houston,TX,2325,1658,middle,other,south
+E14050,Philadelphia,PA,1585,348,middle,other,east
+E16429,San Diego,CA,1429,844,middle,sightseeing,west
+E15950,New York,NY,8177,778,big,metro,east
+E14055,New York,NY,8177,778,big,metro,east
+E15663,Los Angeles,CA,3985,1216,middle,metro,west
+E18200,New York,NY,8177,778,big,metro,east
+E17189,New York,NY,8177,778,big,metro,east
+E18167,Los Angeles,CA,3985,1216,middle,metro,west
+E13644,Chicago,IL,2671,589,middle,metro,east
+E17451,Philadelphia,PA,1585,348,middle,other,east
+E16641,San Antonio,TX,1598,1291,middle,other,south
+E14141,Los Angeles,CA,3985,1216,middle,metro,west
+E15074,Los Angeles,CA,3985,1216,middle,metro,west
+E17183,Los Angeles,CA,3985,1216,middle,metro,west
+E15325,Los Angeles,CA,3985,1216,middle,metro,west
+E13778,Dallas,TX,1348,879,middle,other,south
+E14869,Chicago,IL,2671,589,middle,metro,east
+E14096,Chicago,IL,2671,589,middle,metro,east
+E14108,New York,NY,8177,778,big,metro,east
+E15866,Philadelphia,PA,1585,348,middle,other,east
+E14660,Los Angeles,CA,3985,1216,middle,metro,west
+E16083,Houston,TX,2325,1658,middle,other,south
+E13726,New York,NY,8177,778,big,metro,east
+E15690,Dallas,TX,1348,879,middle,other,south
+E17777,New York,NY,8177,778,big,metro,east
+E16278,Dallas,TX,1348,879,middle,other,south
+E13276,New York,NY,8177,778,big,metro,east
+E13147,Las Vegas,NV,675,367,small,sightseeing,west
+E13045,San Diego,CA,1429,844,middle,sightseeing,west
+E13099,Dallas,TX,1348,879,middle,other,south
+E14420,Dallas,TX,1348,879,middle,other,south
+E14436,San Antonio,TX,1598,1291,middle,other,south
+E18027,San Antonio,TX,1598,1291,middle,other,south
+E12832,San Antonio,TX,1598,1291,middle,other,south
+E16674,New York,NY,8177,778,big,metro,east
+E16173,Las Vegas,NV,675,367,small,sightseeing,west
+E14171,Phoenix,AZ,1759,1341,middle,other,west
+E13434,New York,NY,8177,778,big,metro,east
+E16761,Dallas,TX,1348,879,middle,other,south
+E14067,New York,NY,8177,778,big,metro,east
+E13808,Los Angeles,CA,3985,1216,middle,metro,west
+E12851,Houston,TX,2325,1658,middle,other,south
+E14965,Los Angeles,CA,3985,1216,middle,metro,west
+E15136,New York,NY,8177,778,big,metro,east
+E16629,New York,NY,8177,778,big,metro,east
+E18261,New York,NY,8177,778,big,metro,east
+E15307,New York,NY,8177,778,big,metro,east
+E16820,New York,NY,8177,778,big,metro,east
+E17309,Dallas,TX,1348,879,middle,other,south
+E13211,New York,NY,8177,778,big,metro,east
+E13949,New York,NY,8177,778,big,metro,east
+E14360,New York,NY,8177,778,big,metro,east
+E16400,New York,NY,8177,778,big,metro,east
+E14208,Chicago,IL,2671,589,middle,metro,east
+E17339,Philadelphia,PA,1585,348,middle,other,east
+E13130,San Antonio,TX,1598,1291,middle,other,south
+E13210,New York,NY,8177,778,big,metro,east
+E17481,Los Angeles,CA,3985,1216,middle,metro,west
+E17573,Los Angeles,CA,3985,1216,middle,metro,west
+E14452,San Jose,CA,1003,461,middle,sightseeing,west
+E13889,New York,NY,8177,778,big,metro,east
+E15488,San Antonio,TX,1598,1291,middle,other,south
+E18222,Los Angeles,CA,3985,1216,middle,metro,west
+E13244,Houston,TX,2325,1658,middle,other,south
+E17004,New York,NY,8177,778,big,metro,east
+E13441,New York,NY,8177,778,big,metro,east
+E13823,New York,NY,8177,778,big,metro,east
+E12879,Los Angeles,CA,3985,1216,middle,metro,west
+E16603,Chicago,IL,2671,589,middle,metro,east
+E14824,New York,NY,8177,778,big,metro,east
+E16910,New York,NY,8177,778,big,metro,east
+E15652,New York,NY,8177,778,big,metro,east
+E16362,Los Angeles,CA,3985,1216,middle,metro,west
+E15035,Chicago,IL,2671,589,middle,metro,east
+E14508,San Antonio,TX,1598,1291,middle,other,south
+E13272,New York,NY,8177,778,big,metro,east
+E17317,San Antonio,TX,1598,1291,middle,other,south
+E14212,New York,NY,8177,778,big,metro,east
+E13372,New York,NY,8177,778,big,metro,east
+E18255,Las Vegas,NV,675,367,small,sightseeing,west
+E14250,New York,NY,8177,778,big,metro,east
+E14487,New York,NY,8177,778,big,metro,east
+E16796,Chicago,IL,2671,589,middle,metro,east
+E14432,New York,NY,8177,778,big,metro,east
+E15782,New York,NY,8177,778,big,metro,east
+E12883,San Antonio,TX,1598,1291,middle,other,south
+E12965,New York,NY,8177,778,big,metro,east
+E15533,New York,NY,8177,778,big,metro,east
+E18215,Phoenix,AZ,1759,1341,middle,other,west
+E18158,San Antonio,TX,1598,1291,middle,other,south
+E15392,Chicago,IL,2671,589,middle,metro,east
+E13375,Los Angeles,CA,3985,1216,middle,metro,west
+E13431,Phoenix,AZ,1759,1341,middle,other,west
+E16211,Philadelphia,PA,1585,348,middle,other,east
+E12884,Miami,FL,483,93,small,sightseeing,south
+E16141,San Antonio,TX,1598,1291,middle,other,south
+E17919,Los Angeles,CA,3985,1216,middle,metro,west
+E16360,New York,NY,8177,778,big,metro,east
+E17433,Los Angeles,CA,3985,1216,middle,metro,west
+E13704,New York,NY,8177,778,big,metro,east
+E14020,New York,NY,8177,778,big,metro,east
+E14359,San Jose,CA,1003,461,middle,sightseeing,west
+E16451,San Diego,CA,1429,844,middle,sightseeing,west
+E12940,Chicago,IL,2671,589,middle,metro,east
+E15216,Houston,TX,2325,1658,middle,other,south
+E15522,Los Angeles,CA,3985,1216,middle,metro,west
+E17037,Philadelphia,PA,1585,348,middle,other,east
+E12822,Dallas,TX,1348,879,middle,other,south
+E15343,Phoenix,AZ,1759,1341,middle,other,west
+E14753,New York,NY,8177,778,big,metro,east
+E16959,New York,NY,8177,778,big,metro,east
+E18251,Philadelphia,PA,1585,348,middle,other,east
+E13032,Los Angeles,CA,3985,1216,middle,metro,west
+E12895,San Jose,CA,1003,461,middle,sightseeing,west
+E17640,San Antonio,TX,1598,1291,middle,other,south
+E13860,New York,NY,8177,778,big,metro,east
+E18001,San Antonio,TX,1598,1291,middle,other,south
+E17728,San Diego,CA,1429,844,middle,sightseeing,west
+E15933,Philadelphia,PA,1585,348,middle,other,east
+E14284,San Jose,CA,1003,461,middle,sightseeing,west
+E17347,New York,NY,8177,778,big,metro,east
+E15103,New York,NY,8177,778,big,metro,east
+E15707,Los Angeles,CA,3985,1216,middle,metro,west
+E13430,Dallas,TX,1348,879,middle,other,south
+E13321,Houston,TX,2325,1658,middle,other,south
+E13877,Los Angeles,CA,3985,1216,middle,metro,west
+E15272,New York,NY,8177,778,big,metro,east
+E15322,San Antonio,TX,1598,1291,middle,other,south
+E17333,Los Angeles,CA,3985,1216,middle,metro,west
+E16048,Los Angeles,CA,3985,1216,middle,metro,west
+E13518,Houston,TX,2325,1658,middle,other,south
+E14306,New York,NY,8177,778,big,metro,east
+E17679,New York,NY,8177,778,big,metro,east
+E16160,San Jose,CA,1003,461,middle,sightseeing,west
+E14608,San Jose,CA,1003,461,middle,sightseeing,west
+E15573,Houston,TX,2325,1658,middle,other,south
+E14894,New York,NY,8177,778,big,metro,east
+E17434,Los Angeles,CA,3985,1216,middle,metro,west
+E15466,Phoenix,AZ,1759,1341,middle,other,west
+E18259,San Diego,CA,1429,844,middle,sightseeing,west
+E15511,New York,NY,8177,778,big,metro,east
+E17846,New York,NY,8177,778,big,metro,east
+E16189,Houston,TX,2325,1658,middle,other,south
+E15417,San Antonio,TX,1598,1291,middle,other,south
+E12995,Philadelphia,PA,1585,348,middle,other,east
+E14557,Los Angeles,CA,3985,1216,middle,metro,west
+E16108,Honolulu,HI,339,156,small,sightseeing,other
+E17144,Dallas,TX,1348,879,middle,other,south
+E16924,New York,NY,8177,778,big,metro,east
+E15099,New York,NY,8177,778,big,metro,east
+E13323,Chicago,IL,2671,589,middle,metro,east
+E14124,Chicago,IL,2671,589,middle,metro,east
+E15975,Houston,TX,2325,1658,middle,other,south
+E15523,Phoenix,AZ,1759,1341,middle,other,west
+E16878,New York,NY,8177,778,big,metro,east
+E15947,New York,NY,8177,778,big,metro,east
+E13247,San Diego,CA,1429,844,middle,sightseeing,west
+E13566,Houston,TX,2325,1658,middle,other,south
+E18194,Los Angeles,CA,3985,1216,middle,metro,west
+E16689,Chicago,IL,2671,589,middle,metro,east
+E16438,New York,NY,8177,778,big,metro,east
+E13067,Chicago,IL,2671,589,middle,metro,east
+E16460,Honolulu,HI,339,156,small,sightseeing,other
+E13325,Los Angeles,CA,3985,1216,middle,metro,west
+E13774,New York,NY,8177,778,big,metro,east
+E15504,Phoenix,AZ,1759,1341,middle,other,west
+E15500,Houston,TX,2325,1658,middle,other,south
+E17557,Philadelphia,PA,1585,348,middle,other,east
+E13228,New York,NY,8177,778,big,metro,east
+E14356,Chicago,IL,2671,589,middle,metro,east
+E13416,Los Angeles,CA,3985,1216,middle,metro,west
+E17628,Los Angeles,CA,3985,1216,middle,metro,west
+E16527,Dallas,TX,1348,879,middle,other,south
+E16428,Phoenix,AZ,1759,1341,middle,other,west
+E14236,Philadelphia,PA,1585,348,middle,other,east
+E15341,Phoenix,AZ,1759,1341,middle,other,west
+E16215,Los Angeles,CA,3985,1216,middle,metro,west
+E14164,New York,NY,8177,778,big,metro,east
+E15888,Houston,TX,2325,1658,middle,other,south
+E17564,Chicago,IL,2671,589,middle,metro,east
+E13356,Dallas,TX,1348,879,middle,other,south
+E18228,Los Angeles,CA,3985,1216,middle,metro,west
+E17415,Los Angeles,CA,3985,1216,middle,metro,west
+E13350,Philadelphia,PA,1585,348,middle,other,east
+E16627,Houston,TX,2325,1658,middle,other,south
+E17475,New York,NY,8177,778,big,metro,east
+E14951,New York,NY,8177,778,big,metro,east
+E14780,Chicago,IL,2671,589,middle,metro,east
+E14887,Philadelphia,PA,1585,348,middle,other,east
+E15351,Dallas,TX,1348,879,middle,other,south
+E15399,Los Angeles,CA,3985,1216,middle,metro,west
+E17466,Philadelphia,PA,1585,348,middle,other,east
+E16379,Houston,TX,2325,1658,middle,other,south
+E17172,Philadelphia,PA,1585,348,middle,other,east
+E15239,Las Vegas,NV,675,367,small,sightseeing,west
+E16213,San Antonio,TX,1598,1291,middle,other,south
+E15603,Chicago,IL,2671,589,middle,metro,east
+E14261,Miami,FL,483,93,small,sightseeing,south
+E15571,Los Angeles,CA,3985,1216,middle,metro,west
+E15484,San Jose,CA,1003,461,middle,sightseeing,west
+E12936,San Diego,CA,1429,844,middle,sightseeing,west
+E16236,New York,NY,8177,778,big,metro,east
+E16669,Phoenix,AZ,1759,1341,middle,other,west
+E15398,San Diego,CA,1429,844,middle,sightseeing,west
+E12906,Houston,TX,2325,1658,middle,other,south
+E17079,Phoenix,AZ,1759,1341,middle,other,west
+E14125,New York,NY,8177,778,big,metro,east
+E17163,San Antonio,TX,1598,1291,middle,other,south
+E12952,Chicago,IL,2671,589,middle,metro,east
+E13279,Las Vegas,NV,675,367,small,sightseeing,west
+E16715,New York,NY,8177,778,big,metro,east
+E13519,San Diego,CA,1429,844,middle,sightseeing,west
+E15744,San Diego,CA,1429,844,middle,sightseeing,west
+E13127,Dallas,TX,1348,879,middle,other,south
+E15714,Houston,TX,2325,1658,middle,other,south
+E17480,Phoenix,AZ,1759,1341,middle,other,west
+E15763,New York,NY,8177,778,big,metro,east
+E15075,Miami,FL,483,93,small,sightseeing,south
+E16978,Phoenix,AZ,1759,1341,middle,other,west
+E14014,Philadelphia,PA,1585,348,middle,other,east
+E16240,New York,NY,8177,778,big,metro,east
+E13336,New York,NY,8177,778,big,metro,east
+E14652,Los Angeles,CA,3985,1216,middle,metro,west
+E15807,New York,NY,8177,778,big,metro,east
+E15762,Los Angeles,CA,3985,1216,middle,metro,west
+E15475,San Jose,CA,1003,461,middle,sightseeing,west
+E15978,Los Angeles,CA,3985,1216,middle,metro,west
+E16485,New York,NY,8177,778,big,metro,east
+E13083,Houston,TX,2325,1658,middle,other,south
+E16169,Phoenix,AZ,1759,1341,middle,other,west
+E17506,Honolulu,HI,339,156,small,sightseeing,other
+E16480,Dallas,TX,1348,879,middle,other,south
+E13787,Los Angeles,CA,3985,1216,middle,metro,west
+E17006,New York,NY,8177,778,big,metro,east
+E17498,Houston,TX,2325,1658,middle,other,south
+E17131,Philadelphia,PA,1585,348,middle,other,east
+E13536,New York,NY,8177,778,big,metro,east
+E15429,New York,NY,8177,778,big,metro,east
+E17154,New York,NY,8177,778,big,metro,east
+E16594,Dallas,TX,1348,879,middle,other,south
+E16049,San Jose,CA,1003,461,middle,sightseeing,west
+E14757,Los Angeles,CA,3985,1216,middle,metro,west
+E16198,New York,NY,8177,778,big,metro,east
+E15366,Dallas,TX,1348,879,middle,other,south
+E13670,Los Angeles,CA,3985,1216,middle,metro,west
+E18066,Los Angeles,CA,3985,1216,middle,metro,west
+E14806,New York,NY,8177,778,big,metro,east
+E13429,Los Angeles,CA,3985,1216,middle,metro,west
+E15154,San Jose,CA,1003,461,middle,sightseeing,west
+E13390,Dallas,TX,1348,879,middle,other,south
+E12925,New York,NY,8177,778,big,metro,east
+E13927,New York,NY,8177,778,big,metro,east
+E18205,Chicago,IL,2671,589,middle,metro,east
+E14908,New York,NY,8177,778,big,metro,east
+E17674,Dallas,TX,1348,879,middle,other,south
+E13639,Los Angeles,CA,3985,1216,middle,metro,west
+E15958,Phoenix,AZ,1759,1341,middle,other,west
+E15492,San Antonio,TX,1598,1291,middle,other,south
+E15243,Philadelphia,PA,1585,348,middle,other,east
+E16468,New York,NY,8177,778,big,metro,east
+E15344,Los Angeles,CA,3985,1216,middle,metro,west
+E13866,New York,NY,8177,778,big,metro,east
+E16999,San Jose,CA,1003,461,middle,sightseeing,west
+E13514,New York,NY,8177,778,big,metro,east
+E13314,Los Angeles,CA,3985,1216,middle,metro,west
+E17805,Miami,FL,483,93,small,sightseeing,south
+E18278,New York,NY,8177,778,big,metro,east
+E13979,Dallas,TX,1348,879,middle,other,south
+E16181,Los Angeles,CA,3985,1216,middle,metro,west
+E15568,New York,NY,8177,778,big,metro,east
+E16354,New York,NY,8177,778,big,metro,east
+E14412,San Diego,CA,1429,844,middle,sightseeing,west
+E16119,New York,NY,8177,778,big,metro,east
+E14109,New York,NY,8177,778,big,metro,east
+E16157,Las Vegas,NV,675,367,small,sightseeing,west
+E15348,Honolulu,HI,339,156,small,sightseeing,other
+E16281,Los Angeles,CA,3985,1216,middle,metro,west
+E13924,Phoenix,AZ,1759,1341,middle,other,west
+E17950,New York,NY,8177,778,big,metro,east
+E14434,Chicago,IL,2671,589,middle,metro,east
+E13061,Philadelphia,PA,1585,348,middle,other,east
+E17513,New York,NY,8177,778,big,metro,east
+E16909,Los Angeles,CA,3985,1216,middle,metro,west
+E16650,New York,NY,8177,778,big,metro,east
+E18192,Chicago,IL,2671,589,middle,metro,east
+E17447,Philadelphia,PA,1585,348,middle,other,east
+E17427,San Antonio,TX,1598,1291,middle,other,south
+E15175,Philadelphia,PA,1585,348,middle,other,east
+E13960,New York,NY,8177,778,big,metro,east
+E17528,Phoenix,AZ,1759,1341,middle,other,west
+E16361,San Antonio,TX,1598,1291,middle,other,south
+E13886,Dallas,TX,1348,879,middle,other,south
+E13354,New York,NY,8177,778,big,metro,east
+E15050,Dallas,TX,1348,879,middle,other,south
+E13503,New York,NY,8177,778,big,metro,east
+E16653,Las Vegas,NV,675,367,small,sightseeing,west
+E16574,Chicago,IL,2671,589,middle,metro,east
+E13759,Houston,TX,2325,1658,middle,other,south
+E17813,New York,NY,8177,778,big,metro,east
+E15949,Phoenix,AZ,1759,1341,middle,other,west
+E13364,Philadelphia,PA,1585,348,middle,other,east
+E16268,Houston,TX,2325,1658,middle,other,south
+E17552,Chicago,IL,2671,589,middle,metro,east
+E18053,Philadelphia,PA,1585,348,middle,other,east
+E16101,New York,NY,8177,778,big,metro,east
+E15565,New York,NY,8177,778,big,metro,east
+E18217,Chicago,IL,2671,589,middle,metro,east
+E13954,New York,NY,8177,778,big,metro,east
+E15593,New York,NY,8177,778,big,metro,east
+E13095,New York,NY,8177,778,big,metro,east
+E15287,San Diego,CA,1429,844,middle,sightseeing,west
+E13347,New York,NY,8177,778,big,metro,east
+E15185,Houston,TX,2325,1658,middle,other,south
+E16404,New York,NY,8177,778,big,metro,east
+E16613,Phoenix,AZ,1759,1341,middle,other,west
+E16591,San Antonio,TX,1598,1291,middle,other,south
+E15774,New York,NY,8177,778,big,metro,east
+E13558,New York,NY,8177,778,big,metro,east
+E16930,Dallas,TX,1348,879,middle,other,south
+E16533,New York,NY,8177,778,big,metro,east
+E18059,New York,NY,8177,778,big,metro,east
+E14488,Chicago,IL,2671,589,middle,metro,east
+E16747,Phoenix,AZ,1759,1341,middle,other,west
+E14333,San Jose,CA,1003,461,middle,sightseeing,west
+E13635,Phoenix,AZ,1759,1341,middle,other,west
+E17330,Dallas,TX,1348,879,middle,other,south
+E17321,Dallas,TX,1348,879,middle,other,south
+E14815,Chicago,IL,2671,589,middle,metro,east
+E15091,Los Angeles,CA,3985,1216,middle,metro,west
+E15088,New York,NY,8177,778,big,metro,east
+E15930,Phoenix,AZ,1759,1341,middle,other,west
+E16183,New York,NY,8177,778,big,metro,east
+E13297,New York,NY,8177,778,big,metro,east
+E15111,New York,NY,8177,778,big,metro,east
+E13801,Los Angeles,CA,3985,1216,middle,metro,west
+E16881,New York,NY,8177,778,big,metro,east
+E17014,Los Angeles,CA,3985,1216,middle,metro,west
+E15255,San Diego,CA,1429,844,middle,sightseeing,west
+E14184,San Diego,CA,1429,844,middle,sightseeing,west
+E13351,New York,NY,8177,778,big,metro,east
+E15739,New York,NY,8177,778,big,metro,east
+E17957,Los Angeles,CA,3985,1216,middle,metro,west
+E15276,New York,NY,8177,778,big,metro,east
+E15127,Phoenix,AZ,1759,1341,middle,other,west
+E16106,Los Angeles,CA,3985,1216,middle,metro,west
+E17666,San Antonio,TX,1598,1291,middle,other,south
+E13483,Los Angeles,CA,3985,1216,middle,metro,west
+E16478,New York,NY,8177,778,big,metro,east
+E16140,Chicago,IL,2671,589,middle,metro,east
+E17382,Los Angeles,CA,3985,1216,middle,metro,west
+E16020,Houston,TX,2325,1658,middle,other,south
+E17222,New York,NY,8177,778,big,metro,east
+E16803,Dallas,TX,1348,879,middle,other,south
+E13947,Miami,FL,483,93,small,sightseeing,south
+E16758,Miami,FL,483,93,small,sightseeing,south
+E17647,San Diego,CA,1429,844,middle,sightseeing,west
+E14054,Houston,TX,2325,1658,middle,other,south
+E14396,Houston,TX,2325,1658,middle,other,south
+E18033,Miami,FL,483,93,small,sightseeing,south
+E13845,San Jose,CA,1003,461,middle,sightseeing,west
+E15837,Honolulu,HI,339,156,small,sightseeing,other
+E13177,Phoenix,AZ,1759,1341,middle,other,west
+E14317,New York,NY,8177,778,big,metro,east
+E16295,New York,NY,8177,778,big,metro,east
+E13602,San Jose,CA,1003,461,middle,sightseeing,west
+E16895,Phoenix,AZ,1759,1341,middle,other,west
+E17295,New York,NY,8177,778,big,metro,east
+E13504,Houston,TX,2325,1658,middle,other,south
+E13422,New York,NY,8177,778,big,metro,east
+E15264,New York,NY,8177,778,big,metro,east
+E16432,Philadelphia,PA,1585,348,middle,other,east
+E14518,New York,NY,8177,778,big,metro,east
+E13882,Los Angeles,CA,3985,1216,middle,metro,west
+E15937,San Jose,CA,1003,461,middle,sightseeing,west
+E12923,New York,NY,8177,778,big,metro,east
+E17453,New York,NY,8177,778,big,metro,east
+E15766,San Antonio,TX,1598,1291,middle,other,south
+E15300,New York,NY,8177,778,big,metro,east
+E13348,San Antonio,TX,1598,1291,middle,other,south
+E14592,Miami,FL,483,93,small,sightseeing,south
+E14792,Chicago,IL,2671,589,middle,metro,east
+E17030,Chicago,IL,2671,589,middle,metro,east
+E14427,Houston,TX,2325,1658,middle,other,south
+E13359,New York,NY,8177,778,big,metro,east
+E14138,New York,NY,8177,778,big,metro,east
+E15297,Los Angeles,CA,3985,1216,middle,metro,west
+E13876,Phoenix,AZ,1759,1341,middle,other,west
+E17086,New York,NY,8177,778,big,metro,east
+E13806,Phoenix,AZ,1759,1341,middle,other,west
+E18096,New York,NY,8177,778,big,metro,east
+E13587,Las Vegas,NV,675,367,small,sightseeing,west
+E12856,Phoenix,AZ,1759,1341,middle,other,west
+E13419,New York,NY,8177,778,big,metro,east
+E17509,Philadelphia,PA,1585,348,middle,other,east
+E16900,New York,NY,8177,778,big,metro,east
+E13689,San Antonio,TX,1598,1291,middle,other,south
+E13755,Phoenix,AZ,1759,1341,middle,other,west
+E16104,Los Angeles,CA,3985,1216,middle,metro,west
+E13259,Los Angeles,CA,3985,1216,middle,metro,west
+E16248,San Jose,CA,1003,461,middle,sightseeing,west
+E15612,Los Angeles,CA,3985,1216,middle,metro,west
+E15787,San Diego,CA,1429,844,middle,sightseeing,west
+E16595,Los Angeles,CA,3985,1216,middle,metro,west
+E13260,San Jose,CA,1003,461,middle,sightseeing,west
+E15821,San Antonio,TX,1598,1291,middle,other,south
+E18088,Las Vegas,NV,675,367,small,sightseeing,west
+E16685,Las Vegas,NV,675,367,small,sightseeing,west
+E13193,San Antonio,TX,1598,1291,middle,other,south
+E13212,Phoenix,AZ,1759,1341,middle,other,west
+E14801,New York,NY,8177,778,big,metro,east
+E16380,Los Angeles,CA,3985,1216,middle,metro,west
+E16921,Los Angeles,CA,3985,1216,middle,metro,west
+E13697,San Diego,CA,1429,844,middle,sightseeing,west
+E13028,New York,NY,8177,778,big,metro,east
+E14345,Chicago,IL,2671,589,middle,metro,east
+E16648,New York,NY,8177,778,big,metro,east
+E16164,Los Angeles,CA,3985,1216,middle,metro,west
+E17503,Los Angeles,CA,3985,1216,middle,metro,west
+E16830,New York,NY,8177,778,big,metro,east
+E17495,New York,NY,8177,778,big,metro,east
+E14485,Chicago,IL,2671,589,middle,metro,east
+E13868,Chicago,IL,2671,589,middle,metro,east
+E17812,Chicago,IL,2671,589,middle,metro,east
+E15423,Phoenix,AZ,1759,1341,middle,other,west
+E17668,New York,NY,8177,778,big,metro,east
+E16971,Chicago,IL,2671,589,middle,metro,east
+E16352,Chicago,IL,2671,589,middle,metro,east
+E16884,Phoenix,AZ,1759,1341,middle,other,west
+E15830,Houston,TX,2325,1658,middle,other,south
+E14216,Houston,TX,2325,1658,middle,other,south
+E15275,Houston,TX,2325,1658,middle,other,south
+E16790,San Jose,CA,1003,461,middle,sightseeing,west
+E15576,Philadelphia,PA,1585,348,middle,other,east
+E18105,New York,NY,8177,778,big,metro,east
+E14673,Los Angeles,CA,3985,1216,middle,metro,west
+E18164,New York,NY,8177,778,big,metro,east
+E14974,Chicago,IL,2671,589,middle,metro,east
+E17947,Los Angeles,CA,3985,1216,middle,metro,west
+E16367,Los Angeles,CA,3985,1216,middle,metro,west
+E13318,Chicago,IL,2671,589,middle,metro,east
+E14102,Los Angeles,CA,3985,1216,middle,metro,west
+E18104,Philadelphia,PA,1585,348,middle,other,east
+E13271,New York,NY,8177,778,big,metro,east
+E17999,Houston,TX,2325,1658,middle,other,south
+E17595,San Antonio,TX,1598,1291,middle,other,south
+E14528,San Antonio,TX,1598,1291,middle,other,south
+E17432,Phoenix,AZ,1759,1341,middle,other,west
+E16337,Miami,FL,483,93,small,sightseeing,south
+E14098,Las Vegas,NV,675,367,small,sightseeing,west
+E15551,New York,NY,8177,778,big,metro,east
+E16347,Houston,TX,2325,1658,middle,other,south
+E13721,New York,NY,8177,778,big,metro,east
+E16322,New York,NY,8177,778,big,metro,east
+E15814,Phoenix,AZ,1759,1341,middle,other,west
+E14856,New York,NY,8177,778,big,metro,east
+E14723,New York,NY,8177,778,big,metro,east
+E17403,San Antonio,TX,1598,1291,middle,other,south
+E16914,Dallas,TX,1348,879,middle,other,south
+E16602,Chicago,IL,2671,589,middle,metro,east
+E13914,San Diego,CA,1429,844,middle,sightseeing,west
+E13467,New York,NY,8177,778,big,metro,east
+E17221,Philadelphia,PA,1585,348,middle,other,east
+E17078,Philadelphia,PA,1585,348,middle,other,east
+E14150,New York,NY,8177,778,big,metro,east
+E14629,Phoenix,AZ,1759,1341,middle,other,west
+E13447,San Jose,CA,1003,461,middle,sightseeing,west
+E17203,Chicago,IL,2671,589,middle,metro,east
+E12944,New York,NY,8177,778,big,metro,east
+E18035,Philadelphia,PA,1585,348,middle,other,east
+E15010,Los Angeles,CA,3985,1216,middle,metro,west
+E18022,San Jose,CA,1003,461,middle,sightseeing,west
+E16318,San Diego,CA,1429,844,middle,sightseeing,west
+E15468,Phoenix,AZ,1759,1341,middle,other,west
+E15598,New York,NY,8177,778,big,metro,east
+E17274,Houston,TX,2325,1658,middle,other,south
+E15345,Los Angeles,CA,3985,1216,middle,metro,west
+E15597,New York,NY,8177,778,big,metro,east
+E17233,Phoenix,AZ,1759,1341,middle,other,west
+E16887,San Antonio,TX,1598,1291,middle,other,south
+E13938,Dallas,TX,1348,879,middle,other,south
+E17084,Los Angeles,CA,3985,1216,middle,metro,west
+E13651,New York,NY,8177,778,big,metro,east
+E14971,San Diego,CA,1429,844,middle,sightseeing,west
+E14882,New York,NY,8177,778,big,metro,east
+E15017,San Jose,CA,1003,461,middle,sightseeing,west
+E12882,Phoenix,AZ,1759,1341,middle,other,west
+E17387,Chicago,IL,2671,589,middle,metro,east
+E13727,Houston,TX,2325,1658,middle,other,south
+E12838,San Jose,CA,1003,461,middle,sightseeing,west
+E13532,Los Angeles,CA,3985,1216,middle,metro,west
+E16243,Los Angeles,CA,3985,1216,middle,metro,west
+E16445,New York,NY,8177,778,big,metro,east
+E15156,Los Angeles,CA,3985,1216,middle,metro,west
+E16372,Houston,TX,2325,1658,middle,other,south
+E17608,New York,NY,8177,778,big,metro,east
+E14174,Los Angeles,CA,3985,1216,middle,metro,west
+E14039,San Antonio,TX,1598,1291,middle,other,south
+E13040,New York,NY,8177,778,big,metro,east
+E15427,New York,NY,8177,778,big,metro,east
+E14547,New York,NY,8177,778,big,metro,east
+E15883,New York,NY,8177,778,big,metro,east
+E14664,New York,NY,8177,778,big,metro,east
+E15526,San Antonio,TX,1598,1291,middle,other,south
+E17831,San Jose,CA,1003,461,middle,sightseeing,west
+E15025,Las Vegas,NV,675,367,small,sightseeing,west
+E15993,Chicago,IL,2671,589,middle,metro,east
+E17430,Phoenix,AZ,1759,1341,middle,other,west
+E17761,New York,NY,8177,778,big,metro,east
+E15870,Chicago,IL,2671,589,middle,metro,east
+E14080,Phoenix,AZ,1759,1341,middle,other,west
+E12827,Houston,TX,2325,1658,middle,other,south
+E17623,Chicago,IL,2671,589,middle,metro,east
+E16416,New York,NY,8177,778,big,metro,east
+E13673,San Antonio,TX,1598,1291,middle,other,south
+E14073,San Diego,CA,1429,844,middle,sightseeing,west
+E16070,New York,NY,8177,778,big,metro,east
+E13066,San Diego,CA,1429,844,middle,sightseeing,west
+E14929,Honolulu,HI,339,156,small,sightseeing,other
+E15330,New York,NY,8177,778,big,metro,east
+E13710,Houston,TX,2325,1658,middle,other,south
+E16732,San Antonio,TX,1598,1291,middle,other,south
+E15066,Los Angeles,CA,3985,1216,middle,metro,west
+E13329,San Jose,CA,1003,461,middle,sightseeing,west
+E17964,Miami,FL,483,93,small,sightseeing,south
+E14140,Chicago,IL,2671,589,middle,metro,east
+E17219,Chicago,IL,2671,589,middle,metro,east
+E14910,Philadelphia,PA,1585,348,middle,other,east
+E16505,Las Vegas,NV,675,367,small,sightseeing,west
+E15957,Chicago,IL,2671,589,middle,metro,east
+E18123,Las Vegas,NV,675,367,small,sightseeing,west
+E15043,Phoenix,AZ,1759,1341,middle,other,west
+E16863,Los Angeles,CA,3985,1216,middle,metro,west
+E17313,Chicago,IL,2671,589,middle,metro,east
+E16284,New York,NY,8177,778,big,metro,east
+E18216,New York,NY,8177,778,big,metro,east
+E17022,San Diego,CA,1429,844,middle,sightseeing,west
+E15153,Houston,TX,2325,1658,middle,other,south
+E16759,Dallas,TX,1348,879,middle,other,south
+E16751,San Antonio,TX,1598,1291,middle,other,south
+E12893,Chicago,IL,2671,589,middle,metro,east
+E14836,San Jose,CA,1003,461,middle,sightseeing,west
+E17011,Las Vegas,NV,675,367,small,sightseeing,west
+E17038,Dallas,TX,1348,879,middle,other,south
+E14968,San Antonio,TX,1598,1291,middle,other,south
+E16516,Phoenix,AZ,1759,1341,middle,other,west
+E13522,Houston,TX,2325,1658,middle,other,south
+E15986,Los Angeles,CA,3985,1216,middle,metro,west
+E13992,Los Angeles,CA,3985,1216,middle,metro,west
+E14354,Chicago,IL,2671,589,middle,metro,east
+E14234,San Antonio,TX,1598,1291,middle,other,south
+E16986,Phoenix,AZ,1759,1341,middle,other,west
+E16953,New York,NY,8177,778,big,metro,east
+E18274,Philadelphia,PA,1585,348,middle,other,east
+E15450,New York,NY,8177,778,big,metro,east
+E15531,Los Angeles,CA,3985,1216,middle,metro,west
+E13853,San Diego,CA,1429,844,middle,sightseeing,west
+E17636,Phoenix,AZ,1759,1341,middle,other,west
+E18130,San Antonio,TX,1598,1291,middle,other,south
+E17044,Los Angeles,CA,3985,1216,middle,metro,west
+E14121,Houston,TX,2325,1658,middle,other,south
+E14950,Los Angeles,CA,3985,1216,middle,metro,west
+E14860,Houston,TX,2325,1658,middle,other,south
+E16376,Dallas,TX,1348,879,middle,other,south
+E14804,Philadelphia,PA,1585,348,middle,other,east
+E16513,New York,NY,8177,778,big,metro,east
+E12912,San Antonio,TX,1598,1291,middle,other,south
+E15060,New York,NY,8177,778,big,metro,east
+E15028,Las Vegas,NV,675,367,small,sightseeing,west
+E15904,Los Angeles,CA,3985,1216,middle,metro,west
+E16789,New York,NY,8177,778,big,metro,east
+E15948,New York,NY,8177,778,big,metro,east
+E17350,Chicago,IL,2671,589,middle,metro,east
+E12950,New York,NY,8177,778,big,metro,east
+E17566,New York,NY,8177,778,big,metro,east
+E17942,Houston,TX,2325,1658,middle,other,south
+E14126,Dallas,TX,1348,879,middle,other,south
+E13352,Philadelphia,PA,1585,348,middle,other,east
+E13560,New York,NY,8177,778,big,metro,east
+E14594,New York,NY,8177,778,big,metro,east
+E15539,San Jose,CA,1003,461,middle,sightseeing,west
+E13017,Houston,TX,2325,1658,middle,other,south
+E14865,New York,NY,8177,778,big,metro,east
+E18174,New York,NY,8177,778,big,metro,east
+E14788,San Antonio,TX,1598,1291,middle,other,south
+E13471,Los Angeles,CA,3985,1216,middle,metro,west
+E16561,New York,NY,8177,778,big,metro,east
+E13596,New York,NY,8177,778,big,metro,east
+E13822,San Antonio,TX,1598,1291,middle,other,south
+E13153,Chicago,IL,2671,589,middle,metro,east
+E15773,New York,NY,8177,778,big,metro,east
+E17936,Chicago,IL,2671,589,middle,metro,east
+E13521,Philadelphia,PA,1585,348,middle,other,east
+E16535,Chicago,IL,2671,589,middle,metro,east
+E16988,Houston,TX,2325,1658,middle,other,south
+E16811,New York,NY,8177,778,big,metro,east
+E17254,Los Angeles,CA,3985,1216,middle,metro,west
+E15621,Los Angeles,CA,3985,1216,middle,metro,west
+E14777,New York,NY,8177,778,big,metro,east
+E16851,Los Angeles,CA,3985,1216,middle,metro,west
+E15097,Los Angeles,CA,3985,1216,middle,metro,west
+E13685,Houston,TX,2325,1658,middle,other,south
+E18015,Houston,TX,2325,1658,middle,other,south
+E16597,Los Angeles,CA,3985,1216,middle,metro,west
+E13790,New York,NY,8177,778,big,metro,east
+E13173,Los Angeles,CA,3985,1216,middle,metro,west
+E14219,San Jose,CA,1003,461,middle,sightseeing,west
+E14793,New York,NY,8177,778,big,metro,east
+E18030,Chicago,IL,2671,589,middle,metro,east
+E15274,San Jose,CA,1003,461,middle,sightseeing,west
+E17383,Phoenix,AZ,1759,1341,middle,other,west
+E13255,San Diego,CA,1429,844,middle,sightseeing,west
+E16015,New York,NY,8177,778,big,metro,east
+E15992,New York,NY,8177,778,big,metro,east
+E15318,Phoenix,AZ,1759,1341,middle,other,west
+E18005,San Diego,CA,1429,844,middle,sightseeing,west
+E17914,New York,NY,8177,778,big,metro,east
+E17290,Los Angeles,CA,3985,1216,middle,metro,west
+E16528,New York,NY,8177,778,big,metro,east
+E16313,San Jose,CA,1003,461,middle,sightseeing,west
+E17119,Chicago,IL,2671,589,middle,metro,east
+E15822,New York,NY,8177,778,big,metro,east
+E16569,Los Angeles,CA,3985,1216,middle,metro,west
+E18154,Philadelphia,PA,1585,348,middle,other,east
+E14578,New York,NY,8177,778,big,metro,east
+E17835,Dallas,TX,1348,879,middle,other,south
+E16000,Houston,TX,2325,1658,middle,other,south
+E15195,Houston,TX,2325,1658,middle,other,south
+E17232,San Antonio,TX,1598,1291,middle,other,south
+E14087,New York,NY,8177,778,big,metro,east
+E17590,New York,NY,8177,778,big,metro,east
+E14904,Los Angeles,CA,3985,1216,middle,metro,west
+E16368,Philadelphia,PA,1585,348,middle,other,east
+E14204,San Jose,CA,1003,461,middle,sightseeing,west
+E15471,New York,NY,8177,778,big,metro,east
+E15525,Los Angeles,CA,3985,1216,middle,metro,west
+E14251,Phoenix,AZ,1759,1341,middle,other,west
+E13436,Phoenix,AZ,1759,1341,middle,other,west
+E15520,Los Angeles,CA,3985,1216,middle,metro,west
+E15877,San Antonio,TX,1598,1291,middle,other,south
+E14698,Las Vegas,NV,675,367,small,sightseeing,west
+E13298,San Diego,CA,1429,844,middle,sightseeing,west
+E14569,New York,NY,8177,778,big,metro,east
+E16688,Phoenix,AZ,1759,1341,middle,other,west
+E12985,Los Angeles,CA,3985,1216,middle,metro,west
